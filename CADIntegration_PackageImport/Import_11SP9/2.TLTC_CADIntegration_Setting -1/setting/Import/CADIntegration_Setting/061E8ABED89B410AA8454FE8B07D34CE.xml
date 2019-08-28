@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="CADIntegration_Setting" id="061E8ABED89B410AA8454FE8B07D34CE" action="add">
+  <cn_description>零件</cn_description>
+  <cn_file_ext>.par</cn_file_ext>
+  <cn_treesmallicon>4</cn_treesmallicon>
+  <authoring_tool>Solid Edge</authoring_tool>
+  <classification>Mechanical/Part</classification>
+  <Relationships></Relationships>
+ </Item>
+</AML>

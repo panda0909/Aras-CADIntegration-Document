@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="5F0FE68372ED46DF8E840F3617176C3C" action="add">
+  <en>Please checkout cad</en>
+  <item_number>msg_028</item_number>
+  <name />
+  <type>Message</type>
+  <zh_cn>请先签出图档</zh_cn>
+  <zh_tw>請先簽出圖檔</zh_tw>
+ </Item>
+</AML>

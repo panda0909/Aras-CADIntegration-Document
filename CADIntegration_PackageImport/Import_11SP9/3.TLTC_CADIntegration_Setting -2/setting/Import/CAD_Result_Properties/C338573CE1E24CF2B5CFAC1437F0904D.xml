@@ -1,0 +1,9 @@
+﻿<AML>
+ <Item type="CAD_Result_Properties" id="C338573CE1E24CF2B5CFAC1437F0904D" action="add">
+  <cn_property keyed_name="item_number" type="Property">1BF8C96521A94CB0B658C2EE08C1C871</cn_property>
+  <is_result>1</is_result>
+  <is_search>1</is_search>
+  <sort_order>128</sort_order>
+  <source_id keyed_name="SolidWorks Mechanical/Drawing" type="CADIntegration_Setting">8A1BC01C8F554DF5AC2FEC644251D624</source_id>
+ </Item>
+</AML>

@@ -1,0 +1,373 @@
+Login successfully
+Login :admin
+Server   :http://localhost/DevSp9
+Database :InnovatorSolutions
+         ****Export tltc.cad.integration****
+start of execution : 2018/12/21 下午 02:50:36
+Item id :D5E6FAD349704AB8A919CA4A76AB19DA  keyed_name : D5E6FAD349704AB8A919CA4A76AB19DA   type : Value successfully exported
+Item id :C0EA6D805BEE4A94B0F725E4B279C8CE  keyed_name : CADIntegration_Changeflow_Pro   type : ItemType successfully exported
+Item id :A6CCAEC9FCCA4BF2AB608362AE22DCAD  keyed_name : CAD_Configuration   type : ItemType successfully exported
+Item id :71E53026DA6741A38741C3240F376C6A  keyed_name : 71E53026DA6741A38741C3240F376C6A   type : Value successfully exported
+Item id :83E142DEDB53411BB3B6709FF0932477  keyed_name : CADIntegration_GetItemtypeDataBy   type : Method successfully exported
+Item id :40ACC3B536E84DAEB8CC0AA4FC7F5DA5  keyed_name : CADIntegration_Bug   type : ItemType successfully exported
+Item id :9B03CC03CB2140658B09BEE47708BB76  keyed_name : CADIntegration_ChangeFlow   type : ItemType successfully exported
+Item id :E350CA717AB146E08B4284A7151B32E5  keyed_name : CADIntegration_SystemSettingForm   type : Method successfully exported
+Item id :3A0B55355DB24C03AD7845E36D0AFC30  keyed_name : ProgramUpdate   type : ItemType successfully exported
+Item id :7FF2384A47504929B93EF77C9E1ECE70  keyed_name : CAD_Result_Properties   type : RelationshipType successfully exported
+Item id :CB5C7DEB95F749709209FDB110717281  keyed_name : CADIntegration_Setting   type : ItemType successfully exported
+Item id :209F9EB0E3E1440FB6C93B6B44688888  keyed_name : CADIntegration_Admin   type : ItemType successfully exported
+Item id :36EA18C4E531493AA0A3EC99C710DDB8  keyed_name : CADIntegration_SystemSetting   type : Form successfully exported
+Item id :2A20A724F78B4BAB906F767DE43FD7F6  keyed_name : 2A20A724F78B4BAB906F767DE43FD7F6   type : Value successfully exported
+Item id :07E49AC0013D42C198BB8B00C1BB6DF0  keyed_name : AutoCAD_PlotSetting   type : RelationshipType successfully exported
+Item id :381776C2671646739F6A4250BCB1F605  keyed_name : CAD_Configuration_List   type : ItemType successfully exported
+Item id :914BE75305714B9CBB87DE7500EF43AB  keyed_name : CADIntegration_SystemSetting   type : Method successfully exported
+Item id :5CDC101423E04493B311BA4506531F9C  keyed_name : CAD_Mapping_Properties   type : RelationshipType successfully exported
+Item id :5446D50A449E4EEE948494C1E98BFA58  keyed_name : MessageIntegration   type : ItemType successfully exported
+Item id :046401394A4C4BFE99C1B06A0DB58330  keyed_name : tltcGetItemNumber   type : Method successfully exported
+Item id :3FAB8E8F6B1F47BD938680AC13985DC4  keyed_name : CADIntegration_SetProperty   type : Method successfully exported
+end of execution : 12/21/2018 14:50:44
+         ****Export tltc.cad.setting****
+start of execution : 2018/12/21 下午 02:51:14
+Item id :1BF0217384DB4F1DB537C5DD36BD128F  keyed_name : 1BF0217384DB4F1DB537C5DD36BD128F   type : MessageIntegration successfully exported
+Item id :3E4F5CFADB2C420F91D503C7EFF0941D  keyed_name : 3E4F5CFADB2C420F91D503C7EFF0941D   type : MessageIntegration successfully exported
+Item id :5D7BBE6BC2D54114A160B8123BCBB275  keyed_name : 5D7BBE6BC2D54114A160B8123BCBB275   type : MessageIntegration successfully exported
+Item id :909769BBFE464456B4E21E971D35E747  keyed_name : 909769BBFE464456B4E21E971D35E747   type : MessageIntegration successfully exported
+Item id :902C6BD266454E588F378DD894B34686  keyed_name : 902C6BD266454E588F378DD894B34686   type : MessageIntegration successfully exported
+Item id :F919B230B05B4D0CA826EC2BAD61F85D  keyed_name : F919B230B05B4D0CA826EC2BAD61F85D   type : MessageIntegration successfully exported
+Item id :914AC3A622ED4442AE7C5AC7F70A7F12  keyed_name : 914AC3A622ED4442AE7C5AC7F70A7F12   type : MessageIntegration successfully exported
+Item id :FB25E2F2AD7B48DE91999A5F2917D65D  keyed_name : FB25E2F2AD7B48DE91999A5F2917D65D   type : MessageIntegration successfully exported
+Item id :3E4ABEFEC49B43F3BBD4AAD3DC514807  keyed_name : 3E4ABEFEC49B43F3BBD4AAD3DC514807   type : MessageIntegration successfully exported
+Item id :8357EF4B94C74AAD96B60A00A6434134  keyed_name : 8357EF4B94C74AAD96B60A00A6434134   type : MessageIntegration successfully exported
+Item id :11EBF5DA672F4246816FFDD10192317F  keyed_name : 11EBF5DA672F4246816FFDD10192317F   type : MessageIntegration successfully exported
+Item id :776DEA62BF4C48C28FCB0483A273BE8E  keyed_name : 776DEA62BF4C48C28FCB0483A273BE8E   type : MessageIntegration successfully exported
+Item id :E3716145F0B049DFB7F85A269833EDD1  keyed_name : SolidWorks Mechanical/Part   type : CADIntegration_Setting successfully exported
+Item id :BEC633EF2CC448D79AE7D7FC53ABF310  keyed_name : BEC633EF2CC448D79AE7D7FC53ABF310   type : MessageIntegration successfully exported
+Item id :142E78512B6D4042BBA5B726FF22E28D  keyed_name : 142E78512B6D4042BBA5B726FF22E28D   type : MessageIntegration successfully exported
+Item id :55AAA122322A4C80A39DF632C4511A86  keyed_name : 55AAA122322A4C80A39DF632C4511A86   type : MessageIntegration successfully exported
+Item id :9B0BE91B39564219B2E2322F8088C4BD  keyed_name : 9B0BE91B39564219B2E2322F8088C4BD   type : MessageIntegration successfully exported
+Item id :26133A31F76249B0979886A18229878C  keyed_name : 26133A31F76249B0979886A18229878C   type : MessageIntegration successfully exported
+Item id :5120D9CB71524FECBE4F6A5DB2DD100B  keyed_name : 5120D9CB71524FECBE4F6A5DB2DD100B   type : MessageIntegration successfully exported
+Item id :69A49B0005D04B34BADC21AFD14701AC  keyed_name : 69A49B0005D04B34BADC21AFD14701AC   type : MessageIntegration successfully exported
+Item id :53172E3739AD44779CF775E1B748CA05  keyed_name : 53172E3739AD44779CF775E1B748CA05   type : MessageIntegration successfully exported
+Item id :1444E0952CA341BB84396D545B0C45BA  keyed_name : 1444E0952CA341BB84396D545B0C45BA   type : MessageIntegration successfully exported
+Item id :A54FD7CE79B043ADA555704B1E007E24  keyed_name : Solid Edge Mechanical/Assembly   type : CADIntegration_Setting successfully exported
+Item id :F8364A4F33D64D139E16F3EF0289E7DF  keyed_name : F8364A4F33D64D139E16F3EF0289E7DF   type : MessageIntegration successfully exported
+Item id :2B608775C6114F29991634627E24C878  keyed_name : 2B608775C6114F29991634627E24C878   type : MessageIntegration successfully exported
+Item id :3FACCF25E3F64C53AD8330ECAB5EE72F  keyed_name : 3FACCF25E3F64C53AD8330ECAB5EE72F   type : CADIntegration_Admin successfully exported
+Item id :F83CF1D4458B404FB9CC6605ED784BD9  keyed_name : F83CF1D4458B404FB9CC6605ED784BD9   type : MessageIntegration successfully exported
+Item id :BECBF5D92E574567BCD413D097FED79F  keyed_name : BECBF5D92E574567BCD413D097FED79F   type : MessageIntegration successfully exported
+Item id :B5118E74FF244E44A2EF121F0B92055A  keyed_name : B5118E74FF244E44A2EF121F0B92055A   type : MessageIntegration successfully exported
+Item id :7D4820DBA3D64B309CA9054F2A0C60AB  keyed_name : 7D4820DBA3D64B309CA9054F2A0C60AB   type : MessageIntegration successfully exported
+Item id :A5F854ED4720457F8A292051C1BA6DA8  keyed_name : A5F854ED4720457F8A292051C1BA6DA8   type : MessageIntegration successfully exported
+Item id :A112C0F26F104DCD8C3E6B4EFBB1B390  keyed_name : A112C0F26F104DCD8C3E6B4EFBB1B390   type : MessageIntegration successfully exported
+Item id :48E96806446E4B31AE8CC23294042188  keyed_name : 48E96806446E4B31AE8CC23294042188   type : MessageIntegration successfully exported
+Item id :D18954A2623040EC900F09D905128DF4  keyed_name : D18954A2623040EC900F09D905128DF4   type : MessageIntegration successfully exported
+Item id :7016C5BA7EAF443582AC57FFB655D987  keyed_name : SolidWorks Mechanical/Assembly   type : CADIntegration_Setting successfully exported
+Item id :4668205E57C6424F9D0E628257896A19  keyed_name : 4668205E57C6424F9D0E628257896A19   type : MessageIntegration successfully exported
+Item id :F98C4C0EFBED480BAE5C24375114F19D  keyed_name : F98C4C0EFBED480BAE5C24375114F19D   type : MessageIntegration successfully exported
+Item id :17A1F6BADAC24471ACE661D2C0DC9C13  keyed_name : 17A1F6BADAC24471ACE661D2C0DC9C13   type : MessageIntegration successfully exported
+Item id :061E8ABED89B410AA8454FE8B07D34CE  keyed_name : Solid Edge Mechanical/Part   type : CADIntegration_Setting successfully exported
+Item id :025F5E25C3E249A5A101E6A6E7EE6E14  keyed_name : 025F5E25C3E249A5A101E6A6E7EE6E14   type : MessageIntegration successfully exported
+Item id :8062B8791F1843EB962867D9B8F0136C  keyed_name : 8062B8791F1843EB962867D9B8F0136C   type : MessageIntegration successfully exported
+Item id :04F14437303E496EAEE44F328B76958F  keyed_name : 04F14437303E496EAEE44F328B76958F   type : MessageIntegration successfully exported
+Item id :232411FCCA624DF8BDF7AE48E9F70EFB  keyed_name : 232411FCCA624DF8BDF7AE48E9F70EFB   type : MessageIntegration successfully exported
+Item id :8ABAD84FE49E4EA084FDCBBDB73FB772  keyed_name : 8ABAD84FE49E4EA084FDCBBDB73FB772   type : MessageIntegration successfully exported
+Item id :707683378FD840CCBB6060882C2919D2  keyed_name : AutoCAD Mechanical/Drawing   type : CADIntegration_Setting successfully exported
+Item id :ED823F940F064173BC0D4D33952B840D  keyed_name : ED823F940F064173BC0D4D33952B840D   type : MessageIntegration successfully exported
+Item id :423550602ED049E39E748B5BF7F78D03  keyed_name : 423550602ED049E39E748B5BF7F78D03   type : MessageIntegration successfully exported
+Item id :A77426F3AA9341A6986319B3096A867C  keyed_name : A77426F3AA9341A6986319B3096A867C   type : MessageIntegration successfully exported
+Item id :FEC65766D9474F7DB4E79561ADAC6F42  keyed_name : FEC65766D9474F7DB4E79561ADAC6F42   type : MessageIntegration successfully exported
+Item id :7A89B910192546F7842B8DEFEB9A2C0B  keyed_name : Solid Edge Mechanical/Drawing   type : CADIntegration_Setting successfully exported
+Item id :EFFBA9F112E34A7C9DD9E24A3D663729  keyed_name : EFFBA9F112E34A7C9DD9E24A3D663729   type : MessageIntegration successfully exported
+Item id :2C60D08D814642B59113BD444B775686  keyed_name : 2C60D08D814642B59113BD444B775686   type : MessageIntegration successfully exported
+Item id :C58D3CC345074D7490A4F9AA7BB94AF7  keyed_name : C58D3CC345074D7490A4F9AA7BB94AF7   type : MessageIntegration successfully exported
+Item id :13EA2E3EE7B04BF498DC9D5513FC5D76  keyed_name : 13EA2E3EE7B04BF498DC9D5513FC5D76   type : MessageIntegration successfully exported
+Item id :389E6C6F92E34312849241E80DA0FA47  keyed_name : 389E6C6F92E34312849241E80DA0FA47   type : MessageIntegration successfully exported
+Item id :F3CDE2D018EA460A9CD5C3A9CE8244C0  keyed_name : F3CDE2D018EA460A9CD5C3A9CE8244C0   type : MessageIntegration successfully exported
+Item id :AE5F91AD3C8F4E78A38C6B089531BD95  keyed_name : AE5F91AD3C8F4E78A38C6B089531BD95   type : MessageIntegration successfully exported
+Item id :737DB2E564AB48E5B213DD2A78950754  keyed_name : 737DB2E564AB48E5B213DD2A78950754   type : MessageIntegration successfully exported
+Item id :44929B9FAB4E405F9BAA3F994D3905B8  keyed_name : 44929B9FAB4E405F9BAA3F994D3905B8   type : CADIntegration_Admin successfully exported
+Item id :68373F4577CB413A90BBACF11B4B7BD9  keyed_name : 68373F4577CB413A90BBACF11B4B7BD9   type : MessageIntegration successfully exported
+Item id :DFD1027565EE4D39B2B9C60C28C5071A  keyed_name : DFD1027565EE4D39B2B9C60C28C5071A   type : MessageIntegration successfully exported
+Item id :8EB9ED4E1B614FCD881BAB16F4571951  keyed_name : 8EB9ED4E1B614FCD881BAB16F4571951   type : MessageIntegration successfully exported
+Item id :5FE46FD7D7904658A75253B25D547260  keyed_name : Solid Edge ALL   type : CADIntegration_Setting successfully exported
+Item id :321ACE56C6A641118DD6927EDD6F8AD6  keyed_name : Solid Edge Sheet Metal/Part   type : CADIntegration_Setting successfully exported
+Item id :4FBD0D2F939941ADA9E7A7867C079D4E  keyed_name : 4FBD0D2F939941ADA9E7A7867C079D4E   type : MessageIntegration successfully exported
+Item id :974F6A64981E48CFAF405AB380A2C91C  keyed_name : 974F6A64981E48CFAF405AB380A2C91C   type : CADIntegration_Admin successfully exported
+Item id :ED3AD969F885410E901E95DA1DD01766  keyed_name : ED3AD969F885410E901E95DA1DD01766   type : MessageIntegration successfully exported
+Item id :24D022A2ABCA49DF9CA0907599723B98  keyed_name : 24D022A2ABCA49DF9CA0907599723B98   type : MessageIntegration successfully exported
+Item id :3BE9956BE1564D529593D5C0B078C2F9  keyed_name : 3BE9956BE1564D529593D5C0B078C2F9   type : MessageIntegration successfully exported
+Item id :6DB959D703494E44B57F37106A238A2B  keyed_name : 6DB959D703494E44B57F37106A238A2B   type : MessageIntegration successfully exported
+Item id :0833770CE290451FA8CA1A64CD18BBA2  keyed_name : 0833770CE290451FA8CA1A64CD18BBA2   type : MessageIntegration successfully exported
+Item id :A8ADC002CD7642DA80C012C6EBECFB86  keyed_name : A8ADC002CD7642DA80C012C6EBECFB86   type : MessageIntegration successfully exported
+Item id :515EBA737D854C82816AAD99FFEDC0C1  keyed_name : 515EBA737D854C82816AAD99FFEDC0C1   type : MessageIntegration successfully exported
+Item id :9FFA2E66EABC40A7878A5DE4A86A70EF  keyed_name : 9FFA2E66EABC40A7878A5DE4A86A70EF   type : MessageIntegration successfully exported
+Item id :5E7AF5725DB64CF591A83320A2818599  keyed_name : 5E7AF5725DB64CF591A83320A2818599   type : MessageIntegration successfully exported
+Item id :A84B51FEBE574E999D06DBE9883AD67D  keyed_name : A84B51FEBE574E999D06DBE9883AD67D   type : MessageIntegration successfully exported
+Item id :A5D0F0270CD34C22A733FFF6FC20AF13  keyed_name : A5D0F0270CD34C22A733FFF6FC20AF13   type : MessageIntegration successfully exported
+Item id :5F0FE68372ED46DF8E840F3617176C3C  keyed_name : 5F0FE68372ED46DF8E840F3617176C3C   type : MessageIntegration successfully exported
+Item id :6D9CF86C9BFF426BA479C727FDAD4C73  keyed_name : 6D9CF86C9BFF426BA479C727FDAD4C73   type : MessageIntegration successfully exported
+Item id :657A1C4383AB4C2CAFA8C6F263D0B057  keyed_name : 657A1C4383AB4C2CAFA8C6F263D0B057   type : MessageIntegration successfully exported
+Item id :095E7EF01896458FB4A1E4D57F568E57  keyed_name : 095E7EF01896458FB4A1E4D57F568E57   type : MessageIntegration successfully exported
+Item id :277DC0D83A484D8395FD82BFA8E2CA00  keyed_name : 277DC0D83A484D8395FD82BFA8E2CA00   type : MessageIntegration successfully exported
+Item id :8A1BC01C8F554DF5AC2FEC644251D624  keyed_name : SolidWorks Mechanical/Drawing   type : CADIntegration_Setting successfully exported
+Item id :06D8DD03F2BC4805B511212ACA569F07  keyed_name : 06D8DD03F2BC4805B511212ACA569F07   type : MessageIntegration successfully exported
+
+ --- REMOVED REFERENCE ---
+From:	[tltc.cad.setting].[CADIntegration_Setting].Solid Edge Mechanical/Drawing
+To:	all items of type [CAD_Mapping_Properties]
+Reason:	The item contains a reference to an item of type that belongs to an unknown package (i.e. neither a core package nor a package that the package depends on)
+
+ --- REMOVED REFERENCE ---
+From:	[tltc.cad.setting].[CADIntegration_Setting].SolidWorks Mechanical/Assembly
+To:	all items of type [CAD_Result_Properties]
+Reason:	The item contains a reference to an item of type that belongs to an unknown package (i.e. neither a core package nor a package that the package depends on)
+
+ --- REMOVED REFERENCE ---
+From:	[tltc.cad.setting].[CADIntegration_Setting].SolidWorks Mechanical/Part
+To:	all items of type [CAD_Mapping_Properties]
+Reason:	The item contains a reference to an item of type that belongs to an unknown package (i.e. neither a core package nor a package that the package depends on)
+
+ --- REMOVED REFERENCE ---
+From:	[tltc.cad.setting].[CADIntegration_Setting].Solid Edge ALL
+To:	all items of type [CAD_Result_Properties]
+Reason:	The item contains a reference to an item of type that belongs to an unknown package (i.e. neither a core package nor a package that the package depends on)
+
+ --- REMOVED REFERENCE ---
+From:	[tltc.cad.setting].[CADIntegration_Setting].Solid Edge Sheet Metal/Part
+To:	all items of type [CAD_Result_Properties]
+Reason:	The item contains a reference to an item of type that belongs to an unknown package (i.e. neither a core package nor a package that the package depends on)
+
+ --- REMOVED REFERENCE ---
+From:	[tltc.cad.setting].[CADIntegration_Setting].SolidWorks Mechanical/Drawing
+To:	all items of type [CAD_Mapping_Properties]
+Reason:	The item contains a reference to an item of type that belongs to an unknown package (i.e. neither a core package nor a package that the package depends on)
+
+ --- REMOVED REFERENCE ---
+From:	[tltc.cad.setting].[CADIntegration_Setting].Solid Edge Mechanical/Assembly
+To:	all items of type [CAD_Result_Properties]
+Reason:	The item contains a reference to an item of type that belongs to an unknown package (i.e. neither a core package nor a package that the package depends on)
+
+ --- REMOVED REFERENCE ---
+From:	[tltc.cad.setting].[CADIntegration_Setting].Solid Edge Mechanical/Part
+To:	all items of type [CAD_Result_Properties]
+Reason:	The item contains a reference to an item of type that belongs to an unknown package (i.e. neither a core package nor a package that the package depends on)
+
+ --- REMOVED REFERENCE ---
+From:	[tltc.cad.setting].[CADIntegration_Setting].Solid Edge Mechanical/Assembly
+To:	all items of type [CAD_Mapping_Properties]
+Reason:	The item contains a reference to an item of type that belongs to an unknown package (i.e. neither a core package nor a package that the package depends on)
+
+ --- REMOVED REFERENCE ---
+From:	[tltc.cad.setting].[CADIntegration_Setting].SolidWorks Mechanical/Assembly
+To:	all items of type [CAD_Mapping_Properties]
+Reason:	The item contains a reference to an item of type that belongs to an unknown package (i.e. neither a core package nor a package that the package depends on)
+
+ --- REMOVED REFERENCE ---
+From:	[tltc.cad.setting].[CADIntegration_Setting].AutoCAD Mechanical/Drawing
+To:	all items of type [AutoCAD_PlotSetting]
+Reason:	The item contains a reference to an item of type that belongs to an unknown package (i.e. neither a core package nor a package that the package depends on)
+
+ --- REMOVED REFERENCE ---
+From:	[tltc.cad.setting].[CADIntegration_Setting].SolidWorks Mechanical/Part
+To:	all items of type [CAD_Result_Properties]
+Reason:	The item contains a reference to an item of type that belongs to an unknown package (i.e. neither a core package nor a package that the package depends on)
+
+ --- REMOVED REFERENCE ---
+From:	[tltc.cad.setting].[CADIntegration_Setting].AutoCAD Mechanical/Drawing
+To:	all items of type [CAD_Mapping_Properties]
+Reason:	The item contains a reference to an item of type that belongs to an unknown package (i.e. neither a core package nor a package that the package depends on)
+
+ --- REMOVED REFERENCE ---
+From:	[tltc.cad.setting].[CADIntegration_Setting].SolidWorks Mechanical/Drawing
+To:	all items of type [CAD_Result_Properties]
+Reason:	The item contains a reference to an item of type that belongs to an unknown package (i.e. neither a core package nor a package that the package depends on)
+
+ --- REMOVED REFERENCE ---
+From:	[tltc.cad.setting].[CADIntegration_Setting].Solid Edge Mechanical/Drawing
+To:	all items of type [CAD_Result_Properties]
+Reason:	The item contains a reference to an item of type that belongs to an unknown package (i.e. neither a core package nor a package that the package depends on)
+
+ --- REMOVED REFERENCE ---
+From:	[tltc.cad.setting].[CADIntegration_Setting].Solid Edge Mechanical/Part
+To:	all items of type [CAD_Mapping_Properties]
+Reason:	The item contains a reference to an item of type that belongs to an unknown package (i.e. neither a core package nor a package that the package depends on)
+
+ --- REMOVED REFERENCE ---
+From:	[tltc.cad.setting].[CADIntegration_Setting].AutoCAD Mechanical/Drawing
+To:	all items of type [CAD_Result_Properties]
+Reason:	The item contains a reference to an item of type that belongs to an unknown package (i.e. neither a core package nor a package that the package depends on)
+
+ --- REMOVED REFERENCE ---
+From:	[tltc.cad.setting].[CADIntegration_Setting].Solid Edge Sheet Metal/Part
+To:	all items of type [CAD_Mapping_Properties]
+Reason:	The item contains a reference to an item of type that belongs to an unknown package (i.e. neither a core package nor a package that the package depends on)
+end of execution : 12/21/2018 14:51:18
+         ****Export tltc.cad.setting****
+start of execution : 2018/12/21 下午 02:51:49
+Item id :A28836D3ACF54BEE8D5F1F11357C903A  keyed_name : A28836D3ACF54BEE8D5F1F11357C903A   type : CAD_Result_Properties successfully exported
+Item id :1CB658F415EF4016978C6E698F5028E5  keyed_name : 1CB658F415EF4016978C6E698F5028E5   type : CAD_Mapping_Properties successfully exported
+Item id :65882CF410564C2F9DE5429A55F169D8  keyed_name : 65882CF410564C2F9DE5429A55F169D8   type : CAD_Mapping_Properties successfully exported
+Item id :CB33EF71158E4F5294C05410777C4533  keyed_name : CB33EF71158E4F5294C05410777C4533   type : CAD_Mapping_Properties successfully exported
+Item id :A933642F14954412B65D7719CA4EEA84  keyed_name : A933642F14954412B65D7719CA4EEA84   type : CAD_Mapping_Properties successfully exported
+Item id :39896E1CC0A241468288B749EDD97103  keyed_name : 39896E1CC0A241468288B749EDD97103   type : CAD_Mapping_Properties successfully exported
+Item id :EE107A2C49334E719A4114685A3D5142  keyed_name : EE107A2C49334E719A4114685A3D5142   type : CAD_Mapping_Properties successfully exported
+Item id :19094081315B4AC6BDDD3B170ED5387E  keyed_name : 19094081315B4AC6BDDD3B170ED5387E   type : CAD_Mapping_Properties successfully exported
+Item id :48DC0DC212794199A6D4570E54DFC858  keyed_name : 48DC0DC212794199A6D4570E54DFC858   type : CAD_Mapping_Properties successfully exported
+Item id :A42DA5FCDBCB4C0CA3B001F216ADDB29  keyed_name : A42DA5FCDBCB4C0CA3B001F216ADDB29   type : CAD_Mapping_Properties successfully exported
+Item id :0B014812022E472EB83C130387B998FE  keyed_name : 0B014812022E472EB83C130387B998FE   type : CAD_Mapping_Properties successfully exported
+Item id :6D2D157255024BACABAAA2F18B8CCC35  keyed_name : 6D2D157255024BACABAAA2F18B8CCC35   type : CAD_Result_Properties successfully exported
+Item id :096E6D3E455D446884A4B2E93E04CE4D  keyed_name : 096E6D3E455D446884A4B2E93E04CE4D   type : CAD_Result_Properties successfully exported
+Item id :FB929CDB21AF4DFD941A1672174E7251  keyed_name : FB929CDB21AF4DFD941A1672174E7251   type : CAD_Result_Properties successfully exported
+Item id :1DE17702EA78419187725BB52AC02792  keyed_name : 1DE17702EA78419187725BB52AC02792   type : CAD_Result_Properties successfully exported
+Item id :09AAD680F8EB4C4ABD90E43F6A1C95BB  keyed_name : 09AAD680F8EB4C4ABD90E43F6A1C95BB   type : CAD_Mapping_Properties successfully exported
+Item id :B47A69DF296D4DC6B1E21116435BF44C  keyed_name : B47A69DF296D4DC6B1E21116435BF44C   type : CAD_Mapping_Properties successfully exported
+Item id :53A2E95B32724BEFAD0E29CEC0F65944  keyed_name : 53A2E95B32724BEFAD0E29CEC0F65944   type : CAD_Mapping_Properties successfully exported
+Item id :5B3D809DA6954A60B9BB1FBC31415DF1  keyed_name : 5B3D809DA6954A60B9BB1FBC31415DF1   type : CAD_Result_Properties successfully exported
+Item id :376A69F4674D474EA08940EBC46F5414  keyed_name : 376A69F4674D474EA08940EBC46F5414   type : CAD_Mapping_Properties successfully exported
+Item id :9FAAF01F8EE6441F8344AF0F82E2DB98  keyed_name : 9FAAF01F8EE6441F8344AF0F82E2DB98   type : CAD_Mapping_Properties successfully exported
+Item id :085DD97A4E424A2189B0A265F34F0A46  keyed_name : 085DD97A4E424A2189B0A265F34F0A46   type : CAD_Mapping_Properties successfully exported
+Item id :6449FEC56BC64D2FB816F4AD421FACD2  keyed_name : 6449FEC56BC64D2FB816F4AD421FACD2   type : CAD_Mapping_Properties successfully exported
+Item id :72C734E73830448F9D31538571403203  keyed_name : 72C734E73830448F9D31538571403203   type : CAD_Result_Properties successfully exported
+Item id :E8695777C1E0480088413E311AD5B32B  keyed_name : E8695777C1E0480088413E311AD5B32B   type : CAD_Result_Properties successfully exported
+Item id :E2590266C0194F8E9F5EEB18C6C6DE63  keyed_name : E2590266C0194F8E9F5EEB18C6C6DE63   type : CAD_Mapping_Properties successfully exported
+Item id :77AB30FD10E644B49F6CDECB6C674152  keyed_name : 77AB30FD10E644B49F6CDECB6C674152   type : CAD_Mapping_Properties successfully exported
+Item id :BC8399DC5FA94314A724A79FD1985577  keyed_name : BC8399DC5FA94314A724A79FD1985577   type : CAD_Result_Properties successfully exported
+Item id :C34C1ECBBE454D4781C8D26BD06EAC29  keyed_name : C34C1ECBBE454D4781C8D26BD06EAC29   type : CAD_Mapping_Properties successfully exported
+Item id :30456604E7FB454FB8ACD4AFC178D6FA  keyed_name : 30456604E7FB454FB8ACD4AFC178D6FA   type : CAD_Result_Properties successfully exported
+Item id :8F5FD5BDB5BA4544B74B83B733A04EB4  keyed_name : 8F5FD5BDB5BA4544B74B83B733A04EB4   type : CAD_Mapping_Properties successfully exported
+Item id :FF8215377AF04B14B67C68ECEBECD6E0  keyed_name : FF8215377AF04B14B67C68ECEBECD6E0   type : CAD_Mapping_Properties successfully exported
+Item id :52FBDBFB5C2141D28B73C91F0FD1A458  keyed_name : 52FBDBFB5C2141D28B73C91F0FD1A458   type : CAD_Mapping_Properties successfully exported
+Item id :7364CFFA31624A3EAA37646FCC0719C8  keyed_name : 7364CFFA31624A3EAA37646FCC0719C8   type : CAD_Mapping_Properties successfully exported
+Item id :571A1346023C40D289AB4BA244E635A3  keyed_name : 571A1346023C40D289AB4BA244E635A3   type : CAD_Mapping_Properties successfully exported
+Item id :10969DE197614F20B4DAF22DB7372C4E  keyed_name : 10969DE197614F20B4DAF22DB7372C4E   type : CAD_Mapping_Properties successfully exported
+Item id :C338573CE1E24CF2B5CFAC1437F0904D  keyed_name : C338573CE1E24CF2B5CFAC1437F0904D   type : CAD_Result_Properties successfully exported
+Item id :4DF6F800056F4162BC2F7F906923CEF4  keyed_name : 4DF6F800056F4162BC2F7F906923CEF4   type : CAD_Result_Properties successfully exported
+Item id :0351CBD7DCC0495E8B39034E515B088E  keyed_name : 0351CBD7DCC0495E8B39034E515B088E   type : CAD_Result_Properties successfully exported
+Item id :6387F5EDB19C4E8AA46AF4F2E3BCDA70  keyed_name : 6387F5EDB19C4E8AA46AF4F2E3BCDA70   type : CAD_Mapping_Properties successfully exported
+Item id :8FC5B1BF0D784C82855B3C6D04BA3790  keyed_name : 8FC5B1BF0D784C82855B3C6D04BA3790   type : CAD_Mapping_Properties successfully exported
+Item id :1D715BA71713457EA1926D2E6B2415FD  keyed_name : 1D715BA71713457EA1926D2E6B2415FD   type : CAD_Mapping_Properties successfully exported
+Item id :F01CACED92C142C19D6095EA0D4BD777  keyed_name : F01CACED92C142C19D6095EA0D4BD777   type : CAD_Result_Properties successfully exported
+Item id :E16C460D3DCB4654A316FFBA6C9ECA5F  keyed_name : E16C460D3DCB4654A316FFBA6C9ECA5F   type : CAD_Mapping_Properties successfully exported
+Item id :D4768944B244413CBDFEC407ABBF4BC1  keyed_name : D4768944B244413CBDFEC407ABBF4BC1   type : CAD_Result_Properties successfully exported
+Item id :776B94D18DB548708256E22885E1962F  keyed_name : 776B94D18DB548708256E22885E1962F   type : CAD_Mapping_Properties successfully exported
+Item id :EA7ACE38EF0648ACB5C32054840847C2  keyed_name : EA7ACE38EF0648ACB5C32054840847C2   type : CAD_Mapping_Properties successfully exported
+Item id :FCEEA25CD22D46FF82F50C37CA27AC7B  keyed_name : FCEEA25CD22D46FF82F50C37CA27AC7B   type : CAD_Mapping_Properties successfully exported
+Item id :CFA9E603AFDA47729522A0131F70DAB2  keyed_name : CFA9E603AFDA47729522A0131F70DAB2   type : CAD_Mapping_Properties successfully exported
+Item id :2E8332F81C4D4D929AFBEEB5D2EFB834  keyed_name : 2E8332F81C4D4D929AFBEEB5D2EFB834   type : CAD_Result_Properties successfully exported
+Item id :151C999D40414D63AA2B6F0C2512B202  keyed_name : 151C999D40414D63AA2B6F0C2512B202   type : CAD_Mapping_Properties successfully exported
+Item id :093AF7F6085A443B95D4684789DD3BB9  keyed_name : 093AF7F6085A443B95D4684789DD3BB9   type : CAD_Mapping_Properties successfully exported
+Item id :BE0584212BC540B99B7838EA744DAAFC  keyed_name : BE0584212BC540B99B7838EA744DAAFC   type : CAD_Result_Properties successfully exported
+Item id :7049458778514C6A8BAB0F551DF706A5  keyed_name : 7049458778514C6A8BAB0F551DF706A5   type : CAD_Mapping_Properties successfully exported
+Item id :CD497D269B034234A21E8788196C50E4  keyed_name : CD497D269B034234A21E8788196C50E4   type : CAD_Mapping_Properties successfully exported
+Item id :DB038FE25DA141548933E6EEFD5E5688  keyed_name : DB038FE25DA141548933E6EEFD5E5688   type : CAD_Result_Properties successfully exported
+Item id :4CF637DD502243DCAB2EB0CCDA388309  keyed_name : 4CF637DD502243DCAB2EB0CCDA388309   type : CAD_Mapping_Properties successfully exported
+Item id :7E87E332694541DAB2FEFFFFC3F00AFE  keyed_name : 7E87E332694541DAB2FEFFFFC3F00AFE   type : CAD_Mapping_Properties successfully exported
+Item id :CED521DD25884527870C519423BCA3E5  keyed_name : CED521DD25884527870C519423BCA3E5   type : CAD_Mapping_Properties successfully exported
+Item id :596436093DD54717B5DBC6AF6BB74D13  keyed_name : 596436093DD54717B5DBC6AF6BB74D13   type : CAD_Result_Properties successfully exported
+Item id :145B4AF46C4540C192B9A5CF896F34E9  keyed_name : 145B4AF46C4540C192B9A5CF896F34E9   type : CAD_Result_Properties successfully exported
+Item id :5CB534AE1DB1481DB390A760C39B92F4  keyed_name : 5CB534AE1DB1481DB390A760C39B92F4   type : CAD_Result_Properties successfully exported
+Item id :080FC85E3FEA496BA2A5FB0099387C6F  keyed_name : 080FC85E3FEA496BA2A5FB0099387C6F   type : CAD_Mapping_Properties successfully exported
+Item id :B5CBD268137D4667B3C944FBFD784260  keyed_name : B5CBD268137D4667B3C944FBFD784260   type : CAD_Mapping_Properties successfully exported
+Item id :04ED838E805C47EB98809F2611FFBE6F  keyed_name : 04ED838E805C47EB98809F2611FFBE6F   type : CAD_Mapping_Properties successfully exported
+Item id :730A94AE1E014688917AB980AD7241D1  keyed_name : 730A94AE1E014688917AB980AD7241D1   type : CAD_Result_Properties successfully exported
+Item id :ABC96B75BAB44B71B0ABF4686415E291  keyed_name : ABC96B75BAB44B71B0ABF4686415E291   type : CAD_Result_Properties successfully exported
+Item id :95512A53CE854DB0A27B64AEA87BEE2D  keyed_name : 95512A53CE854DB0A27B64AEA87BEE2D   type : CAD_Mapping_Properties successfully exported
+Item id :D33AED04E87440FEB21B67739B4414C3  keyed_name : D33AED04E87440FEB21B67739B4414C3   type : CAD_Result_Properties successfully exported
+Item id :7FFD9991B10F441FA7F65FC02E57B42B  keyed_name : 7FFD9991B10F441FA7F65FC02E57B42B   type : CAD_Mapping_Properties successfully exported
+Item id :1E5A100D22BB401587BE71B41062F3FA  keyed_name : 1E5A100D22BB401587BE71B41062F3FA   type : CAD_Result_Properties successfully exported
+Item id :157C491ECCC0400AA17B55D0AD0E5F6A  keyed_name : 157C491ECCC0400AA17B55D0AD0E5F6A   type : CAD_Mapping_Properties successfully exported
+Item id :4D2B69595DDD4773B03EC846457A2234  keyed_name : 4D2B69595DDD4773B03EC846457A2234   type : CAD_Mapping_Properties successfully exported
+Item id :068B54A8540E4BBD8EBF4233463984D6  keyed_name : 068B54A8540E4BBD8EBF4233463984D6   type : CAD_Mapping_Properties successfully exported
+Item id :44A6BF339F2C466AACC8C7B1B0FCD807  keyed_name : 44A6BF339F2C466AACC8C7B1B0FCD807   type : CAD_Result_Properties successfully exported
+Item id :97B4CA6585CE47FCBCDED07CC65159AA  keyed_name : 97B4CA6585CE47FCBCDED07CC65159AA   type : CAD_Result_Properties successfully exported
+Item id :7E27A07FD79D452BAB529C2FEA49111E  keyed_name : 7E27A07FD79D452BAB529C2FEA49111E   type : CAD_Result_Properties successfully exported
+Item id :9A54FC076C9C4D4DA3FEB4DB4BE87D23  keyed_name : 9A54FC076C9C4D4DA3FEB4DB4BE87D23   type : CAD_Mapping_Properties successfully exported
+Item id :159A1D45FE8C46BEBBD39AA1F4007CB1  keyed_name : 159A1D45FE8C46BEBBD39AA1F4007CB1   type : CAD_Mapping_Properties successfully exported
+Item id :69613219F48D4E9A9E747139AC684281  keyed_name : 69613219F48D4E9A9E747139AC684281   type : CAD_Mapping_Properties successfully exported
+Item id :EE3C6630787A41A28D7955C621D2F559  keyed_name : EE3C6630787A41A28D7955C621D2F559   type : CAD_Mapping_Properties successfully exported
+Item id :F314C16261C44CEAA5757754C71B7BEE  keyed_name : F314C16261C44CEAA5757754C71B7BEE   type : CAD_Result_Properties successfully exported
+Item id :D19FE92EA4D94E65889DAA327FB2CE07  keyed_name : D19FE92EA4D94E65889DAA327FB2CE07   type : CAD_Result_Properties successfully exported
+Item id :A6938299D65F416BB9C87280AF0AE854  keyed_name : A6938299D65F416BB9C87280AF0AE854   type : CAD_Result_Properties successfully exported
+Item id :7D32F3323EF04F7F871E8B77C4877745  keyed_name : 7D32F3323EF04F7F871E8B77C4877745   type : CAD_Mapping_Properties successfully exported
+Item id :DC8E2D1537BE404FBDE086B597FA3141  keyed_name : DC8E2D1537BE404FBDE086B597FA3141   type : CAD_Mapping_Properties successfully exported
+Item id :67F133AF26254588882E8B5195B7155C  keyed_name : 67F133AF26254588882E8B5195B7155C   type : CAD_Mapping_Properties successfully exported
+Item id :26AFFC500ECD4DDBB97AB27AB08381AD  keyed_name : 26AFFC500ECD4DDBB97AB27AB08381AD   type : CAD_Mapping_Properties successfully exported
+Item id :CCB819B7A54F4791A0838F110D1C30F5  keyed_name : CCB819B7A54F4791A0838F110D1C30F5   type : CAD_Mapping_Properties successfully exported
+Item id :39AD1BE683554FB3B09679F9A57F13BC  keyed_name : 39AD1BE683554FB3B09679F9A57F13BC   type : CAD_Mapping_Properties successfully exported
+Item id :BC8EA325655A4D0D997906B3C39D99DC  keyed_name : BC8EA325655A4D0D997906B3C39D99DC   type : CAD_Mapping_Properties successfully exported
+Item id :FB1DDB65DC764C6BA9DA7067F3BBE21F  keyed_name : FB1DDB65DC764C6BA9DA7067F3BBE21F   type : CAD_Mapping_Properties successfully exported
+Item id :501BF18C39504B40A5225609BA1FEE08  keyed_name : 501BF18C39504B40A5225609BA1FEE08   type : CAD_Result_Properties successfully exported
+Item id :EB6619C736C04CA0AB3398C14180C68E  keyed_name : EB6619C736C04CA0AB3398C14180C68E   type : CAD_Mapping_Properties successfully exported
+Item id :955D0B3C71EA463F83AE61A83DE70291  keyed_name : 955D0B3C71EA463F83AE61A83DE70291   type : CAD_Mapping_Properties successfully exported
+Item id :AF91217577E5488B816D9C0A4154267D  keyed_name : AF91217577E5488B816D9C0A4154267D   type : CAD_Result_Properties successfully exported
+Item id :868E0834593B47D080666725BC34B432  keyed_name : 868E0834593B47D080666725BC34B432   type : CAD_Result_Properties successfully exported
+Item id :C2527FA192E649C391A56781FCF3E258  keyed_name : C2527FA192E649C391A56781FCF3E258   type : CAD_Mapping_Properties successfully exported
+Item id :F73D50AAA3984199A318408AEA04FE58  keyed_name : F73D50AAA3984199A318408AEA04FE58   type : CAD_Mapping_Properties successfully exported
+Item id :D0E2F9C40B8D4FAD8C6D181B174530AB  keyed_name : D0E2F9C40B8D4FAD8C6D181B174530AB   type : CAD_Mapping_Properties successfully exported
+Item id :CFF010B45B6541BE889E68A9C0224845  keyed_name : CFF010B45B6541BE889E68A9C0224845   type : CAD_Mapping_Properties successfully exported
+Item id :F7F5C9E8A58048C08EB09E8169D1164D  keyed_name : F7F5C9E8A58048C08EB09E8169D1164D   type : CAD_Mapping_Properties successfully exported
+Item id :8F0AD792090B44D4BA192C6E53F71C3B  keyed_name : 8F0AD792090B44D4BA192C6E53F71C3B   type : CAD_Result_Properties successfully exported
+Item id :9AD2EF14B5C645879480D373562D6D44  keyed_name : 9AD2EF14B5C645879480D373562D6D44   type : CAD_Mapping_Properties successfully exported
+Item id :7E353DE6D4FA470AA598B5A66FB815E0  keyed_name : 7E353DE6D4FA470AA598B5A66FB815E0   type : CAD_Mapping_Properties successfully exported
+Item id :FF6F1DFB29A843DABC7AB68DD7A63C51  keyed_name : FF6F1DFB29A843DABC7AB68DD7A63C51   type : CAD_Mapping_Properties successfully exported
+Item id :7BDD7DB04C4341039A5FCF940184F0B6  keyed_name : 7BDD7DB04C4341039A5FCF940184F0B6   type : CAD_Mapping_Properties successfully exported
+Item id :1CE5D09ADED2442B8F8B7ED2EC80F728  keyed_name : 1CE5D09ADED2442B8F8B7ED2EC80F728   type : CAD_Result_Properties successfully exported
+Item id :757F2935F14948DFBC254CBE19C13F23  keyed_name : 757F2935F14948DFBC254CBE19C13F23   type : CAD_Mapping_Properties successfully exported
+Item id :56A1A99A2EC3467E96E2A6FF3A869BE5  keyed_name : 56A1A99A2EC3467E96E2A6FF3A869BE5   type : CAD_Mapping_Properties successfully exported
+Item id :1010AB9557FE403F87DEDED9DE6C2547  keyed_name : 1010AB9557FE403F87DEDED9DE6C2547   type : CAD_Mapping_Properties successfully exported
+Item id :6E020BE0E1084190B3CA384489A24D20  keyed_name : 6E020BE0E1084190B3CA384489A24D20   type : CAD_Mapping_Properties successfully exported
+Item id :8B667A5756A54988B07692ECD0ABA99C  keyed_name : 8B667A5756A54988B07692ECD0ABA99C   type : CAD_Result_Properties successfully exported
+Item id :805F1F0DEB9D44CB92D62B54EB055142  keyed_name : 805F1F0DEB9D44CB92D62B54EB055142   type : CAD_Mapping_Properties successfully exported
+Item id :D9FBADCB63C847F3B68DE3B9506159EC  keyed_name : D9FBADCB63C847F3B68DE3B9506159EC   type : CAD_Mapping_Properties successfully exported
+Item id :9273BCB31845442B84BB57A48C175524  keyed_name : 9273BCB31845442B84BB57A48C175524   type : CAD_Mapping_Properties successfully exported
+Item id :8DB714E5B8034EAE9EEB7D8C8956BCA5  keyed_name : 8DB714E5B8034EAE9EEB7D8C8956BCA5   type : CAD_Mapping_Properties successfully exported
+Item id :3816BF7076A74FCDA1EFCB8F22E74663  keyed_name : 3816BF7076A74FCDA1EFCB8F22E74663   type : CAD_Result_Properties successfully exported
+Item id :5AE44022E660426C9C512C6C1DB88EF7  keyed_name : 5AE44022E660426C9C512C6C1DB88EF7   type : CAD_Mapping_Properties successfully exported
+Item id :0CB69B7ACFF14435887E60360EC4CAFF  keyed_name : 0CB69B7ACFF14435887E60360EC4CAFF   type : CAD_Result_Properties successfully exported
+Item id :D451C9DB3AAB4E8E812A87E16E07ACEC  keyed_name : D451C9DB3AAB4E8E812A87E16E07ACEC   type : CAD_Result_Properties successfully exported
+Item id :A977C335342D49DE95F2B47B30C10168  keyed_name : A977C335342D49DE95F2B47B30C10168   type : CAD_Mapping_Properties successfully exported
+Item id :48049AAB1C0043858BC55ABBE6A75E49  keyed_name : 48049AAB1C0043858BC55ABBE6A75E49   type : CAD_Mapping_Properties successfully exported
+Item id :2DF8E8F1D4CF49E484F9785F0209D6D5  keyed_name : 2DF8E8F1D4CF49E484F9785F0209D6D5   type : CAD_Result_Properties successfully exported
+Item id :92946DB19C494A4F8FE44EDF3AA60985  keyed_name : 92946DB19C494A4F8FE44EDF3AA60985   type : CAD_Mapping_Properties successfully exported
+Item id :44EC211F02B94A268826851CC0772233  keyed_name : 44EC211F02B94A268826851CC0772233   type : CAD_Mapping_Properties successfully exported
+Item id :09E8D00788264526852A574850EB996B  keyed_name : 09E8D00788264526852A574850EB996B   type : CAD_Mapping_Properties successfully exported
+Item id :D0D4B478D4514BE7AEEE1B69923EC0B4  keyed_name : D0D4B478D4514BE7AEEE1B69923EC0B4   type : CAD_Mapping_Properties successfully exported
+Item id :DBDBAB8CF12F41D3AC02473F3E195B02  keyed_name : DBDBAB8CF12F41D3AC02473F3E195B02   type : CAD_Mapping_Properties successfully exported
+Item id :F34F7814E24C41D0B18591A4BE10F596  keyed_name : F34F7814E24C41D0B18591A4BE10F596   type : CAD_Result_Properties successfully exported
+Item id :E88B905B9631415EAF5E8AF21E01E7B9  keyed_name : E88B905B9631415EAF5E8AF21E01E7B9   type : CAD_Result_Properties successfully exported
+Item id :DDDFDA385A634B349A62EE61F1C18369  keyed_name : DDDFDA385A634B349A62EE61F1C18369   type : CAD_Mapping_Properties successfully exported
+Item id :1DB1C7529035487398C99B955C8ED503  keyed_name : 1DB1C7529035487398C99B955C8ED503   type : CAD_Mapping_Properties successfully exported
+Item id :B9CFF8575961446086BCFCA7CE85C168  keyed_name : B9CFF8575961446086BCFCA7CE85C168   type : CAD_Mapping_Properties successfully exported
+Item id :8BFFC042B49845D7921448D0445F8D65  keyed_name : 8BFFC042B49845D7921448D0445F8D65   type : CAD_Mapping_Properties successfully exported
+Item id :F4C958B204CF4A868B030ED37FD62981  keyed_name : F4C958B204CF4A868B030ED37FD62981   type : CAD_Mapping_Properties successfully exported
+Item id :5F2D0B2972D3492E8EA3CF12F2FB0650  keyed_name : 5F2D0B2972D3492E8EA3CF12F2FB0650   type : CAD_Mapping_Properties successfully exported
+Item id :A368DDC2103E454F9F4D32ABBF184CA9  keyed_name : A368DDC2103E454F9F4D32ABBF184CA9   type : CAD_Mapping_Properties successfully exported
+Item id :193C59234F2D4301A82EEB72560AADE6  keyed_name : 193C59234F2D4301A82EEB72560AADE6   type : CAD_Result_Properties successfully exported
+Item id :A9D7F7E192224E079750BEB66FAB5206  keyed_name : A9D7F7E192224E079750BEB66FAB5206   type : CAD_Mapping_Properties successfully exported
+Item id :56A8706DB12B4211822A8142865C7684  keyed_name : 56A8706DB12B4211822A8142865C7684   type : CAD_Mapping_Properties successfully exported
+end of execution : 12/21/2018 14:51:53
+         ****Export tltc.cad.integration****
+start of execution : 2018/12/21 下午 02:59:32
+Item id :D5E6FAD349704AB8A919CA4A76AB19DA  keyed_name : D5E6FAD349704AB8A919CA4A76AB19DA   type : Value successfully exported
+Item id :C0EA6D805BEE4A94B0F725E4B279C8CE  keyed_name : CADIntegration_Changeflow_Pro   type : ItemType successfully exported
+Item id :A6CCAEC9FCCA4BF2AB608362AE22DCAD  keyed_name : CAD_Configuration   type : ItemType successfully exported
+Item id :71E53026DA6741A38741C3240F376C6A  keyed_name : 71E53026DA6741A38741C3240F376C6A   type : Value successfully exported
+Item id :83E142DEDB53411BB3B6709FF0932477  keyed_name : CADIntegration_GetItemtypeDataBy   type : Method successfully exported
+Item id :40ACC3B536E84DAEB8CC0AA4FC7F5DA5  keyed_name : CADIntegration_Bug   type : ItemType successfully exported
+Item id :9B03CC03CB2140658B09BEE47708BB76  keyed_name : CADIntegration_ChangeFlow   type : ItemType successfully exported
+Item id :E350CA717AB146E08B4284A7151B32E5  keyed_name : CADIntegration_SystemSettingForm   type : Method successfully exported
+Item id :3A0B55355DB24C03AD7845E36D0AFC30  keyed_name : ProgramUpdate   type : ItemType successfully exported
+Item id :3FAB8E8F6B1F47BD938680AC13985DC4  keyed_name : CADIntegration_SetProperty   type : Method successfully exported
+Item id :CB5C7DEB95F749709209FDB110717281  keyed_name : CADIntegration_Setting   type : ItemType successfully exported
+Item id :209F9EB0E3E1440FB6C93B6B44688888  keyed_name : CADIntegration_Admin   type : ItemType successfully exported
+Item id :36EA18C4E531493AA0A3EC99C710DDB8  keyed_name : CADIntegration_SystemSetting   type : Form successfully exported
+Item id :2A20A724F78B4BAB906F767DE43FD7F6  keyed_name : 2A20A724F78B4BAB906F767DE43FD7F6   type : Value successfully exported
+Item id :07E49AC0013D42C198BB8B00C1BB6DF0  keyed_name : AutoCAD_PlotSetting   type : RelationshipType successfully exported
+Item id :381776C2671646739F6A4250BCB1F605  keyed_name : CAD_Configuration_List   type : ItemType successfully exported
+Item id :914BE75305714B9CBB87DE7500EF43AB  keyed_name : CADIntegration_SystemSetting   type : Method successfully exported
+Item id :5CDC101423E04493B311BA4506531F9C  keyed_name : CAD_Mapping_Properties   type : RelationshipType successfully exported
+Item id :5446D50A449E4EEE948494C1E98BFA58  keyed_name : MessageIntegration   type : ItemType successfully exported
+Item id :7FF2384A47504929B93EF77C9E1ECE70  keyed_name : CAD_Result_Properties   type : RelationshipType successfully exported
+Item id :046401394A4C4BFE99C1B06A0DB58330  keyed_name : tltcGetItemNumber   type : Method successfully exported
+end of execution : 12/21/2018 14:59:34

@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="232411FCCA624DF8BDF7AE48E9F70EFB" action="add">
+  <en>Add {0} error</en>
+  <item_number>msg_007</item_number>
+  <name />
+  <type>Message</type>
+  <zh_cn>新增{0}失敗</zh_cn>
+  <zh_tw>新增{0}失敗</zh_tw>
+ </Item>
+</AML>

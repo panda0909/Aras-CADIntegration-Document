@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="A5F854ED4720457F8A292051C1BA6DA8" action="add">
+  <en>Save file properties failed:{0}</en>
+  <item_number>msg_013</item_number>
+  <name />
+  <type>Message</type>
+  <zh_cn>储存档案属性错误:{0}</zh_cn>
+  <zh_tw>儲存檔案屬性錯誤:{0}</zh_tw>
+ </Item>
+</AML>

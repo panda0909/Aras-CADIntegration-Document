@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="515EBA737D854C82816AAD99FFEDC0C1" action="add">
+  <en>Issue</en>
+  <item_number>name_006</item_number>
+  <name>Issue</name>
+  <type>name</type>
+  <zh_cn>問題回報</zh_cn>
+  <zh_tw>問題回報</zh_tw>
+ </Item>
+</AML>

@@ -1,0 +1,9 @@
+﻿<AML>
+ <Item type="CADIntegration_Setting" id="7A89B910192546F7842B8DEFEB9A2C0B" action="add">
+  <cn_file_ext>.dft</cn_file_ext>
+  <cn_treesmallicon>6</cn_treesmallicon>
+  <authoring_tool>Solid Edge</authoring_tool>
+  <classification>Mechanical/Drawing</classification>
+  <Relationships></Relationships>
+ </Item>
+</AML>

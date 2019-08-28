@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="69A49B0005D04B34BADC21AFD14701AC" action="add">
+  <en>Find the last major revision {0},download right now.\r Local major revision is {1}</en>
+  <item_number>msg_024</item_number>
+  <name />
+  <type>Message</type>
+  <zh_cn>侦测到最新版本{0}，立即下载\r本地版本{1}</zh_cn>
+  <zh_tw>偵測到最新版本{0}，立即下載\r本地版本{1}</zh_tw>
+ </Item>
+</AML>

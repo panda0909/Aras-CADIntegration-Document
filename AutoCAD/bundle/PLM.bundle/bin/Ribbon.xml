@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ribbon>
+  <tab name="PLM" id="Aras">
+    <group name="Connection">
+      <button id="1" size="large" label="登入" message_number="name_001" screentip="Login" supertip="Login" imageId="1" disabled="1"/>
+      <button id="5" size="large" label="登出" message_number="name_005" screentip="Logout" supertip="Logout" imageId="2" disabled="0"/>
+    </group>
+    <group name="Action">
+      <button id="2" size="large" label="簽入" message_number="name_002" screentip="CheckIn" supertip="Check In" imageId="4" disabled="0"/>
+      <button id="3" size="large" label="簽出" message_number="name_003" screentip="CheckOut" supertip="Check Out" imageId="3" disabled="0"/>
+      <button id="4" size="large" label="下載" message_number="name_004" screentip="Download" supertip="Download" imageId="5" disabled="0"/>
+      <!--<button id="12" size="large" label="結構差異更新" message_number="0" screentip="Compare" supertip="Compare" imageId="12" disabled="0"/>-->
+      <!--<button id="9" size="large" label="領號" message_number="0" screentip="GetNumber" supertip="Get Number" imageId="9" disabled="0"/>-->
+      <button id="10" size="large" label="屬性設定" message_number="0" screentip="EditProperties" supertip="Edit Properties" imageId="10" disabled="0"/>
+      <!--<button id="11" size="large" label="個人簽核" message_number="0" screentip="InBasket" supertip="InBasket" imageId="11" disabled="0"/>-->
+      <button id="13" size="large" label="CAD管理器" message_number="0" screentip="Manager" supertip="Manager" imageId="12" disabled="0"/>
+    </group>
+    <group name="System">
+      <button id="6" size="large" label="問題回報" message_number="name_006" screentip="Issue" supertip="Issue" imageId="6" disabled="0"/>
+      <button id="7" size="large" label="清除屬性" message_number="0" screentip="Eraser" supertip="Issue" imageId="7" disabled="0"/>
+      <button id="8" size="large" label="更新元件" message_number="name_007" screentip="Update" supertip="Update" imageId="8" disabled="0"/>
+    </group>
+  </tab>
+</ribbon>
+  

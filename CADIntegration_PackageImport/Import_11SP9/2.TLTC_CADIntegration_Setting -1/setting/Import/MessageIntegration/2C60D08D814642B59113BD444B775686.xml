@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="2C60D08D814642B59113BD444B775686" action="add">
+  <en>Finished</en>
+  <item_number>msg_061</item_number>
+  <name />
+  <type>Message</type>
+  <zh_cn>执行结束</zh_cn>
+  <zh_tw>執行結束</zh_tw>
+ </Item>
+</AML>

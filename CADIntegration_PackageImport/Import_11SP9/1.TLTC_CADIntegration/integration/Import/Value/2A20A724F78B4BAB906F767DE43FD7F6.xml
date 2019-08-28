@@ -1,0 +1,9 @@
+<AML>
+  <Item type="Value" id="2A20A724F78B4BAB906F767DE43FD7F6" action="add">
+    <label xml:lang="en">CAD Integration</label>
+    <sort_order>2628</sort_order>
+    <source_id keyed_name="Categories" type="List">EAB29654E2CD4D30B376957788198B40</source_id>
+    <value>Administration/Integration/CADIntegration</value>
+    <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">CAD整合</i18n:label>
+  </Item>
+</AML>

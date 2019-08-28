@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="8357EF4B94C74AAD96B60A00A6434134" action="add">
+  <en>Save End</en>
+  <item_number>msg_058</item_number>
+  <name />
+  <type>Message</type>
+  <zh_cn>储存结束</zh_cn>
+  <zh_tw>儲存結束</zh_tw>
+ </Item>
+</AML>

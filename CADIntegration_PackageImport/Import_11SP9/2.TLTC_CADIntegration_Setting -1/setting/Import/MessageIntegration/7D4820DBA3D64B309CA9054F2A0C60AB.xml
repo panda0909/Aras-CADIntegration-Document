@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="7D4820DBA3D64B309CA9054F2A0C60AB" action="add">
+  <en>Close file success</en>
+  <item_number>msg_012</item_number>
+  <name />
+  <type>Message</type>
+  <zh_cn>关闭档案成功</zh_cn>
+  <zh_tw>關閉檔案成功</zh_tw>
+ </Item>
+</AML>

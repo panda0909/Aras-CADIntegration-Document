@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="D18954A2623040EC900F09D905128DF4" action="add">
+  <en>Get item number success</en>
+  <item_number>msg_018</item_number>
+  <name />
+  <type>Message</type>
+  <zh_cn>领号执行成功</zh_cn>
+  <zh_tw>領號執行成功</zh_tw>
+ </Item>
+</AML>

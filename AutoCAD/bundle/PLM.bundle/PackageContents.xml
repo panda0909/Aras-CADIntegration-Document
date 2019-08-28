@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ApplicationPackage SchemaVersion="1.0" AutodeskProduct="AutoCAD" ProductType="Application" Name="PLM">
+<Components Description="AutoCAD 2015 64bit">
+		<RuntimeRequirements OS="Win64" Platform="AutoCAD*" SeriesMin="R20.0" SeriesMax="R20.0"/>
+		<ComponentEntry AppName="PLM" Version="1.0.0" ModuleName=".\bin\tltcAutoCAD2015.dll"
+			 LoadOnCommandInvocation="false" LoadOnAutoCADStartup="True">
+			
+		</ComponentEntry>
+	</Components>
+</ApplicationPackage>

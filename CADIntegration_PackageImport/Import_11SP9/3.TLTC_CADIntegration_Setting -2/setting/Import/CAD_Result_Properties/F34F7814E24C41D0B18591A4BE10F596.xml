@@ -1,0 +1,9 @@
+﻿<AML>
+ <Item type="CAD_Result_Properties" id="F34F7814E24C41D0B18591A4BE10F596" action="add">
+  <cn_property keyed_name="name" type="Property">3AC10B5A42004CC3A1C76B3CC3955FA5</cn_property>
+  <is_result>1</is_result>
+  <is_search>1</is_search>
+  <sort_order>256</sort_order>
+  <source_id keyed_name="SolidWorks Mechanical/Part" type="CADIntegration_Setting">E3716145F0B049DFB7F85A269833EDD1</source_id>
+ </Item>
+</AML>

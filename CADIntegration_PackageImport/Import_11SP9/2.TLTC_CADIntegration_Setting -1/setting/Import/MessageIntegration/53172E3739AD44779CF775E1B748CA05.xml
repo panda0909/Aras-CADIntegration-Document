@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="53172E3739AD44779CF775E1B748CA05" action="add">
+  <en>New item object failed:{0}</en>
+  <item_number>msg_034</item_number>
+  <name />
+  <type>Message</type>
+  <zh_cn>新增Aras物件错误:{0}</zh_cn>
+  <zh_tw>新增Aras物件錯誤:{0}</zh_tw>
+ </Item>
+</AML>

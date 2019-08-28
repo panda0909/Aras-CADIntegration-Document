@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="909769BBFE464456B4E21E971D35E747" action="add">
+  <en>Auto Login PLM failed, connection again</en>
+  <item_number>msg_045</item_number>
+  <name />
+  <type>Message</type>
+  <zh_cn>自动登入PLM失败，请重新连线</zh_cn>
+  <zh_tw>自動登入PLM失敗，請重新連線</zh_tw>
+ </Item>
+</AML>

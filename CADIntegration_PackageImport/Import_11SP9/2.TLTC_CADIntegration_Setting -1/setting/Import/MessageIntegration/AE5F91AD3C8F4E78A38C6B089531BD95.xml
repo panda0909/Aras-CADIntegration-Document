@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="AE5F91AD3C8F4E78A38C6B089531BD95" action="add">
+  <en>Load Setting error:{0}</en>
+  <item_number>msg_047</item_number>
+  <name />
+  <type>Message</type>
+  <zh_cn>载入设定档错误:{0}</zh_cn>
+  <zh_tw>載入設定檔錯誤:{0}</zh_tw>
+ </Item>
+</AML>

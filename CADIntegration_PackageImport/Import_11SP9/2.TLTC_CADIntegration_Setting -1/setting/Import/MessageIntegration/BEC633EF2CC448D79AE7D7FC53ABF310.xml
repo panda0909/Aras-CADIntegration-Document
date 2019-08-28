@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="BEC633EF2CC448D79AE7D7FC53ABF310" action="add">
+  <en>Read file properties failed:{0}</en>
+  <item_number>msg_015</item_number>
+  <name />
+  <type>Message</type>
+  <zh_cn>读取档案属性错误:{0}</zh_cn>
+  <zh_tw>讀取檔案屬性錯誤:{0}</zh_tw>
+ </Item>
+</AML>

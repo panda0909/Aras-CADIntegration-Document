@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="17A1F6BADAC24471ACE661D2C0DC9C13" action="add">
+  <en>Please Logout first</en>
+  <item_number>msg_019</item_number>
+  <name />
+  <type>Message</type>
+  <zh_cn>请先执行登出</zh_cn>
+  <zh_tw>請先執行登出</zh_tw>
+ </Item>
+</AML>

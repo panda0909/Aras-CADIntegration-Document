@@ -1,0 +1,13 @@
+﻿<AML>
+ <Item type="CAD_Mapping_Properties" id="FCEEA25CD22D46FF82F50C37CA27AC7B" action="add">
+  <is_checkout>0</is_checkout>
+  <is_model_config>0</is_model_config>
+  <is_readonly>0</is_readonly>
+  <is_required>0</is_required>
+  <is_system>0</is_system>
+  <mapping_label>generation</mapping_label>
+  <plm_field>generation</plm_field>
+  <sort_order>640</sort_order>
+  <source_id keyed_name="AutoCAD Mechanical/Drawing" type="CADIntegration_Setting">707683378FD840CCBB6060882C2919D2</source_id>
+ </Item>
+</AML>

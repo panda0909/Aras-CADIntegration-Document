@@ -1,0 +1,14 @@
+﻿<AML>
+ <Item type="CAD_Mapping_Properties" id="4CF637DD502243DCAB2EB0CCDA388309" action="add">
+  <is_checkout>0</is_checkout>
+  <is_model_config>0</is_model_config>
+  <is_readonly>0</is_readonly>
+  <is_required>0</is_required>
+  <is_system>0</is_system>
+  <mapping_field>documentnumber</mapping_field>
+  <mapping_label>圖檔編號</mapping_label>
+  <plm_field>item_number</plm_field>
+  <sort_order>128</sort_order>
+  <source_id keyed_name="Solid Edge Mechanical/Part" type="CADIntegration_Setting">061E8ABED89B410AA8454FE8B07D34CE</source_id>
+ </Item>
+</AML>

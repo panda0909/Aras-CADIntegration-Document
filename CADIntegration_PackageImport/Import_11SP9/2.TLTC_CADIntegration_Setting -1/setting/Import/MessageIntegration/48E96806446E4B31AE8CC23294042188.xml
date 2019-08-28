@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="48E96806446E4B31AE8CC23294042188" action="add">
+  <en>Get item number failed:{0}</en>
+  <item_number>msg_017</item_number>
+  <name />
+  <type>Message</type>
+  <zh_cn>领号执行错误:{0}</zh_cn>
+  <zh_tw>領號執行錯誤:{0}</zh_tw>
+ </Item>
+</AML>

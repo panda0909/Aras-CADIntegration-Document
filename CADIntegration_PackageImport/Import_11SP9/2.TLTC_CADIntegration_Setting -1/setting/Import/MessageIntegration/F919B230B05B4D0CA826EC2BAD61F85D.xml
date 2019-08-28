@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="F919B230B05B4D0CA826EC2BAD61F85D" action="add">
+  <en>Checkouted by other user</en>
+  <item_number>msg_029</item_number>
+  <name />
+  <type>Message</type>
+  <zh_cn>已被他人签出</zh_cn>
+  <zh_tw>已被他人簽出</zh_tw>
+ </Item>
+</AML>

@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="CADIntegration_Setting" id="E3716145F0B049DFB7F85A269833EDD1" action="add">
+  <cn_description>Solidworks零件</cn_description>
+  <cn_file_ext>.sldprt</cn_file_ext>
+  <cn_treesmallicon>8</cn_treesmallicon>
+  <authoring_tool>SolidWorks</authoring_tool>
+  <classification>Mechanical/Part</classification>
+  <Relationships></Relationships>
+ </Item>
+</AML>

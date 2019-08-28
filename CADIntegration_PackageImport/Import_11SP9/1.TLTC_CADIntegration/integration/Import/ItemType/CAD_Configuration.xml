@@ -1,0 +1,110 @@
+<AML>
+  <Item type="ItemType" id="A6CCAEC9FCCA4BF2AB608362AE22DCAD" action="add">
+    <allow_private_permission>1</allow_private_permission>
+    <auto_search>0</auto_search>
+    <enforce_discovery>1</enforce_discovery>
+    <hide_where_used>0</hide_where_used>
+    <implementation_type>table</implementation_type>
+    <instance_data>CAD_CONFIGURATION</instance_data>
+    <is_dependent>0</is_dependent>
+    <is_relationship>0</is_relationship>
+    <is_versionable>0</is_versionable>
+    <revisions keyed_name="Default" type="Revision">7FE395DD8B9F4E1090756A34B733D75E</revisions>
+    <show_parameters_tab>1</show_parameters_tab>
+    <structure_view>tabs on</structure_view>
+    <unlock_on_logout>0</unlock_on_logout>
+    <use_src_access>0</use_src_access>
+    <name>CAD_Configuration</name>
+    <Relationships>
+      <Item type="View" id="B0C533A5AFF14E4DBC0BE49B16026650" action="add">
+        <client>js</client>
+        <related_id keyed_name="CAD_Configuration" type="Form">093303A04B0545BA9849B7231D3AD618</related_id>
+        <role keyed_name="World" type="Identity">
+          <Item type="Identity" action="get" select="id">
+            <name>World</name>
+          </Item>
+        </role>
+        <show_ssvc>0</show_ssvc>
+        <sort_order>128</sort_order>
+        <source_id keyed_name="CAD_Configuration" type="ItemType" name="CAD_Configuration">A6CCAEC9FCCA4BF2AB608362AE22DCAD</source_id>
+        <type>default</type>
+      </Item>
+      <Item type="TOC Access" id="B97B78E494E1477D811C1648522FF3F8" action="add">
+        <related_id keyed_name="Administrators" type="Identity">2618D6F5A90949BAA7E920D1B04C7EE1</related_id>
+        <sort_order>128</sort_order>
+        <source_id keyed_name="CAD_Configuration" type="ItemType" name="CAD_Configuration">A6CCAEC9FCCA4BF2AB608362AE22DCAD</source_id>
+        <category>Administration/Integration/CADIntegration/Other</category>
+      </Item>
+      <Item type="TOC View" id="FF34FC6374A74584B98C1CF10E3EE86F" action="add">
+        <related_id keyed_name="World" type="Identity">
+          <Item type="Identity" action="get" select="id">
+            <name>World</name>
+          </Item>
+        </related_id>
+        <sort_order>128</sort_order>
+        <source_id keyed_name="CAD_Configuration" type="ItemType" name="CAD_Configuration">A6CCAEC9FCCA4BF2AB608362AE22DCAD</source_id>
+      </Item>
+      <Item type="Can Add" id="1D9AD38329954B07A2CCAE48C77D7AC0" action="add">
+        <can_add>1</can_add>
+        <related_id keyed_name="World" type="Identity">
+          <Item type="Identity" action="get" select="id">
+            <name>World</name>
+          </Item>
+        </related_id>
+        <sort_order>128</sort_order>
+        <source_id keyed_name="CAD_Configuration" type="ItemType" name="CAD_Configuration">A6CCAEC9FCCA4BF2AB608362AE22DCAD</source_id>
+      </Item>
+      <Item type="Allowed Permission" id="29550CA6E9C84E309D7FFE9B642C942A" action="add">
+        <is_default>1</is_default>
+        <related_id keyed_name="Default Access" type="Permission">9122CD065CF04141B8EFE263FC80BEA4</related_id>
+        <sort_order>128</sort_order>
+        <source_id keyed_name="CAD_Configuration" type="ItemType" name="CAD_Configuration">A6CCAEC9FCCA4BF2AB608362AE22DCAD</source_id>
+      </Item>
+    </Relationships>
+    <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">工程圖組態結構</i18n:label>
+    <i18n:label_plural xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">工程圖組態結構</i18n:label_plural>
+  </Item>
+  <Item type="ItemType" id="A6CCAEC9FCCA4BF2AB608362AE22DCAD" action="edit">
+    <Relationships>
+      <Item type="Property" id="4B7FFADDB1F04DE490176BAE4B724DEE" action="add">
+        <column_alignment>left</column_alignment>
+        <data_source keyed_name="CAD" type="ItemType" name="CAD">CCF205347C814DD1AF056875E0A880AC</data_source>
+        <data_type>item</data_type>
+        <is_hidden>0</is_hidden>
+        <is_hidden2>0</is_hidden2>
+        <is_indexed>0</is_indexed>
+        <is_keyed>1</is_keyed>
+        <is_multi_valued>0</is_multi_valued>
+        <is_required>0</is_required>
+        <item_behavior>hard_fixed</item_behavior>
+        <range_inclusive>0</range_inclusive>
+        <readonly>0</readonly>
+        <sort_order>3200</sort_order>
+        <source_id keyed_name="CAD_Configuration" type="ItemType" name="CAD_Configuration">A6CCAEC9FCCA4BF2AB608362AE22DCAD</source_id>
+        <track_history>0</track_history>
+        <name>cn_cad</name>
+        <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">工程圖</i18n:label>
+      </Item>
+      <Item type="Property" id="FD8CCCCEEC304C7886B5156745716694" action="add">
+        <column_alignment>left</column_alignment>
+        <data_type>string</data_type>
+        <is_hidden>0</is_hidden>
+        <is_hidden2>0</is_hidden2>
+        <is_indexed>0</is_indexed>
+        <is_keyed>1</is_keyed>
+        <is_multi_valued>0</is_multi_valued>
+        <is_required>0</is_required>
+        <range_inclusive>0</range_inclusive>
+        <readonly>0</readonly>
+        <sort_order>3072</sort_order>
+        <source_id keyed_name="CAD_Configuration" type="ItemType" name="CAD_Configuration">A6CCAEC9FCCA4BF2AB608362AE22DCAD</source_id>
+        <stored_length>64</stored_length>
+        <track_history>0</track_history>
+        <name>cn_config_name</name>
+        <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">組態名稱</i18n:label>
+      </Item>
+    </Relationships>
+    <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">工程圖組態結構</i18n:label>
+    <i18n:label_plural xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">工程圖組態結構</i18n:label_plural>
+  </Item>
+</AML>

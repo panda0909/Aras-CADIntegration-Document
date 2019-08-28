@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="9FFA2E66EABC40A7878A5DE4A86A70EF" action="add">
+  <en>Inbasket Exception:{0}</en>
+  <item_number>msg_042</item_number>
+  <name />
+  <type>Message</type>
+  <zh_cn>个人签核例外错误:{0}</zh_cn>
+  <zh_tw>個人簽核例外錯誤:{0}</zh_tw>
+ </Item>
+</AML>

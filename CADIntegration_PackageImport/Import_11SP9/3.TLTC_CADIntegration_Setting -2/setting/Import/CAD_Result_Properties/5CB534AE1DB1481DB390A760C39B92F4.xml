@@ -1,0 +1,9 @@
+﻿<AML>
+ <Item type="CAD_Result_Properties" id="5CB534AE1DB1481DB390A760C39B92F4" action="add">
+  <cn_property keyed_name="minor_rev" type="Property">145FC4154F324507A16011D6084CDC54</cn_property>
+  <is_result>1</is_result>
+  <is_search>0</is_search>
+  <sort_order>768</sort_order>
+  <source_id keyed_name="Solid Edge Sheet Metal/Part" type="CADIntegration_Setting">321ACE56C6A641118DD6927EDD6F8AD6</source_id>
+ </Item>
+</AML>

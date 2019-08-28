@@ -1,0 +1,110 @@
+[
+  {
+    "name": "chkPropertyName",
+    "value": true
+  },
+  {
+    "name": "chkIsSupression",
+    "value": false
+  },
+  {
+    "name": "chkIsHide",
+    "value": false
+  },
+  {
+    "name": "authoring_tool",
+    "txtValue": "AutoCAD"
+  },
+  {
+    "name": "chkPropertyItemNumber",
+    "value": true
+  },
+  {
+    "name": "chk2DCheckinPDF",
+    "value": true
+  },
+  {
+    "name": "chk3DCheckin3DPDF",
+    "value": false
+  },
+  {
+    "name": "chkCheckIn3MF",
+    "value": false
+  },
+  {
+    "name": "chkCheckUniqProperty",
+    "value": true
+  },
+  {
+    "name": "chkCheckRequire",
+    "value": true
+  },
+  {
+    "name": "chkCreateConfiguration",
+    "value": false
+  },
+  {
+    "name": "chkCheckInBeforeCheckId",
+    "value": false
+  },
+  {
+    "name": "txtGetNumber",
+    "txtValue": "item_number"
+  },
+  {
+    "name": "txtSystemInfoToName",
+    "txtValue": ""
+  },
+  {
+    "name": "chkSyncSummaryInfo",
+    "value": false
+  },
+  {
+    "name": "classification",
+    "txtValue": "AutoCAD"
+  },
+  {
+    "name": "chkPDFUseCommonPlotSetting",
+    "value": true
+  },
+  {
+    "name": "txtMajorRevGenerationFormat",
+    "txtValue": ""
+  },
+  {
+    "name": "chkCheckInConfiguration",
+    "value": false
+  },
+  {
+    "name": "txtDocManagerLicense",
+    "txtValue": ""
+  },
+  {
+    "name": "chkIsSWDMMode",
+    "value": false
+  },
+  {
+    "name": "txtClassificationToCAD",
+    "txtValue": "classification"
+  },
+  {
+    "name": "chkCheckIn3DXML",
+    "value": false
+  },
+  {
+    "name": "closeBtnGetItemNumber",
+    "value": false
+  },
+  {
+    "name": "custom_property_view",
+    "txtValue": ""
+  },
+  {
+    "name": "custom_property_view_order",
+    "txtValue": ""
+  },
+  {
+    "name": "custom_property_view_hidden",
+    "txtValue": ""
+  }
+]

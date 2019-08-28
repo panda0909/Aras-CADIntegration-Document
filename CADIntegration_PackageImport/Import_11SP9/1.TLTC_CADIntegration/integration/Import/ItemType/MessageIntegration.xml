@@ -1,0 +1,185 @@
+<AML>
+  <Item type="ItemType" id="5446D50A449E4EEE948494C1E98BFA58" action="add">
+    <allow_private_permission>1</allow_private_permission>
+    <auto_search>0</auto_search>
+    <enforce_discovery>1</enforce_discovery>
+    <hide_where_used>0</hide_where_used>
+    <implementation_type>table</implementation_type>
+    <instance_data>MESSAGEINTEGRATION</instance_data>
+    <is_dependent>0</is_dependent>
+    <is_relationship>0</is_relationship>
+    <is_versionable>0</is_versionable>
+    <label xml:lang="en">整合訊息</label>
+    <label_plural xml:lang="en">整合訊息</label_plural>
+    <revisions keyed_name="Default" type="Revision">7FE395DD8B9F4E1090756A34B733D75E</revisions>
+    <show_parameters_tab>1</show_parameters_tab>
+    <structure_view>tabs off</structure_view>
+    <unlock_on_logout>0</unlock_on_logout>
+    <use_src_access>0</use_src_access>
+    <name>MessageIntegration</name>
+    <Relationships>
+      <Item type="Property" id="440F444C33024A8DB310099F2EB40ECB" action="add">
+        <column_alignment>left</column_alignment>
+        <data_type>string</data_type>
+        <is_hidden>0</is_hidden>
+        <is_hidden2>0</is_hidden2>
+        <is_indexed>0</is_indexed>
+        <is_keyed>0</is_keyed>
+        <is_multi_valued>0</is_multi_valued>
+        <is_required>0</is_required>
+        <label xml:lang="en">en</label>
+        <range_inclusive>0</range_inclusive>
+        <readonly>0</readonly>
+        <sort_order>3456</sort_order>
+        <source_id keyed_name="MessageIntegration" type="ItemType" name="MessageIntegration">5446D50A449E4EEE948494C1E98BFA58</source_id>
+        <stored_length>128</stored_length>
+        <track_history>0</track_history>
+        <name>en</name>
+        <i18n:label is_null="1" xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N" />
+      </Item>
+      <Item type="Property" id="CEE82CCCB8E447D684A805FAB53E10F2" action="add">
+        <column_alignment>left</column_alignment>
+        <data_type>string</data_type>
+        <is_hidden>0</is_hidden>
+        <is_hidden2>0</is_hidden2>
+        <is_indexed>0</is_indexed>
+        <is_keyed>0</is_keyed>
+        <is_multi_valued>0</is_multi_valued>
+        <is_required>0</is_required>
+        <label xml:lang="en">name</label>
+        <range_inclusive>0</range_inclusive>
+        <readonly>0</readonly>
+        <sort_order>3201</sort_order>
+        <source_id keyed_name="MessageIntegration" type="ItemType" name="MessageIntegration">5446D50A449E4EEE948494C1E98BFA58</source_id>
+        <stored_length>64</stored_length>
+        <track_history>0</track_history>
+        <name>name</name>
+        <i18n:label is_null="1" xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N" />
+      </Item>
+      <Item type="Property" id="05F9208C17BD4001B4F5AA1FEFD3F3EC" action="add">
+        <column_alignment>left</column_alignment>
+        <data_type>string</data_type>
+        <is_hidden>0</is_hidden>
+        <is_hidden2>0</is_hidden2>
+        <is_indexed>0</is_indexed>
+        <is_keyed>0</is_keyed>
+        <is_multi_valued>0</is_multi_valued>
+        <is_required>0</is_required>
+        <label xml:lang="en">type</label>
+        <range_inclusive>0</range_inclusive>
+        <readonly>0</readonly>
+        <sort_order>3328</sort_order>
+        <source_id keyed_name="MessageIntegration" type="ItemType" name="MessageIntegration">5446D50A449E4EEE948494C1E98BFA58</source_id>
+        <stored_length>32</stored_length>
+        <track_history>0</track_history>
+        <name>type</name>
+        <i18n:label is_null="1" xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N" />
+      </Item>
+      <Item type="Property" id="5088C2ED718843DAB456C7E379F78CB0" action="add">
+        <column_alignment>left</column_alignment>
+        <data_type>string</data_type>
+        <is_hidden>0</is_hidden>
+        <is_hidden2>0</is_hidden2>
+        <is_indexed>0</is_indexed>
+        <is_keyed>0</is_keyed>
+        <is_multi_valued>0</is_multi_valued>
+        <is_required>0</is_required>
+        <label xml:lang="en">zh_cn</label>
+        <range_inclusive>0</range_inclusive>
+        <readonly>0</readonly>
+        <sort_order>3712</sort_order>
+        <source_id keyed_name="MessageIntegration" type="ItemType" name="MessageIntegration">5446D50A449E4EEE948494C1E98BFA58</source_id>
+        <stored_length>128</stored_length>
+        <track_history>0</track_history>
+        <name>zh_cn</name>
+        <i18n:label is_null="1" xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N" />
+      </Item>
+      <Item type="Property" id="5E44A33325584AE4A268C886141A7FEA" action="add">
+        <column_alignment>left</column_alignment>
+        <data_type>string</data_type>
+        <is_hidden>0</is_hidden>
+        <is_hidden2>0</is_hidden2>
+        <is_indexed>0</is_indexed>
+        <is_keyed>0</is_keyed>
+        <is_multi_valued>0</is_multi_valued>
+        <is_required>0</is_required>
+        <label xml:lang="en">zh_tw</label>
+        <range_inclusive>0</range_inclusive>
+        <readonly>0</readonly>
+        <sort_order>3584</sort_order>
+        <source_id keyed_name="MessageIntegration" type="ItemType" name="MessageIntegration">5446D50A449E4EEE948494C1E98BFA58</source_id>
+        <stored_length>128</stored_length>
+        <track_history>0</track_history>
+        <name>zh_tw</name>
+        <i18n:label is_null="1" xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N" />
+      </Item>
+      <Item type="View" id="020F71A95FAA40BCA6C295FF9BAEAB68" action="add">
+        <client>js</client>
+        <related_id keyed_name="MessageIntegration" type="Form">C0F7F157845D47A3802FDC403B412C93</related_id>
+        <role keyed_name="World" type="Identity">
+          <Item type="Identity" action="get" select="id">
+            <name>World</name>
+          </Item>
+        </role>
+        <show_ssvc>0</show_ssvc>
+        <sort_order>128</sort_order>
+        <source_id keyed_name="MessageIntegration" type="ItemType" name="MessageIntegration">5446D50A449E4EEE948494C1E98BFA58</source_id>
+        <type>default</type>
+      </Item>
+      <Item type="TOC Access" id="B98354C72E9E4C63993EACB80641093B" action="add">
+        <related_id keyed_name="Administrators" type="Identity">2618D6F5A90949BAA7E920D1B04C7EE1</related_id>
+        <sort_order>128</sort_order>
+        <source_id keyed_name="MessageIntegration" type="ItemType" name="MessageIntegration">5446D50A449E4EEE948494C1E98BFA58</source_id>
+        <category>Administration/Integration</category>
+      </Item>
+      <Item type="TOC View" id="19ADDBFAB0CB4F57B45692562029C72E" action="add">
+        <related_id keyed_name="Administrators" type="Identity">2618D6F5A90949BAA7E920D1B04C7EE1</related_id>
+        <sort_order>128</sort_order>
+        <source_id keyed_name="MessageIntegration" type="ItemType" name="MessageIntegration">5446D50A449E4EEE948494C1E98BFA58</source_id>
+      </Item>
+      <Item type="Can Add" id="CC0AAF9241724B928F8BF54CFABE3E9A" action="add">
+        <can_add>1</can_add>
+        <related_id keyed_name="World" type="Identity">
+          <Item type="Identity" action="get" select="id">
+            <name>World</name>
+          </Item>
+        </related_id>
+        <sort_order>128</sort_order>
+        <source_id keyed_name="MessageIntegration" type="ItemType" name="MessageIntegration">5446D50A449E4EEE948494C1E98BFA58</source_id>
+      </Item>
+      <Item type="Allowed Permission" id="DAB59AF08ED749289F51C45DB2C436CD" action="add">
+        <is_default>1</is_default>
+        <related_id keyed_name="Default Access" type="Permission">9122CD065CF04141B8EFE263FC80BEA4</related_id>
+        <sort_order>128</sort_order>
+        <source_id keyed_name="MessageIntegration" type="ItemType" name="MessageIntegration">5446D50A449E4EEE948494C1E98BFA58</source_id>
+      </Item>
+    </Relationships>
+    <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">整合訊息</i18n:label>
+    <i18n:label_plural xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">整合訊息</i18n:label_plural>
+  </Item>
+  <Item type="ItemType" id="5446D50A449E4EEE948494C1E98BFA58" action="edit">
+    <Relationships>
+      <Item type="Property" id="60BDA29152114B7C9A35BA9E3290371F" action="add">
+        <column_alignment>left</column_alignment>
+        <data_type>string</data_type>
+        <is_hidden>0</is_hidden>
+        <is_hidden2>0</is_hidden2>
+        <is_indexed>0</is_indexed>
+        <is_keyed>1</is_keyed>
+        <is_multi_valued>0</is_multi_valued>
+        <is_required>0</is_required>
+        <label xml:lang="en">item_number</label>
+        <range_inclusive>0</range_inclusive>
+        <readonly>0</readonly>
+        <sort_order>3200</sort_order>
+        <source_id keyed_name="MessageIntegration" type="ItemType" name="MessageIntegration">5446D50A449E4EEE948494C1E98BFA58</source_id>
+        <stored_length>32</stored_length>
+        <track_history>0</track_history>
+        <name>item_number</name>
+        <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">item_number</i18n:label>
+      </Item>
+    </Relationships>
+    <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">整合訊息</i18n:label>
+    <i18n:label_plural xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">整合訊息</i18n:label_plural>
+  </Item>
+</AML>

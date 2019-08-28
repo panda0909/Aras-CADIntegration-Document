@@ -1,0 +1,9 @@
+﻿<AML>
+ <Item type="CAD_Result_Properties" id="BE0584212BC540B99B7838EA744DAAFC" action="add">
+  <cn_property keyed_name="minor_rev" type="Property">145FC4154F324507A16011D6084CDC54</cn_property>
+  <is_result>1</is_result>
+  <is_search>0</is_search>
+  <sort_order>768</sort_order>
+  <source_id keyed_name="SolidWorks Mechanical/Part" type="CADIntegration_Setting">E3716145F0B049DFB7F85A269833EDD1</source_id>
+ </Item>
+</AML>

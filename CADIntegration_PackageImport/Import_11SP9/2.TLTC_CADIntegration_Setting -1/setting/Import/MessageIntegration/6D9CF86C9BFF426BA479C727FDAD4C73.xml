@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="6D9CF86C9BFF426BA479C727FDAD4C73" action="add">
+  <en>New configuration Exception:{0}</en>
+  <item_number>msg_044</item_number>
+  <name />
+  <type>Message</type>
+  <zh_cn>新增组态失败:{0}</zh_cn>
+  <zh_tw>新增組態失敗:{0}</zh_tw>
+ </Item>
+</AML>

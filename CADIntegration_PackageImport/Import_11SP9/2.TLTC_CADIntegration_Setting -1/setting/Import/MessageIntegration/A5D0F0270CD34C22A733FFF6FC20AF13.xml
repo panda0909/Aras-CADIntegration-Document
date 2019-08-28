@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="A5D0F0270CD34C22A733FFF6FC20AF13" action="add">
+  <en>Load file item:{0}</en>
+  <item_number>msg_049</item_number>
+  <name />
+  <type>Message</type>
+  <zh_cn>读取File物件:{0}</zh_cn>
+  <zh_tw>讀取File物件:{0}</zh_tw>
+ </Item>
+</AML>

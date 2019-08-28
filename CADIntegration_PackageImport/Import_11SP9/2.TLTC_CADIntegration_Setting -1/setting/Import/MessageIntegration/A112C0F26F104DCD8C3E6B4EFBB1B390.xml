@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="A112C0F26F104DCD8C3E6B4EFBB1B390" action="add">
+  <en>Complete failed</en>
+  <item_number>msg_004</item_number>
+  <name />
+  <type>Message</type>
+  <zh_cn>执行失败</zh_cn>
+  <zh_tw>執行失敗</zh_tw>
+ </Item>
+</AML>

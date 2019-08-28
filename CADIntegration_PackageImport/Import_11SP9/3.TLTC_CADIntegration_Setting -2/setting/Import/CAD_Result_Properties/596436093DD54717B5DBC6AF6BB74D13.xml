@@ -1,0 +1,9 @@
+﻿<AML>
+ <Item type="CAD_Result_Properties" id="596436093DD54717B5DBC6AF6BB74D13" action="add">
+  <cn_property keyed_name="configuration" type="Property">42329D8735C542F2B9FF28B821353999</cn_property>
+  <is_result>1</is_result>
+  <is_search>0</is_search>
+  <sort_order>384</sort_order>
+  <source_id keyed_name="Solid Edge Mechanical/Assembly" type="CADIntegration_Setting">A54FD7CE79B043ADA555704B1E007E24</source_id>
+ </Item>
+</AML>

@@ -1,0 +1,12 @@
+<AML>
+  <Item type="Method" id="3FAB8E8F6B1F47BD938680AC13985DC4" action="add">
+    <comments>
+    </comments>
+    <execution_allowed_to keyed_name="World" type="Identity">A73B655731924CD0B027E4F4D5FCC0A9</execution_allowed_to>
+    <method_code><![CDATA[var Filter = {};
+Filter["source_id"] = { filterValue: "CAD", isFilterFixed: true };
+return Filter;]]></method_code>
+    <method_type>JavaScript</method_type>
+    <name>CADIntegration_SetProperty</name>
+  </Item>
+</AML>

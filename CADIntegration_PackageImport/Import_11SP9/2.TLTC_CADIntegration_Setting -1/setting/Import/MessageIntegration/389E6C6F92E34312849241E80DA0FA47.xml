@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="389E6C6F92E34312849241E80DA0FA47" action="add">
+  <en>Load Message Config error:{0}</en>
+  <item_number>msg_055</item_number>
+  <name />
+  <type>Message</type>
+  <zh_cn>读取讯息整合设定档错误:{1}</zh_cn>
+  <zh_tw>讀取訊息整合設定檔錯誤:{0}</zh_tw>
+ </Item>
+</AML>

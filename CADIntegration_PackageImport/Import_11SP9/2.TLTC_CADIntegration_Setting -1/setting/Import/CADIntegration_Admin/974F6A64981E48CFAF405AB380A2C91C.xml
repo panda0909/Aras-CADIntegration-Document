@@ -1,0 +1,84 @@
+﻿<AML>
+ <Item type="CADIntegration_Admin" id="974F6A64981E48CFAF405AB380A2C91C" action="add">
+  <classification>AutoCAD</classification>
+  <cn_admin_setting>[
+  {
+    "name": "chkPropertyName",
+    "value": false
+  },
+  {
+    "name": "chkIsSupression",
+    "value": false
+  },
+  {
+    "name": "chkIsHide",
+    "value": false
+  },
+  {
+    "name": "chkCheckout",
+    "value": false
+  },
+  {
+    "name": "chkPropertyItemNumber",
+    "value": true
+  },
+  {
+    "name": "chk2DCheckinPDF",
+    "value": true
+  },
+  {
+    "name": "chk3DCheckin3DPDF",
+    "value": false
+  },
+  {
+    "name": "chkCheckIn3MF",
+    "value": false
+  },
+  {
+    "name": "chkCheckUniqProperty",
+    "value": true
+  },
+  {
+    "name": "chkCheckRequire",
+    "value": true
+  },
+  {
+    "name": "chkCreateConfiguration",
+    "value": false
+  },
+  {
+    "name": "chkCheckInBeforeCheckId",
+    "value": false
+  },
+  {
+    "name": "txtGetNumber",
+    "txtValue": "item_number"
+  },
+  {
+    "name": "txtSystemInfoToName",
+    "txtValue": ""
+  },
+  {
+    "name": "chkSyncSummaryInfo",
+    "value": false
+  },
+  {
+    "name": "txtBulkChangeType",
+    "txtValue": "Express DCO"
+  },
+  {
+    "name": "txtChangeColumn",
+    "txtValue": "title,description"
+  },
+  {
+    "name": "classification",
+    "txtValue": "AutoCAD"
+  },
+  {
+    "name": "chkPDFUseCommonPlotSetting",
+    "value": true
+  }
+]</cn_admin_setting>
+  <authoring_tool>AutoCAD</authoring_tool>
+ </Item>
+</AML>

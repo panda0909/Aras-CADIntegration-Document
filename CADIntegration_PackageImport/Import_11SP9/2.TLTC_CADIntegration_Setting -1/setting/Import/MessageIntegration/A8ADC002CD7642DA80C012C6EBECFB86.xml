@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="A8ADC002CD7642DA80C012C6EBECFB86" action="add">
+  <en>CheckIn End</en>
+  <item_number>msg_059</item_number>
+  <name />
+  <type>Message</type>
+  <zh_cn>签入结束</zh_cn>
+  <zh_tw>簽入結束</zh_tw>
+ </Item>
+</AML>

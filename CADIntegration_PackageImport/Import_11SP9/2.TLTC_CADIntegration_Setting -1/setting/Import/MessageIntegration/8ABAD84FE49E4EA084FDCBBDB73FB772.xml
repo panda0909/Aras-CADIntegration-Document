@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="8ABAD84FE49E4EA084FDCBBDB73FB772" action="add">
+  <en>CheckOut</en>
+  <item_number>name_003</item_number>
+  <name>checkout</name>
+  <type>name</type>
+  <zh_cn>簽出</zh_cn>
+  <zh_tw>簽出</zh_tw>
+ </Item>
+</AML>

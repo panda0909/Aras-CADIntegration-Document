@@ -1,0 +1,14 @@
+﻿<AML>
+ <Item type="CAD_Mapping_Properties" id="8BFFC042B49845D7921448D0445F8D65" action="add">
+  <is_checkout>0</is_checkout>
+  <is_model_config>0</is_model_config>
+  <is_readonly>0</is_readonly>
+  <is_required>0</is_required>
+  <is_system>0</is_system>
+  <mapping_field />
+  <mapping_label>圖檔編號</mapping_label>
+  <plm_field>item_number</plm_field>
+  <sort_order>128</sort_order>
+  <source_id keyed_name="SolidWorks Mechanical/Drawing" type="CADIntegration_Setting">8A1BC01C8F554DF5AC2FEC644251D624</source_id>
+ </Item>
+</AML>

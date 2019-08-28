@@ -1,0 +1,96 @@
+﻿<AML>
+ <Item type="CADIntegration_Admin" id="44929B9FAB4E405F9BAA3F994D3905B8" action="add">
+  <classification>Solidworks</classification>
+  <cn_admin_setting>[
+  {
+    "name": "chkPropertyName",
+    "value": true
+  },
+  {
+    "name": "chkIsSupression",
+    "value": false
+  },
+  {
+    "name": "chkIsHide",
+    "value": false
+  },
+  {
+    "name": "chkPropertyItemNumber",
+    "value": true
+  },
+  {
+    "name": "chk2DCheckinPDF",
+    "value": true
+  },
+  {
+    "name": "chk3DCheckin3DPDF",
+    "value": false
+  },
+  {
+    "name": "chkCheckIn3MF",
+    "value": false
+  },
+  {
+    "name": "chkCheckUniqProperty",
+    "value": true
+  },
+  {
+    "name": "chkCheckRequire",
+    "value": true
+  },
+  {
+    "name": "chkCreateConfiguration",
+    "value": false
+  },
+  {
+    "name": "chkCheckInBeforeCheckId",
+    "value": false
+  },
+  {
+    "name": "txtGetNumber",
+    "txtValue": "item_number"
+  },
+  {
+    "name": "txtSystemInfoToName",
+    "txtValue": "title"
+  },
+  {
+    "name": "chkSyncSummaryInfo",
+    "value": false
+  },
+  {
+    "name": "classification",
+    "txtValue": "Solidworks"
+  },
+  {
+    "name": "chkPDFUseCommonPlotSetting",
+    "value": false
+  },
+  {
+    "name": "txtMajorRevGenerationFormat",
+    "txtValue": ""
+  },
+  {
+    "name": "chkCheckInConfiguration",
+    "value": false
+  },
+  {
+    "name": "txtDocManagerLicense",
+    "txtValue": ""
+  },
+  {
+    "name": "chkIsSWDMMode",
+    "value": false
+  },
+  {
+    "name": "txtClassificationToCAD",
+    "txtValue": "classification"
+  },
+  {
+    "name": "chkCheckIn3DXML",
+    "value": false
+  }
+]</cn_admin_setting>
+  <authoring_tool>SolidWorks</authoring_tool>
+ </Item>
+</AML>

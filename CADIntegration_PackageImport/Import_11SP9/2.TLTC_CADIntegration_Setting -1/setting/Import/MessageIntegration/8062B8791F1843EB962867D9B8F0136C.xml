@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="8062B8791F1843EB962867D9B8F0136C" action="add">
+  <en>Add Aras Item:{0}</en>
+  <item_number>msg_056</item_number>
+  <name />
+  <type>Message</type>
+  <zh_cn>新增Aras物件:{1}</zh_cn>
+  <zh_tw>新增Aras物件:{0}</zh_tw>
+ </Item>
+</AML>

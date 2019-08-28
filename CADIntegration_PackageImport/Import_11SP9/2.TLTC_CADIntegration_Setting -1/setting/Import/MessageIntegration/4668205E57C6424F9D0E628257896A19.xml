@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="4668205E57C6424F9D0E628257896A19" action="add">
+  <en>Get setting config error</en>
+  <item_number>msg_027</item_number>
+  <name />
+  <type>Message</type>
+  <zh_cn>设定档存取错误</zh_cn>
+  <zh_tw>設定檔存取錯誤</zh_tw>
+ </Item>
+</AML>

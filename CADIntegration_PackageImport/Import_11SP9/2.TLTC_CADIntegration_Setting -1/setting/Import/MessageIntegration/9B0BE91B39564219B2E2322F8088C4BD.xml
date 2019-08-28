@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="9B0BE91B39564219B2E2322F8088C4BD" action="add">
+  <en>Update Aras properties:{0}</en>
+  <item_number>msg_053</item_number>
+  <name />
+  <type>Message</type>
+  <zh_cn>更新Aras属性:{1}</zh_cn>
+  <zh_tw>更新Aras屬性:{0}</zh_tw>
+ </Item>
+</AML>

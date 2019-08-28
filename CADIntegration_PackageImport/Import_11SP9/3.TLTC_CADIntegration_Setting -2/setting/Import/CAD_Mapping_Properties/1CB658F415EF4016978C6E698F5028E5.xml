@@ -1,0 +1,13 @@
+﻿<AML>
+ <Item type="CAD_Mapping_Properties" id="1CB658F415EF4016978C6E698F5028E5" action="add">
+  <is_checkout>0</is_checkout>
+  <is_model_config>0</is_model_config>
+  <is_readonly>0</is_readonly>
+  <is_required>0</is_required>
+  <is_system>1</is_system>
+  <mapping_label>thumbnail</mapping_label>
+  <plm_field>thumbnail</plm_field>
+  <sort_order>1152</sort_order>
+  <source_id keyed_name="Solid Edge Mechanical/Drawing" type="CADIntegration_Setting">7A89B910192546F7842B8DEFEB9A2C0B</source_id>
+ </Item>
+</AML>

@@ -1,0 +1,13 @@
+﻿<AML>
+ <Item type="CAD_Mapping_Properties" id="F7F5C9E8A58048C08EB09E8169D1164D" action="add">
+  <is_checkout>0</is_checkout>
+  <is_model_config>0</is_model_config>
+  <is_readonly>0</is_readonly>
+  <is_required>0</is_required>
+  <is_system>1</is_system>
+  <mapping_label>組態</mapping_label>
+  <plm_field>configuration</plm_field>
+  <sort_order>3072</sort_order>
+  <source_id keyed_name="SolidWorks Mechanical/Assembly" type="CADIntegration_Setting">7016C5BA7EAF443582AC57FFB655D987</source_id>
+ </Item>
+</AML>

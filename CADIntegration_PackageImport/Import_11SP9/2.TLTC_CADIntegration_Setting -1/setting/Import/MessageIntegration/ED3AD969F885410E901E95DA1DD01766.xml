@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="ED3AD969F885410E901E95DA1DD01766" action="add">
+  <en>Download Error, please talk to administrator.</en>
+  <item_number>msg_026</item_number>
+  <name />
+  <type>Message</type>
+  <zh_cn>下载失败，请联络管理员</zh_cn>
+  <zh_tw>下載失敗，請聯絡管理員</zh_tw>
+ </Item>
+</AML>

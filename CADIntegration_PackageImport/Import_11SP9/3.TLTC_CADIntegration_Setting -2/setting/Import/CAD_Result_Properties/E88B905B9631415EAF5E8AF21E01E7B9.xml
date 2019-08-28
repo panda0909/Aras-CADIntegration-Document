@@ -1,0 +1,9 @@
+﻿<AML>
+ <Item type="CAD_Result_Properties" id="E88B905B9631415EAF5E8AF21E01E7B9" action="add">
+  <cn_property keyed_name="locked_by_id" type="Property">2C050D3BF7884ABD8F90C9B9C18589EF</cn_property>
+  <is_result>0</is_result>
+  <is_search>0</is_search>
+  <sort_order>384</sort_order>
+  <source_id keyed_name="AutoCAD Mechanical/Drawing" type="CADIntegration_Setting">707683378FD840CCBB6060882C2919D2</source_id>
+ </Item>
+</AML>

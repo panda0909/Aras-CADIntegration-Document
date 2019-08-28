@@ -1,0 +1,9 @@
+<AML>
+  <Item type="Value" id="71E53026DA6741A38741C3240F376C6A" action="add">
+    <label xml:lang="en">Integration Tool</label>
+    <sort_order>2756</sort_order>
+    <source_id keyed_name="Categories" type="List">EAB29654E2CD4D30B376957788198B40</source_id>
+    <value>Administration/Integration</value>
+    <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">整合套件</i18n:label>
+  </Item>
+</AML>

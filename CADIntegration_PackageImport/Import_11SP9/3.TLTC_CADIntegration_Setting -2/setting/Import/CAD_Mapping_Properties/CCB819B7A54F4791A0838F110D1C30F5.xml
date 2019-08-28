@@ -1,0 +1,14 @@
+﻿<AML>
+ <Item type="CAD_Mapping_Properties" id="CCB819B7A54F4791A0838F110D1C30F5" action="add">
+  <is_checkout>0</is_checkout>
+  <is_model_config>0</is_model_config>
+  <is_readonly>0</is_readonly>
+  <is_required>0</is_required>
+  <is_system>0</is_system>
+  <mapping_field />
+  <mapping_label>major_rev</mapping_label>
+  <plm_field>major_rev</plm_field>
+  <sort_order>512</sort_order>
+  <source_id keyed_name="AutoCAD Mechanical/Drawing" type="CADIntegration_Setting">707683378FD840CCBB6060882C2919D2</source_id>
+ </Item>
+</AML>

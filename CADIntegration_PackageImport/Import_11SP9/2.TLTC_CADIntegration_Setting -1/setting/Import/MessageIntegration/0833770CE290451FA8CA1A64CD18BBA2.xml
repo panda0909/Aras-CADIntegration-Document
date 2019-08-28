@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="0833770CE290451FA8CA1A64CD18BBA2" action="add">
+  <en>Path is null</en>
+  <item_number>msg_036</item_number>
+  <name />
+  <type>Message</type>
+  <zh_cn>路径无效=null</zh_cn>
+  <zh_tw>路徑無效=null</zh_tw>
+ </Item>
+</AML>

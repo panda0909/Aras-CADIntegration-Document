@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="5E7AF5725DB64CF591A83320A2818599" action="add">
+  <en>Will open cad:{0}</en>
+  <item_number>msg_031</item_number>
+  <name />
+  <type>Message</type>
+  <zh_cn>即将开启图档:{0}</zh_cn>
+  <zh_tw>即將開啟圖檔:{0}</zh_tw>
+ </Item>
+</AML>

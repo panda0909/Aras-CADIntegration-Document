@@ -1,0 +1,9 @@
+﻿<AML>
+ <Item type="CAD_Result_Properties" id="2DF8E8F1D4CF49E484F9785F0209D6D5" action="add">
+  <cn_property keyed_name="thumbnail" type="Property">8BDF3473237447DE993D3D1D8BEEC9CD</cn_property>
+  <is_result>1</is_result>
+  <is_search>0</is_search>
+  <sort_order>1024</sort_order>
+  <source_id keyed_name="Solid Edge Sheet Metal/Part" type="CADIntegration_Setting">321ACE56C6A641118DD6927EDD6F8AD6</source_id>
+ </Item>
+</AML>

@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="EFFBA9F112E34A7C9DD9E24A3D663729" action="add">
+  <en>Open file failed:{0}</en>
+  <item_number>msg_009</item_number>
+  <name />
+  <type>Message</type>
+  <zh_cn>开启档案失败:{0}</zh_cn>
+  <zh_tw>開啟檔案失敗:{0}</zh_tw>
+ </Item>
+</AML>

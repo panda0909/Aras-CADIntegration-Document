@@ -1,0 +1,14 @@
+﻿<AML>
+ <Item type="CAD_Mapping_Properties" id="6449FEC56BC64D2FB816F4AD421FACD2" action="add">
+  <is_checkout>0</is_checkout>
+  <is_model_config>0</is_model_config>
+  <is_readonly>0</is_readonly>
+  <is_required>0</is_required>
+  <is_system>1</is_system>
+  <mapping_field />
+  <mapping_label>viewable_file</mapping_label>
+  <plm_field>viewable_file</plm_field>
+  <sort_order>1024</sort_order>
+  <source_id keyed_name="Solid Edge Mechanical/Assembly" type="CADIntegration_Setting">A54FD7CE79B043ADA555704B1E007E24</source_id>
+ </Item>
+</AML>

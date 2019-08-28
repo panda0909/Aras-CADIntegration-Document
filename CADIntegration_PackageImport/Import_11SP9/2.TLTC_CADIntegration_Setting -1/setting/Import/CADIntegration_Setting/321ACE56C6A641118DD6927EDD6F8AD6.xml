@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="CADIntegration_Setting" id="321ACE56C6A641118DD6927EDD6F8AD6" action="add">
+  <cn_description>Metal零件</cn_description>
+  <cn_file_ext>.psm</cn_file_ext>
+  <cn_treesmallicon>4</cn_treesmallicon>
+  <authoring_tool>Solid Edge</authoring_tool>
+  <classification>Sheet Metal/Part</classification>
+  <Relationships></Relationships>
+ </Item>
+</AML>

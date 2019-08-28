@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="CADIntegration_Setting" id="A54FD7CE79B043ADA555704B1E007E24" action="add">
+  <cn_description>SolidEdge組合鍵</cn_description>
+  <cn_file_ext>.Asm</cn_file_ext>
+  <cn_treesmallicon>0</cn_treesmallicon>
+  <authoring_tool>Solid Edge</authoring_tool>
+  <classification>Mechanical/Assembly</classification>
+  <Relationships></Relationships>
+ </Item>
+</AML>

@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="5120D9CB71524FECBE4F6A5DB2DD100B" action="add">
+  <en>Get ItemNumber Methoed Failed:{0}</en>
+  <item_number>msg_040</item_number>
+  <name />
+  <type>Message</type>
+  <zh_cn>领号方法失败:{0}</zh_cn>
+  <zh_tw>領號方法失敗:{0}</zh_tw>
+ </Item>
+</AML>

@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="1BF0217384DB4F1DB537C5DD36BD128F" action="add">
+  <en>Download</en>
+  <item_number>name_004</item_number>
+  <name>download</name>
+  <type>name</type>
+  <zh_cn>下載</zh_cn>
+  <zh_tw>下載</zh_tw>
+ </Item>
+</AML>

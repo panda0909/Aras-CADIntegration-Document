@@ -1,0 +1,78 @@
+Login successfully
+Login :admin
+Server   :http://localhost/devsp12
+Database :Dev11Sp12_DEMO
+Updating the list of Packages for target database 
+Expanding the list of existing packages
+Start of importing packages
+start of execution : 10/12/2018 14:17:55
+Updating tltc.cad.integration to 'inprogress' release status
+       ****Import with merge option tltc.cad.integration****
+Processing (add)   id : F225A34E53534EFF970BBB3C20302ABB    keyed_name : tltc_db_setting    type : Variable  
+********** Start of reference checking ************
+<Item type='ItemType' action='get' select='id'><name>Variable</name><Relationships><Item type='Property' action='get' select='name'/><Item type='RelationshipType' action='get' select='name'/></Relationships></Item>
+  was obtained from server
+************* End of reference checking ************
+Item successfully applied(add)   id : F225A34E53534EFF970BBB3C20302ABB    keyed_name : tltc_db_setting    type : Variable  
+Adding item into PackageDefinition with id = F225A34E53534EFF970BBB3C20302ABB and type = Variable
+          ****ErrorMessage****
+       無效的物件名稱 'CAD_CONFIGURATION_LIST'。
+          ********************
+Updating tltc.cad.integration to failed release status
+end of exe          ****ErrorMessage****
+       無效的物件名稱 'CAD_CONFIGURATION_LIST'。
+          ********************
+Start of importing packages
+start of execution : 10/12/2018 14:18:06
+Updating tltc.cad.integration to 'inprogress' release status
+       ****Import with merge option tltc.cad.integration****
+Processing (add)   id : F225A34E53534EFF970BBB3C20302ABB    keyed_name : tltc_db_setting    type : Variable  
+********** Start of reference checking ************
+<Item type='ItemType' action='get' select='id'><name>Variable</name><Relationships><Item type='Property' action='get' select='name'/><Item type='RelationshipType' action='get' select='name'/></Relationships></Item>
+  was obtained from cache
+************* End of reference checking ************
+Item successfully applied(add)   id : F225A34E53534EFF970BBB3C20302ABB    keyed_name : tltc_db_setting    type : Variable  
+Adding item into PackageDefinition with id = F225A34E53534EFF970BBB3C20302ABB and type = Variable
+          ****ErrorMessage****
+       無效的物件名稱 'CAD_CONFIGURATION_LIST'。
+          ********************
+Updating tltc.cad.integration to failed release status
+end of exec          ****ErrorMessage****
+       無效的物件名稱 'CAD_CONFIGURATION_LIST'。
+          ********************
+Start of importing packages
+start of execution : 10/12/2018 14:18:38
+Updating tltc.cad.integration to 'inprogress' release status
+       ****Import with merge option tltc.cad.integration****
+Processing (add)   id : F225A34E53534EFF970BBB3C20302ABB    keyed_name : tltc_db_setting    type : Variable  
+********** Start of reference checking ************
+<Item type='ItemType' action='get' select='id'><name>Variable</name><Relationships><Item type='Property' action='get' select='name'/><Item type='RelationshipType' action='get' select='name'/></Relationships></Item>
+  was obtained from cache
+************* End of reference checking ************
+Item successfully applied(add)   id : F225A34E53534EFF970BBB3C20302ABB    keyed_name : tltc_db_setting    type : Variable  
+Adding item into PackageDefinition with id = F225A34E53534EFF970BBB3C20302ABB and type = Variable
+          ****ErrorMessage****
+       無效的物件名稱 'CAD_CONFIGURATION_LIST'。
+          ********************
+Updating tltc.cad.integration to failed release status
+end of exec          ****ErrorMessage****
+       無效的物件名稱 'CAD_CONFIGURATION_LIST'。
+          ********************
+Start of importing packages
+start of execution : 10/12/2018 14:18:53
+Updating tltc.cad.integration to 'inprogress' release status
+       ****Import with merge option tltc.cad.integration****
+Processing (add)   id : F225A34E53534EFF970BBB3C20302ABB    keyed_name : tltc_db_setting    type : Variable  
+********** Start of reference checking ************
+<Item type='ItemType' action='get' select='id'><name>Variable</name><Relationships><Item type='Property' action='get' select='name'/><Item type='RelationshipType' action='get' select='name'/></Relationships></Item>
+  was obtained from cache
+************* End of reference checking ************
+Item successfully applied(add)   id : F225A34E53534EFF970BBB3C20302ABB    keyed_name : tltc_db_setting    type : Variable  
+Adding item into PackageDefinition with id = F225A34E53534EFF970BBB3C20302ABB and type = Variable
+          ****ErrorMessage****
+       無效的物件名稱 'CAD_CONFIGURATION_LIST'。
+          ********************
+Updating tltc.cad.integration to failed release status
+end of exec          ****ErrorMessage****
+       無效的物件名稱 'CAD_CONFIGURATION_LIST'。
+          ********************

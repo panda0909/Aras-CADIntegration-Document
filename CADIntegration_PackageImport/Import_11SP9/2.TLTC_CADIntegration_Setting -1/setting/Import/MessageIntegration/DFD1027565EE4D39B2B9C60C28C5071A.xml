@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="DFD1027565EE4D39B2B9C60C28C5071A" action="add">
+  <en>Logout Success</en>
+  <item_number>msg_021</item_number>
+  <name />
+  <type>Message</type>
+  <zh_cn>登出成功</zh_cn>
+  <zh_tw>登出成功</zh_tw>
+ </Item>
+</AML>

@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="A77426F3AA9341A6986319B3096A867C" action="add">
+  <en>The file properties is null</en>
+  <item_number>msg_037</item_number>
+  <name />
+  <type>Message</type>
+  <zh_cn>档案没有属性:{0}</zh_cn>
+  <zh_tw>檔案沒有屬性:{0}</zh_tw>
+ </Item>
+</AML>

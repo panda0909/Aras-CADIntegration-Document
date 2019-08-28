@@ -1,0 +1,14 @@
+﻿<AML>
+ <Item type="CAD_Mapping_Properties" id="955D0B3C71EA463F83AE61A83DE70291" action="add">
+  <is_checkout>0</is_checkout>
+  <is_model_config>0</is_model_config>
+  <is_readonly>0</is_readonly>
+  <is_required>0</is_required>
+  <is_system>0</is_system>
+  <mapping_field>title</mapping_field>
+  <mapping_label>圖檔編號</mapping_label>
+  <plm_field>item_number</plm_field>
+  <sort_order>128</sort_order>
+  <source_id keyed_name="SolidWorks Mechanical/Part" type="CADIntegration_Setting">E3716145F0B049DFB7F85A269833EDD1</source_id>
+ </Item>
+</AML>

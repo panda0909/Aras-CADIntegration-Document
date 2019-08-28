@@ -1,0 +1,9 @@
+<AML>
+  <Item type="Value" id="D5E6FAD349704AB8A919CA4A76AB19DA" action="add">
+    <label xml:lang="en">CAD Integration-Other Setting</label>
+    <sort_order>2884</sort_order>
+    <source_id keyed_name="Categories" type="List">EAB29654E2CD4D30B376957788198B40</source_id>
+    <value>Administration/Integration/CADIntegration/Other</value>
+    <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">CAD整合-進階設定</i18n:label>
+  </Item>
+</AML>

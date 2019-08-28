@@ -1,0 +1,14 @@
+﻿<AML>
+ <Item type="CAD_Mapping_Properties" id="CD497D269B034234A21E8788196C50E4" action="add">
+  <is_checkout>0</is_checkout>
+  <is_model_config>0</is_model_config>
+  <is_readonly>0</is_readonly>
+  <is_required>0</is_required>
+  <is_system>1</is_system>
+  <mapping_field />
+  <mapping_label>viewable_file</mapping_label>
+  <plm_field>viewable_file</plm_field>
+  <sort_order>1024</sort_order>
+  <source_id keyed_name="SolidWorks Mechanical/Part" type="CADIntegration_Setting">E3716145F0B049DFB7F85A269833EDD1</source_id>
+ </Item>
+</AML>

@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="8EB9ED4E1B614FCD881BAB16F4571951" action="add">
+  <en>File Compare Exception:{0}</en>
+  <item_number>msg_043</item_number>
+  <name />
+  <type>Message</type>
+  <zh_cn>差异比较功能例外错误:{0}</zh_cn>
+  <zh_tw>差異比較功能例外錯誤:{0}</zh_tw>
+ </Item>
+</AML>

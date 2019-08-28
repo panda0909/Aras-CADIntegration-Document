@@ -1,0 +1,26 @@
+<AML>
+  <Item type="Method" id="83E142DEDB53411BB3B6709FF0932477" action="add">
+    <execution_allowed_to keyed_name="World" type="Identity">A73B655731924CD0B027E4F4D5FCC0A9</execution_allowed_to>
+    <method_code><![CDATA[//Creator:Panda
+//Name:CADIntegration_GetItemtypeDataBy
+//Type:C#
+//Event: CADIntegration
+//Comments:v0.1 Developed By Panda @Broadway 2018/07/24
+//function:CAD整合Aras工作區，讀取不重複資料
+//============================================================
+
+Aras.Server.Security.Identity plmIdentity = Aras.Server.Security.Identity.GetByName("Aras PLM");
+Boolean PermissionWasSet = Aras.Server.Security.Permissions.GrantIdentity(plmIdentity);
+Innovator inn = this.getInnovator();
+string sql = "select DISTINCT {0} from [innovator].[cad] where cad.is_current='1'";
+string field_name = this.getProperty("field_name","");
+if(field_name!=""){
+    sql=string.Format(sql,field_name);
+}
+Item itm = inn.applySQL(sql);
+if (PermissionWasSet) Aras.Server.Security.Permissions.RevokeIdentity(plmIdentity);
+return itm;]]></method_code>
+    <method_type>C#</method_type>
+    <name>CADIntegration_GetItemtypeDataBy</name>
+  </Item>
+</AML>

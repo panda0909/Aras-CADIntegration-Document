@@ -1,0 +1,310 @@
+<AML>
+  <Item type="ItemType" id="40ACC3B536E84DAEB8CC0AA4FC7F5DA5" action="add">
+    <allow_private_permission>1</allow_private_permission>
+    <auto_search>0</auto_search>
+    <enforce_discovery>1</enforce_discovery>
+    <hide_where_used>0</hide_where_used>
+    <implementation_type>table</implementation_type>
+    <instance_data>CADINTEGRATION_BUG</instance_data>
+    <is_dependent>0</is_dependent>
+    <is_relationship>0</is_relationship>
+    <is_versionable>0</is_versionable>
+    <label xml:lang="en">CADIntegration_Bug</label>
+    <label_plural xml:lang="en">CADIntegration_Bug</label_plural>
+    <revisions keyed_name="Default" type="Revision">7FE395DD8B9F4E1090756A34B733D75E</revisions>
+    <show_parameters_tab>1</show_parameters_tab>
+    <structure_view>tabs on</structure_view>
+    <unlock_on_logout>0</unlock_on_logout>
+    <use_src_access>0</use_src_access>
+    <name>CADIntegration_Bug</name>
+    <Relationships>
+      <Item type="Property" id="F3A9A639391F49738A795D3901A0932F" action="add">
+        <column_alignment>left</column_alignment>
+        <data_type>text</data_type>
+        <is_hidden>0</is_hidden>
+        <is_hidden2>0</is_hidden2>
+        <is_indexed>0</is_indexed>
+        <is_keyed>0</is_keyed>
+        <is_multi_valued>0</is_multi_valued>
+        <is_required>0</is_required>
+        <range_inclusive>0</range_inclusive>
+        <readonly>0</readonly>
+        <sort_order>4352</sort_order>
+        <source_id keyed_name="CADIntegration_Bug" type="ItemType" name="CADIntegration_Bug">40ACC3B536E84DAEB8CC0AA4FC7F5DA5</source_id>
+        <track_history>0</track_history>
+        <name>bug_base_manufacture</name>
+        <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">主機板廠商</i18n:label>
+      </Item>
+      <Item type="Property" id="1FFF7680ABF9489A9E5C11A9C48B3030" action="add">
+        <column_alignment>left</column_alignment>
+        <data_type>text</data_type>
+        <is_hidden>0</is_hidden>
+        <is_hidden2>0</is_hidden2>
+        <is_indexed>0</is_indexed>
+        <is_keyed>0</is_keyed>
+        <is_multi_valued>0</is_multi_valued>
+        <is_required>0</is_required>
+        <range_inclusive>0</range_inclusive>
+        <readonly>0</readonly>
+        <sort_order>4480</sort_order>
+        <source_id keyed_name="CADIntegration_Bug" type="ItemType" name="CADIntegration_Bug">40ACC3B536E84DAEB8CC0AA4FC7F5DA5</source_id>
+        <track_history>0</track_history>
+        <name>bug_base_product</name>
+        <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">主機板產品</i18n:label>
+      </Item>
+      <Item type="Property" id="3AB1FA3F7BB544949AF05F8527E12BE0" action="add">
+        <column_alignment>left</column_alignment>
+        <data_type>text</data_type>
+        <is_hidden>0</is_hidden>
+        <is_hidden2>0</is_hidden2>
+        <is_indexed>0</is_indexed>
+        <is_keyed>0</is_keyed>
+        <is_multi_valued>0</is_multi_valued>
+        <is_required>0</is_required>
+        <label xml:lang="en">bug_content</label>
+        <range_inclusive>0</range_inclusive>
+        <readonly>0</readonly>
+        <sort_order>3072</sort_order>
+        <source_id keyed_name="CADIntegration_Bug" type="ItemType" name="CADIntegration_Bug">40ACC3B536E84DAEB8CC0AA4FC7F5DA5</source_id>
+        <track_history>0</track_history>
+        <name>bug_content</name>
+        <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">錯誤內容</i18n:label>
+      </Item>
+      <Item type="Property" id="8711001D4611482D951DAF74CDCBC5E2" action="add">
+        <column_alignment>left</column_alignment>
+        <data_type>text</data_type>
+        <is_hidden>0</is_hidden>
+        <is_hidden2>0</is_hidden2>
+        <is_indexed>0</is_indexed>
+        <is_keyed>0</is_keyed>
+        <is_multi_valued>0</is_multi_valued>
+        <is_required>0</is_required>
+        <range_inclusive>0</range_inclusive>
+        <readonly>0</readonly>
+        <sort_order>4096</sort_order>
+        <source_id keyed_name="CADIntegration_Bug" type="ItemType" name="CADIntegration_Bug">40ACC3B536E84DAEB8CC0AA4FC7F5DA5</source_id>
+        <track_history>0</track_history>
+        <name>bug_cpu_count</name>
+        <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">CPU 數量</i18n:label>
+      </Item>
+      <Item type="Property" id="84EEA2BBB50B428DA51E7E8E5E57D446" action="add">
+        <column_alignment>left</column_alignment>
+        <data_source keyed_name="File" type="ItemType" name="File">8052A558B9084D41B9F11805E464F443</data_source>
+        <data_type>item</data_type>
+        <is_hidden>0</is_hidden>
+        <is_hidden2>0</is_hidden2>
+        <is_indexed>0</is_indexed>
+        <is_keyed>0</is_keyed>
+        <is_multi_valued>0</is_multi_valued>
+        <is_required>0</is_required>
+        <item_behavior>float</item_behavior>
+        <label xml:lang="en">bug_img1</label>
+        <range_inclusive>0</range_inclusive>
+        <readonly>0</readonly>
+        <sort_order>3328</sort_order>
+        <source_id keyed_name="CADIntegration_Bug" type="ItemType" name="CADIntegration_Bug">40ACC3B536E84DAEB8CC0AA4FC7F5DA5</source_id>
+        <track_history>0</track_history>
+        <name>bug_img1</name>
+        <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">錯誤圖片</i18n:label>
+      </Item>
+      <Item type="Property" id="E2EC4B2AC70C4AE08CE3471A4C10FCE1" action="add">
+        <column_alignment>left</column_alignment>
+        <data_type>text</data_type>
+        <is_hidden>0</is_hidden>
+        <is_hidden2>0</is_hidden2>
+        <is_indexed>0</is_indexed>
+        <is_keyed>0</is_keyed>
+        <is_multi_valued>0</is_multi_valued>
+        <is_required>0</is_required>
+        <range_inclusive>0</range_inclusive>
+        <readonly>0</readonly>
+        <sort_order>4224</sort_order>
+        <source_id keyed_name="CADIntegration_Bug" type="ItemType" name="CADIntegration_Bug">40ACC3B536E84DAEB8CC0AA4FC7F5DA5</source_id>
+        <track_history>0</track_history>
+        <name>bug_memory</name>
+        <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">記憶體容量</i18n:label>
+      </Item>
+      <Item type="Property" id="B375512157064E25BC6BD3B6074A13DD" action="add">
+        <column_alignment>left</column_alignment>
+        <data_type>text</data_type>
+        <is_hidden>0</is_hidden>
+        <is_hidden2>0</is_hidden2>
+        <is_indexed>0</is_indexed>
+        <is_keyed>0</is_keyed>
+        <is_multi_valued>0</is_multi_valued>
+        <is_required>0</is_required>
+        <range_inclusive>0</range_inclusive>
+        <readonly>0</readonly>
+        <sort_order>3840</sort_order>
+        <source_id keyed_name="CADIntegration_Bug" type="ItemType" name="CADIntegration_Bug">40ACC3B536E84DAEB8CC0AA4FC7F5DA5</source_id>
+        <track_history>0</track_history>
+        <name>bug_os_platorm</name>
+        <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">作業系統</i18n:label>
+      </Item>
+      <Item type="Property" id="C79CB86472DA4062A8C6C7E5F9948856" action="add">
+        <column_alignment>left</column_alignment>
+        <data_type>text</data_type>
+        <is_hidden>0</is_hidden>
+        <is_hidden2>0</is_hidden2>
+        <is_indexed>0</is_indexed>
+        <is_keyed>0</is_keyed>
+        <is_multi_valued>0</is_multi_valued>
+        <is_required>0</is_required>
+        <range_inclusive>0</range_inclusive>
+        <readonly>0</readonly>
+        <sort_order>3712</sort_order>
+        <source_id keyed_name="CADIntegration_Bug" type="ItemType" name="CADIntegration_Bug">40ACC3B536E84DAEB8CC0AA4FC7F5DA5</source_id>
+        <track_history>0</track_history>
+        <name>bug_os_type</name>
+        <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">作業系統版本</i18n:label>
+      </Item>
+      <Item type="Property" id="724F2532634548F19CD49884BB6F2EB5" action="add">
+        <column_alignment>left</column_alignment>
+        <data_type>text</data_type>
+        <is_hidden>0</is_hidden>
+        <is_hidden2>0</is_hidden2>
+        <is_indexed>0</is_indexed>
+        <is_keyed>0</is_keyed>
+        <is_multi_valued>0</is_multi_valued>
+        <is_required>0</is_required>
+        <range_inclusive>0</range_inclusive>
+        <readonly>0</readonly>
+        <sort_order>3968</sort_order>
+        <source_id keyed_name="CADIntegration_Bug" type="ItemType" name="CADIntegration_Bug">40ACC3B536E84DAEB8CC0AA4FC7F5DA5</source_id>
+        <track_history>0</track_history>
+        <name>bug_os_version</name>
+        <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">版本</i18n:label>
+      </Item>
+      <Item type="Property" id="79FB8F11B42741619769D05D56D34708" action="add">
+        <column_alignment>left</column_alignment>
+        <data_type>text</data_type>
+        <is_hidden>0</is_hidden>
+        <is_hidden2>0</is_hidden2>
+        <is_indexed>0</is_indexed>
+        <is_keyed>0</is_keyed>
+        <is_multi_valued>0</is_multi_valued>
+        <is_required>0</is_required>
+        <range_inclusive>0</range_inclusive>
+        <readonly>0</readonly>
+        <sort_order>4608</sort_order>
+        <source_id keyed_name="CADIntegration_Bug" type="ItemType" name="CADIntegration_Bug">40ACC3B536E84DAEB8CC0AA4FC7F5DA5</source_id>
+        <track_history>0</track_history>
+        <name>bug_software_build</name>
+        <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">軟體組件Build</i18n:label>
+      </Item>
+      <Item type="Property" id="308C614257FE489A9DF08764DD6FAE65" action="add">
+        <column_alignment>left</column_alignment>
+        <data_type>text</data_type>
+        <is_hidden>0</is_hidden>
+        <is_hidden2>0</is_hidden2>
+        <is_indexed>0</is_indexed>
+        <is_keyed>0</is_keyed>
+        <is_multi_valued>0</is_multi_valued>
+        <is_required>0</is_required>
+        <range_inclusive>0</range_inclusive>
+        <readonly>0</readonly>
+        <sort_order>4736</sort_order>
+        <source_id keyed_name="CADIntegration_Bug" type="ItemType" name="CADIntegration_Bug">40ACC3B536E84DAEB8CC0AA4FC7F5DA5</source_id>
+        <track_history>0</track_history>
+        <name>bug_sofware_revision</name>
+        <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">軟體版本</i18n:label>
+      </Item>
+      <Item type="Property" id="EFB3BC5D23DF48EB888891CA28D297B2" action="add">
+        <column_alignment>left</column_alignment>
+        <data_type>text</data_type>
+        <is_hidden>0</is_hidden>
+        <is_hidden2>0</is_hidden2>
+        <is_indexed>0</is_indexed>
+        <is_keyed>0</is_keyed>
+        <is_multi_valued>0</is_multi_valued>
+        <is_required>0</is_required>
+        <range_inclusive>0</range_inclusive>
+        <readonly>0</readonly>
+        <sort_order>3584</sort_order>
+        <source_id keyed_name="CADIntegration_Bug" type="ItemType" name="CADIntegration_Bug">40ACC3B536E84DAEB8CC0AA4FC7F5DA5</source_id>
+        <track_history>0</track_history>
+        <name>bug_system_infomation</name>
+        <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">系統資訊</i18n:label>
+      </Item>
+      <Item type="Property" id="17B778717A2B4A9A84013CD507BA001B" action="add">
+        <column_alignment>left</column_alignment>
+        <data_type>string</data_type>
+        <is_hidden>0</is_hidden>
+        <is_hidden2>0</is_hidden2>
+        <is_indexed>0</is_indexed>
+        <is_keyed>0</is_keyed>
+        <is_multi_valued>0</is_multi_valued>
+        <is_required>0</is_required>
+        <label xml:lang="en">bug_tool</label>
+        <range_inclusive>0</range_inclusive>
+        <readonly>0</readonly>
+        <sort_order>3200</sort_order>
+        <source_id keyed_name="CADIntegration_Bug" type="ItemType" name="CADIntegration_Bug">40ACC3B536E84DAEB8CC0AA4FC7F5DA5</source_id>
+        <stored_length>64</stored_length>
+        <track_history>0</track_history>
+        <name>bug_tool</name>
+        <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">編輯工具</i18n:label>
+      </Item>
+      <Item type="Property" id="A263C959C70B45B3B5611D43A5C68C64" action="add">
+        <column_alignment>left</column_alignment>
+        <data_type>text</data_type>
+        <is_hidden>0</is_hidden>
+        <is_hidden2>0</is_hidden2>
+        <is_indexed>0</is_indexed>
+        <is_keyed>0</is_keyed>
+        <is_multi_valued>0</is_multi_valued>
+        <is_required>0</is_required>
+        <label xml:lang="en">integration_log</label>
+        <range_inclusive>0</range_inclusive>
+        <readonly>0</readonly>
+        <sort_order>3456</sort_order>
+        <source_id keyed_name="CADIntegration_Bug" type="ItemType" name="CADIntegration_Bug">40ACC3B536E84DAEB8CC0AA4FC7F5DA5</source_id>
+        <track_history>0</track_history>
+        <name>integration_log</name>
+        <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">整合元件LOG</i18n:label>
+      </Item>
+      <Item type="View" id="9A9016C83BEA419F9E62CFD7D5029A75" action="add">
+        <client>js</client>
+        <related_id keyed_name="CADIntegration_Bug" type="Form">46D56AFA5DC74E34B70D6D1E5AAA7720</related_id>
+        <role keyed_name="World" type="Identity">
+          <Item type="Identity" action="get" select="id">
+            <name>World</name>
+          </Item>
+        </role>
+        <show_ssvc>0</show_ssvc>
+        <sort_order>128</sort_order>
+        <source_id keyed_name="CADIntegration_Bug" type="ItemType" name="CADIntegration_Bug">40ACC3B536E84DAEB8CC0AA4FC7F5DA5</source_id>
+        <type>default</type>
+      </Item>
+      <Item type="TOC Access" id="16D11D2C7FC046079E70221DA931AB87" action="add">
+        <related_id keyed_name="Administrators" type="Identity">2618D6F5A90949BAA7E920D1B04C7EE1</related_id>
+        <sort_order>128</sort_order>
+        <source_id keyed_name="CADIntegration_Bug" type="ItemType" name="CADIntegration_Bug">40ACC3B536E84DAEB8CC0AA4FC7F5DA5</source_id>
+        <category>Administration/Integration/CADIntegration</category>
+      </Item>
+      <Item type="TOC View" id="6FF4FB23D39345D3B44717BBB3809E24" action="add">
+        <related_id keyed_name="Administrators" type="Identity">2618D6F5A90949BAA7E920D1B04C7EE1</related_id>
+        <sort_order>128</sort_order>
+        <source_id keyed_name="CADIntegration_Bug" type="ItemType" name="CADIntegration_Bug">40ACC3B536E84DAEB8CC0AA4FC7F5DA5</source_id>
+      </Item>
+      <Item type="Can Add" id="C2986A2031844669A67DC19006084EF2" action="add">
+        <can_add>1</can_add>
+        <related_id keyed_name="World" type="Identity">
+          <Item type="Identity" action="get" select="id">
+            <name>World</name>
+          </Item>
+        </related_id>
+        <sort_order>128</sort_order>
+        <source_id keyed_name="CADIntegration_Bug" type="ItemType" name="CADIntegration_Bug">40ACC3B536E84DAEB8CC0AA4FC7F5DA5</source_id>
+      </Item>
+      <Item type="Allowed Permission" id="3EBFCFBEE53A4831803A8F9F1B03A989" action="add">
+        <is_default>1</is_default>
+        <related_id keyed_name="Default Access" type="Permission">9122CD065CF04141B8EFE263FC80BEA4</related_id>
+        <sort_order>128</sort_order>
+        <source_id keyed_name="CADIntegration_Bug" type="ItemType" name="CADIntegration_Bug">40ACC3B536E84DAEB8CC0AA4FC7F5DA5</source_id>
+      </Item>
+    </Relationships>
+    <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">3.CAD整合錯誤回報</i18n:label>
+    <i18n:label_plural xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">3.CAD整合錯誤回報</i18n:label_plural>
+  </Item>
+</AML>

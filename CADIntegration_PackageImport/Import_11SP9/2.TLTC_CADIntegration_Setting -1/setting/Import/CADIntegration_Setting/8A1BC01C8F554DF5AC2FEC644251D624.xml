@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="CADIntegration_Setting" id="8A1BC01C8F554DF5AC2FEC644251D624" action="add">
+  <cn_description>Solidworks 2D圖</cn_description>
+  <cn_file_ext>.slddrw</cn_file_ext>
+  <cn_treesmallicon>10</cn_treesmallicon>
+  <authoring_tool>SolidWorks</authoring_tool>
+  <classification>Mechanical/Drawing</classification>
+  <Relationships></Relationships>
+ </Item>
+</AML>

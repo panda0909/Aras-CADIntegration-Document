@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="BECBF5D92E574567BCD413D097FED79F" action="add">
+  <en>Download error:{0}\r{1}</en>
+  <item_number>msg_038</item_number>
+  <name />
+  <type>Message</type>
+  <zh_cn>下载例外错误:{0}\r{1}</zh_cn>
+  <zh_tw>下載例外錯誤:{0}\r{1}</zh_tw>
+ </Item>
+</AML>

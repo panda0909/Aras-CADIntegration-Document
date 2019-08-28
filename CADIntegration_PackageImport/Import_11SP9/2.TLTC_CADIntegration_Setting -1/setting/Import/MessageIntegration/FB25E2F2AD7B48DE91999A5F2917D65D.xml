@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="FB25E2F2AD7B48DE91999A5F2917D65D" action="add">
+  <en>Open file success</en>
+  <item_number>msg_010</item_number>
+  <name />
+  <type>Message</type>
+  <zh_cn>开启档案成功</zh_cn>
+  <zh_tw>開啟檔案成功</zh_tw>
+ </Item>
+</AML>

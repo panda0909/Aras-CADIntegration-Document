@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="04F14437303E496EAEE44F328B76958F" action="add">
+  <en>Check required properties.</en>
+  <item_number>msg_065</item_number>
+  <name>CheckProperties</name>
+  <type>Message</type>
+  <zh_cn>請檢查紅色必填欄位</zh_cn>
+  <zh_tw>請檢查紅色必填欄位</zh_tw>
+ </Item>
+</AML>

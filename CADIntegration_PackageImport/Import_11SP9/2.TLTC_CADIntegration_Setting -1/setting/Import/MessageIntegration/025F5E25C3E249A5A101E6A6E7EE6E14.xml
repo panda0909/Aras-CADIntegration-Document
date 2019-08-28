@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="025F5E25C3E249A5A101E6A6E7EE6E14" action="add">
+  <en>Get Number Success</en>
+  <item_number>msg_064</item_number>
+  <name />
+  <type>Message</type>
+  <zh_cn>领号成功</zh_cn>
+  <zh_tw>領號成功</zh_tw>
+ </Item>
+</AML>

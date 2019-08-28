@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="3E4ABEFEC49B43F3BBD4AAD3DC514807" action="add">
+  <en>Can't check the item</en>
+  <item_number>msg_008</item_number>
+  <name />
+  <type>Message</type>
+  <zh_cn>不可勾選</zh_cn>
+  <zh_tw>不可勾選</zh_tw>
+ </Item>
+</AML>

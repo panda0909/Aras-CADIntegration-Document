@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="737DB2E564AB48E5B213DD2A78950754" action="add">
+  <en>CheckIn Exception:{0}\r{1}</en>
+  <item_number>msg_039</item_number>
+  <name />
+  <type>Message</type>
+  <zh_cn>签入储存例外错误:{0}\r{1}</zh_cn>
+  <zh_tw>簽入儲存例外錯誤:{0}\r{1}</zh_tw>
+ </Item>
+</AML>

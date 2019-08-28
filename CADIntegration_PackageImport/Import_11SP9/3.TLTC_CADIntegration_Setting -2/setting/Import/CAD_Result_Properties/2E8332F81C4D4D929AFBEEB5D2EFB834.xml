@@ -1,0 +1,9 @@
+﻿<AML>
+ <Item type="CAD_Result_Properties" id="2E8332F81C4D4D929AFBEEB5D2EFB834" action="add">
+  <cn_property keyed_name="name" type="Property">3AC10B5A42004CC3A1C76B3CC3955FA5</cn_property>
+  <is_result>1</is_result>
+  <is_search>1</is_search>
+  <sort_order>256</sort_order>
+  <source_id keyed_name="Solid Edge ALL" type="CADIntegration_Setting">5FE46FD7D7904658A75253B25D547260</source_id>
+ </Item>
+</AML>

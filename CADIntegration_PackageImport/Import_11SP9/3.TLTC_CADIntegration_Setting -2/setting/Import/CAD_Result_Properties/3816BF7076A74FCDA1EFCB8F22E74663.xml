@@ -1,0 +1,9 @@
+﻿<AML>
+ <Item type="CAD_Result_Properties" id="3816BF7076A74FCDA1EFCB8F22E74663" action="add">
+  <cn_property keyed_name="thumbnail" type="Property">8BDF3473237447DE993D3D1D8BEEC9CD</cn_property>
+  <is_result>1</is_result>
+  <is_search>0</is_search>
+  <sort_order>512</sort_order>
+  <source_id keyed_name="Solid Edge ALL" type="CADIntegration_Setting">5FE46FD7D7904658A75253B25D547260</source_id>
+ </Item>
+</AML>

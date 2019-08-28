@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="5D7BBE6BC2D54114A160B8123BCBB275" action="add">
+  <en>Login failed</en>
+  <item_number>msg_001</item_number>
+  <name />
+  <type>Message</type>
+  <zh_cn>登入失败</zh_cn>
+  <zh_tw>登入失敗</zh_tw>
+ </Item>
+</AML>

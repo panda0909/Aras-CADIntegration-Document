@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Revision>2018.03.27</Revision>
+  <Mapping>
+    <SolidEdge></SolidEdge>
+    <AutoCAD>
+      <section classification="Mechanical/Drawing" cn_file_ext=".dwg" cn_description="" authoring_tool="AutoCAD" cn_tltileblock_name="AX" plm_field="item_number" mapping_field="" mapping_label="$DWG_FILE" is_readonly="0" is_system="0" is_required="0" is_checkout="0" is_model_config="0" default_value="" />
+      <section classification="Mechanical/Drawing" cn_file_ext=".dwg" cn_description="" authoring_tool="AutoCAD" cn_tltileblock_name="AX" plm_field="name" mapping_field="" mapping_label="$DWG_NAME" is_readonly="0" is_system="0" is_required="0" is_checkout="0" is_model_config="0" default_value="" />
+      <section classification="Mechanical/Drawing" cn_file_ext=".dwg" cn_description="" authoring_tool="AutoCAD" cn_tltileblock_name="AX" plm_field="classification" mapping_field="" mapping_label="classification" is_readonly="0" is_system="1" is_required="0" is_checkout="0" is_model_config="0" default_value="" />
+      <section classification="Mechanical/Drawing" cn_file_ext=".dwg" cn_description="" authoring_tool="AutoCAD" cn_tltileblock_name="AX" plm_field="major_rev" mapping_field="" mapping_label="major_rev" is_readonly="0" is_system="1" is_required="0" is_checkout="0" is_model_config="0" default_value="" />
+      <section classification="Mechanical/Drawing" cn_file_ext=".dwg" cn_description="" authoring_tool="AutoCAD" cn_tltileblock_name="AX" plm_field="generation" mapping_field="" mapping_label="generation" is_readonly="0" is_system="1" is_required="0" is_checkout="0" is_model_config="0" default_value="" />
+      <section classification="Mechanical/Drawing" cn_file_ext=".dwg" cn_description="" authoring_tool="AutoCAD" cn_tltileblock_name="AX" plm_field="id" mapping_field="" mapping_label="id" is_readonly="0" is_system="1" is_required="0" is_checkout="0" is_model_config="0" default_value="" />
+      <section classification="Mechanical/Drawing" cn_file_ext=".dwg" cn_description="" authoring_tool="AutoCAD" cn_tltileblock_name="AX" plm_field="authoring_tool" mapping_field="" mapping_label="authoring_tool" is_readonly="0" is_system="1" is_required="0" is_checkout="0" is_model_config="0" default_value="" />
+      <section classification="Mechanical/Drawing" cn_file_ext=".dwg" cn_description="" authoring_tool="AutoCAD" cn_tltileblock_name="AX" plm_field="viewable_file" mapping_field="" mapping_label="viewable_file" is_readonly="0" is_system="1" is_required="0" is_checkout="0" is_model_config="0" default_value="" />
+      <section classification="Mechanical/Drawing" cn_file_ext=".dwg" cn_description="" authoring_tool="AutoCAD" cn_tltileblock_name="AX" plm_field="is_current" mapping_field="" mapping_label="is_current" is_readonly="0" is_system="1" is_required="0" is_checkout="0" is_model_config="0" default_value="" />
+    </AutoCAD>
+    <SolidWorks></SolidWorks>
+  </Mapping>
+</Root>

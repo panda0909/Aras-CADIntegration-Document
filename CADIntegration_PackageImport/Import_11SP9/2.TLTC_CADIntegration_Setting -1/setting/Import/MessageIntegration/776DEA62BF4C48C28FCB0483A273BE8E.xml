@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="776DEA62BF4C48C28FCB0483A273BE8E" action="add">
+  <en>Please close current cad software,ready to update</en>
+  <item_number>msg_025</item_number>
+  <name />
+  <type>Message</type>
+  <zh_cn>请关闭目前的CAD软体，并准备执行更新</zh_cn>
+  <zh_tw>請關閉目前的CAD軟體，並準備執行更新</zh_tw>
+ </Item>
+</AML>

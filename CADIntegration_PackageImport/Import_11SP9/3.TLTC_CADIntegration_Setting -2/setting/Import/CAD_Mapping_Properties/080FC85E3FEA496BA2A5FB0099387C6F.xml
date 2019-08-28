@@ -1,0 +1,14 @@
+﻿<AML>
+ <Item type="CAD_Mapping_Properties" id="080FC85E3FEA496BA2A5FB0099387C6F" action="add">
+  <is_checkout>0</is_checkout>
+  <is_model_config>0</is_model_config>
+  <is_readonly>0</is_readonly>
+  <is_required>0</is_required>
+  <is_system>0</is_system>
+  <mapping_field>title</mapping_field>
+  <mapping_label>圖檔名稱</mapping_label>
+  <plm_field>name</plm_field>
+  <sort_order>256</sort_order>
+  <source_id keyed_name="Solid Edge Sheet Metal/Part" type="CADIntegration_Setting">321ACE56C6A641118DD6927EDD6F8AD6</source_id>
+ </Item>
+</AML>

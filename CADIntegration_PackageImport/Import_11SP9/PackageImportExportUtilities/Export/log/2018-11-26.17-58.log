@@ -1,0 +1,28 @@
+Login successfully
+Login :admin
+Server   :http://localhost/DevSp9
+Database :InnovatorSolutions
+         ****Export tltc.cad.integration****
+start of execution : 2018/11/26 下午 06:02:49
+Item id :D5E6FAD349704AB8A919CA4A76AB19DA  keyed_name : D5E6FAD349704AB8A919CA4A76AB19DA   type : Value successfully exported
+Item id :C0EA6D805BEE4A94B0F725E4B279C8CE  keyed_name : CADIntegration_Changeflow_Pro   type : ItemType successfully exported
+Item id :A6CCAEC9FCCA4BF2AB608362AE22DCAD  keyed_name : CAD_Configuration   type : ItemType successfully exported
+Item id :71E53026DA6741A38741C3240F376C6A  keyed_name : 71E53026DA6741A38741C3240F376C6A   type : Value successfully exported
+Item id :83E142DEDB53411BB3B6709FF0932477  keyed_name : CADIntegration_GetItemtypeDataBy   type : Method successfully exported
+Item id :9B03CC03CB2140658B09BEE47708BB76  keyed_name : CADIntegration_ChangeFlow   type : ItemType successfully exported
+Item id :E350CA717AB146E08B4284A7151B32E5  keyed_name : CADIntegration_SystemSettingForm   type : Method successfully exported
+Item id :3A0B55355DB24C03AD7845E36D0AFC30  keyed_name : ProgramUpdate   type : ItemType successfully exported
+Item id :40ACC3B536E84DAEB8CC0AA4FC7F5DA5  keyed_name : CADIntegration_Bug   type : ItemType successfully exported
+Item id :CB5C7DEB95F749709209FDB110717281  keyed_name : CADIntegration_Setting   type : ItemType successfully exported
+Item id :209F9EB0E3E1440FB6C93B6B44688888  keyed_name : CADIntegration_Admin   type : ItemType successfully exported
+Item id :36EA18C4E531493AA0A3EC99C710DDB8  keyed_name : CADIntegration_SystemSetting   type : Form successfully exported
+Item id :2A20A724F78B4BAB906F767DE43FD7F6  keyed_name : 2A20A724F78B4BAB906F767DE43FD7F6   type : Value successfully exported
+Item id :07E49AC0013D42C198BB8B00C1BB6DF0  keyed_name : AutoCAD_PlotSetting   type : RelationshipType successfully exported
+Item id :381776C2671646739F6A4250BCB1F605  keyed_name : CAD_Configuration_List   type : ItemType successfully exported
+Item id :914BE75305714B9CBB87DE7500EF43AB  keyed_name : CADIntegration_SystemSetting   type : Method successfully exported
+Item id :5CDC101423E04493B311BA4506531F9C  keyed_name : CAD_Mapping_Properties   type : RelationshipType successfully exported
+Item id :5446D50A449E4EEE948494C1E98BFA58  keyed_name : MessageIntegration   type : ItemType successfully exported
+Item id :7FF2384A47504929B93EF77C9E1ECE70  keyed_name : CAD_Result_Properties   type : RelationshipType successfully exported
+Item id :046401394A4C4BFE99C1B06A0DB58330  keyed_name : tltcGetItemNumber   type : Method successfully exported
+Item id :3FAB8E8F6B1F47BD938680AC13985DC4  keyed_name : CADIntegration_SetProperty   type : Method successfully exported
+end of execution : 11/26/2018 18:03:00

@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="2B608775C6114F29991634627E24C878" action="add">
+  <en>Page size is null</en>
+  <item_number>msg_063</item_number>
+  <name />
+  <type>Message</type>
+  <zh_cn>每页笔数不可空值</zh_cn>
+  <zh_tw>每頁筆數不可空值</zh_tw>
+ </Item>
+</AML>

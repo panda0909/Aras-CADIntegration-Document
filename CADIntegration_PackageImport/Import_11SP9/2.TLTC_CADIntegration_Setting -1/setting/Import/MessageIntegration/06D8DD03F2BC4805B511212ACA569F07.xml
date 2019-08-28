@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="06D8DD03F2BC4805B511212ACA569F07" action="add">
+  <en>Login</en>
+  <item_number>name_001</item_number>
+  <name>login</name>
+  <type>name</type>
+  <zh_cn>登入</zh_cn>
+  <zh_tw>登入</zh_tw>
+ </Item>
+</AML>

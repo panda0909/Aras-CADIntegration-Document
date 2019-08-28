@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="C58D3CC345074D7490A4F9AA7BB94AF7" action="add">
+  <en>Read file properties success</en>
+  <item_number>msg_016</item_number>
+  <name />
+  <type>Message</type>
+  <zh_cn>读取档案属性成功</zh_cn>
+  <zh_tw>讀取檔案屬性成功</zh_tw>
+ </Item>
+</AML>

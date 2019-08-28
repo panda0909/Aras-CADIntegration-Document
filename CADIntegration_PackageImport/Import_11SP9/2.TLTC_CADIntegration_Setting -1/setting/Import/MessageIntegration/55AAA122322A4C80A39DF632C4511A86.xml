@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="55AAA122322A4C80A39DF632C4511A86" action="add">
+  <en>File is readonly,can't update</en>
+  <item_number>msg_023</item_number>
+  <name />
+  <type>Message</type>
+  <zh_cn>档案唯读，不可修改</zh_cn>
+  <zh_tw>檔案唯讀，不可修改</zh_tw>
+ </Item>
+</AML>

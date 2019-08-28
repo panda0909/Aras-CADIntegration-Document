@@ -1,0 +1,752 @@
+<AML>
+  <Item type="Form" id="36EA18C4E531493AA0A3EC99C710DDB8" action="add">
+    <category_form>0</category_form>
+    <description>CAD整合系統設定</description>
+    <height>600</height>
+    <stylesheet><![CDATA[../styles/default.css]]></stylesheet>
+    <width>800</width>
+    <name>CADIntegration_SystemSetting</name>
+    <Relationships>
+      <Item type="Body" id="C30DB9CA0EDA4F5792052B82C05A11EF" action="add">
+        <sort_order>128</sort_order>
+        <source_id keyed_name="CADIntegration_SystemSetting" type="Form">36EA18C4E531493AA0A3EC99C710DDB8</source_id>
+        <Relationships>
+          <Item type="Field" id="9B2C2DFC4BFE42E5AB05448109E3E741" action="add">
+            <border_width>0</border_width>
+            <display_length_unit>px</display_length_unit>
+            <field_type>dropdown</field_type>
+            <font_color>#000000</font_color>
+            <font_family>tahoma, arial, helvetica, sans-serif</font_family>
+            <font_size>8pt</font_size>
+            <font_weight>bold</font_weight>
+            <is_disabled>0</is_disabled>
+            <is_visible>1</is_visible>
+            <label xml:lang="en">authoring_tool</label>
+            <label_position>top</label_position>
+            <list_no_blank>0</list_no_blank>
+            <propertytype_id keyed_name="authoring_tool" type="Property">4048D52EF06C453FA472FAF370AE7D8C</propertytype_id>
+            <sort_order>1280</sort_order>
+            <source_id keyed_name="C30DB9CA0EDA4F5792052B82C05A11EF" type="Body">C30DB9CA0EDA4F5792052B82C05A11EF</source_id>
+            <tab_index>3200</tab_index>
+            <tab_stop>1</tab_stop>
+            <x>42</x>
+            <y>7</y>
+            <name>authoring_tool</name>
+            <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">編輯工具</i18n:label>
+          </Item>
+          <Item type="Field" id="E54DF21D2C754E08B0A0A98C73F025FA" action="add">
+            <border_width>0</border_width>
+            <display_length_unit>px</display_length_unit>
+            <field_type>button</field_type>
+            <font_color>#000000</font_color>
+            <font_family>tahoma, arial, helvetica, sans-serif</font_family>
+            <font_size>8pt</font_size>
+            <font_weight>bold</font_weight>
+            <is_disabled>0</is_disabled>
+            <is_visible>1</is_visible>
+            <label xml:lang="en">Save</label>
+            <label_position>top</label_position>
+            <list_no_blank>0</list_no_blank>
+            <sort_order>768</sort_order>
+            <source_id keyed_name="C30DB9CA0EDA4F5792052B82C05A11EF" type="Body">C30DB9CA0EDA4F5792052B82C05A11EF</source_id>
+            <tab_stop>1</tab_stop>
+            <x>967</x>
+            <y>11</y>
+            <name>btnSave</name>
+            <Relationships>
+              <Item type="Field Event" id="9163BC6D213A4D518D1994B210ECE1B5" action="add">
+                <field_event>onclick</field_event>
+                <related_id keyed_name="CADIntegration_SystemSetting" type="Method">
+                  <Item type="Method" action="get" select="id">
+                    <name>CADIntegration_SystemSetting</name>
+                  </Item>
+                </related_id>
+                <sort_order>128</sort_order>
+                <source_id keyed_name="btnSave" type="Field">E54DF21D2C754E08B0A0A98C73F025FA</source_id>
+              </Item>
+            </Relationships>
+            <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">產生JSON設定</i18n:label>
+          </Item>
+          <Item type="Field" id="619EF44F1393483DA2DD123A38AB3EED" action="add">
+            <border_width>1</border_width>
+            <display_length_unit>px</display_length_unit>
+            <field_type>html</field_type>
+            <font_color>#000000</font_color>
+            <font_family>tahoma, arial, helvetica, sans-serif</font_family>
+            <font_size>8pt</font_size>
+            <font_weight>bold</font_weight>
+            <html_code><![CDATA[<div style='width:200px;height:200px'>
+
+</div>]]></html_code>
+            <is_disabled>0</is_disabled>
+            <is_visible>1</is_visible>
+            <label_position>top</label_position>
+            <list_no_blank>0</list_no_blank>
+            <sort_order>2816</sort_order>
+            <source_id keyed_name="C30DB9CA0EDA4F5792052B82C05A11EF" type="Body">C30DB9CA0EDA4F5792052B82C05A11EF</source_id>
+            <tab_stop>1</tab_stop>
+            <x>46</x>
+            <y>492</y>
+            <name>bulk_chnage</name>
+            <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">變更單</i18n:label>
+          </Item>
+          <Item type="Field" id="D73F9DD3E6EA40338551E41A9F4C0493" action="add">
+            <border_width>1</border_width>
+            <display_length_unit>px</display_length_unit>
+            <field_type>html</field_type>
+            <font_color>#000000</font_color>
+            <font_family>tahoma, arial, helvetica, sans-serif</font_family>
+            <font_size>8pt</font_size>
+            <font_weight>bold</font_weight>
+            <html_code><![CDATA[<div style='width:200px;height:400px'>
+
+</div>]]></html_code>
+            <is_disabled>0</is_disabled>
+            <is_visible>1</is_visible>
+            <label xml:lang="en">簽入規則</label>
+            <label_position>top</label_position>
+            <list_no_blank>0</list_no_blank>
+            <sort_order>384</sort_order>
+            <source_id keyed_name="C30DB9CA0EDA4F5792052B82C05A11EF" type="Body">C30DB9CA0EDA4F5792052B82C05A11EF</source_id>
+            <tab_stop>1</tab_stop>
+            <x>285</x>
+            <y>51</y>
+            <z_index>-1</z_index>
+            <name>checkin</name>
+            <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">簽入規則</i18n:label>
+          </Item>
+          <Item type="Field" id="C341074D50B74C3397E54E12A59AC4C5" action="add">
+            <border_width>0</border_width>
+            <display_length_unit>px</display_length_unit>
+            <field_type>checkbox</field_type>
+            <font_color>#000000</font_color>
+            <font_family>tahoma, arial, helvetica, sans-serif</font_family>
+            <font_size>8pt</font_size>
+            <font_weight>bold</font_weight>
+            <is_disabled>0</is_disabled>
+            <is_visible>1</is_visible>
+            <label xml:lang="en">簽入2D圖帶PDF_viewable</label>
+            <label_position>right</label_position>
+            <list_no_blank>0</list_no_blank>
+            <sort_order>1536</sort_order>
+            <source_id keyed_name="C30DB9CA0EDA4F5792052B82C05A11EF" type="Body">C30DB9CA0EDA4F5792052B82C05A11EF</source_id>
+            <tab_stop>1</tab_stop>
+            <x>285</x>
+            <y>125</y>
+            <name>chk2DCheckinPDF</name>
+            <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">簽入2D圖帶PDF_viewable</i18n:label>
+          </Item>
+          <Item type="Field" id="C30B4DA99505468A81FB43FA73A1A897" action="add">
+            <border_width>0</border_width>
+            <display_length_unit>px</display_length_unit>
+            <field_type>checkbox</field_type>
+            <font_color>#000000</font_color>
+            <font_family>tahoma, arial, helvetica, sans-serif</font_family>
+            <font_size>8pt</font_size>
+            <font_weight>bold</font_weight>
+            <is_disabled>0</is_disabled>
+            <is_visible>1</is_visible>
+            <label xml:lang="en">簽入3D帶3D_PDF_viewable</label>
+            <label_position>right</label_position>
+            <list_no_blank>0</list_no_blank>
+            <sort_order>1664</sort_order>
+            <source_id keyed_name="C30DB9CA0EDA4F5792052B82C05A11EF" type="Body">C30DB9CA0EDA4F5792052B82C05A11EF</source_id>
+            <tab_stop>1</tab_stop>
+            <x>285</x>
+            <y>150</y>
+            <name>chk3DCheckin3DPDF</name>
+            <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">簽入3D帶3D_PDF_viewable</i18n:label>
+          </Item>
+          <Item type="Field" id="8B369026BB914596A4118411CC13A1DD" action="add">
+            <border_width>0</border_width>
+            <display_length_unit>px</display_length_unit>
+            <field_type>checkbox</field_type>
+            <font_color>#000000</font_color>
+            <font_family>tahoma, arial, helvetica, sans-serif</font_family>
+            <font_size>8pt</font_size>
+            <font_weight>bold</font_weight>
+            <is_disabled>0</is_disabled>
+            <is_visible>1</is_visible>
+            <label xml:lang="en">簽入3DXML檔(cn_3dxml)</label>
+            <label_position>right</label_position>
+            <list_no_blank>0</list_no_blank>
+            <sort_order>4352</sort_order>
+            <source_id keyed_name="C30DB9CA0EDA4F5792052B82C05A11EF" type="Body">C30DB9CA0EDA4F5792052B82C05A11EF</source_id>
+            <tab_stop>1</tab_stop>
+            <x>285</x>
+            <y>330</y>
+            <name>chkCheckIn3DXML</name>
+            <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">簽入3DXML檔(cn_3dxml)</i18n:label>
+          </Item>
+          <Item type="Field" id="493B6BC969A84004A2DAF5E71F325415" action="add">
+            <border_width>0</border_width>
+            <display_length_unit>px</display_length_unit>
+            <field_type>checkbox</field_type>
+            <font_color>#000000</font_color>
+            <font_family>tahoma, arial, helvetica, sans-serif</font_family>
+            <font_size>8pt</font_size>
+            <font_weight>bold</font_weight>
+            <is_disabled>0</is_disabled>
+            <is_visible>1</is_visible>
+            <label xml:lang="en">簽入3MF檔_預設欄位cn_3mf</label>
+            <label_position>right</label_position>
+            <list_no_blank>0</list_no_blank>
+            <sort_order>1792</sort_order>
+            <source_id keyed_name="C30DB9CA0EDA4F5792052B82C05A11EF" type="Body">C30DB9CA0EDA4F5792052B82C05A11EF</source_id>
+            <tab_stop>1</tab_stop>
+            <text_align>left</text_align>
+            <x>285</x>
+            <y>175</y>
+            <name>chkCheckIn3MF</name>
+            <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">簽入3MF檔_預設欄位cn_3mf</i18n:label>
+          </Item>
+          <Item type="Field" id="B98A08BC475C421D904A58B611B4DBD1" action="add">
+            <border_width>0</border_width>
+            <display_length_unit>px</display_length_unit>
+            <field_type>checkbox</field_type>
+            <font_color>#000000</font_color>
+            <font_family>tahoma, arial, helvetica, sans-serif</font_family>
+            <font_size>8pt</font_size>
+            <font_weight>bold</font_weight>
+            <is_disabled>0</is_disabled>
+            <is_visible>1</is_visible>
+            <label xml:lang="en">檢查簽入欄位ID，已存在物件則修改</label>
+            <label_position>right</label_position>
+            <list_no_blank>0</list_no_blank>
+            <sort_order>2304</sort_order>
+            <source_id keyed_name="C30DB9CA0EDA4F5792052B82C05A11EF" type="Body">C30DB9CA0EDA4F5792052B82C05A11EF</source_id>
+            <tab_stop>1</tab_stop>
+            <x>285</x>
+            <y>275</y>
+            <name>chkCheckInBeforeCheckId</name>
+            <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">檢查簽入欄位ID，已存在物件則修改</i18n:label>
+          </Item>
+          <Item type="Field" id="235F7B4D2B154075827AE480275AC8FB" action="add">
+            <border_width>0</border_width>
+            <display_length_unit>px</display_length_unit>
+            <field_type>checkbox</field_type>
+            <font_color>#000000</font_color>
+            <font_family>tahoma, arial, helvetica, sans-serif</font_family>
+            <font_size>8pt</font_size>
+            <font_weight>bold</font_weight>
+            <is_disabled>0</is_disabled>
+            <is_visible>1</is_visible>
+            <label xml:lang="en">簽入所有組態資料(SW)</label>
+            <label_position>right</label_position>
+            <list_no_blank>0</list_no_blank>
+            <sort_order>3712</sort_order>
+            <source_id keyed_name="C30DB9CA0EDA4F5792052B82C05A11EF" type="Body">C30DB9CA0EDA4F5792052B82C05A11EF</source_id>
+            <tab_stop>1</tab_stop>
+            <x>285</x>
+            <y>304</y>
+            <name>chkCheckInConfiguration</name>
+            <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">簽入所有組態資料(SW)</i18n:label>
+          </Item>
+          <Item type="Field" id="2E9C43B672BF4C4D83129C180A2805B4" action="add">
+            <border_width>0</border_width>
+            <display_length_unit>px</display_length_unit>
+            <field_type>checkbox</field_type>
+            <font_color>#000000</font_color>
+            <font_family>tahoma, arial, helvetica, sans-serif</font_family>
+            <font_size>8pt</font_size>
+            <font_weight>bold</font_weight>
+            <is_disabled>0</is_disabled>
+            <is_visible>1</is_visible>
+            <label xml:lang="en">檢查必填屬性</label>
+            <label_position>right</label_position>
+            <list_no_blank>0</list_no_blank>
+            <sort_order>2048</sort_order>
+            <source_id keyed_name="C30DB9CA0EDA4F5792052B82C05A11EF" type="Body">C30DB9CA0EDA4F5792052B82C05A11EF</source_id>
+            <tab_stop>1</tab_stop>
+            <x>285</x>
+            <y>225</y>
+            <name>chkCheckRequire</name>
+            <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">檢查必填屬性</i18n:label>
+          </Item>
+          <Item type="Field" id="D80700AD7B604F65949D57BBA0F91AA5" action="add">
+            <border_width>0</border_width>
+            <display_length_unit>px</display_length_unit>
+            <field_type>checkbox</field_type>
+            <font_color>#000000</font_color>
+            <font_family>tahoma, arial, helvetica, sans-serif</font_family>
+            <font_size>8pt</font_size>
+            <font_weight>bold</font_weight>
+            <is_disabled>0</is_disabled>
+            <is_visible>1</is_visible>
+            <label xml:lang="en">檢查Uniq欄位</label>
+            <label_position>right</label_position>
+            <list_no_blank>0</list_no_blank>
+            <sort_order>1920</sort_order>
+            <source_id keyed_name="C30DB9CA0EDA4F5792052B82C05A11EF" type="Body">C30DB9CA0EDA4F5792052B82C05A11EF</source_id>
+            <tab_stop>1</tab_stop>
+            <text_align>left</text_align>
+            <x>285</x>
+            <y>200</y>
+            <name>chkCheckUniqProperty</name>
+            <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">檢查Uniq欄位</i18n:label>
+          </Item>
+          <Item type="Field" id="3BA87C460EEC4B47B1BBD10D7E243D30" action="add">
+            <border_width>0</border_width>
+            <display_length_unit>px</display_length_unit>
+            <field_type>checkbox</field_type>
+            <font_color>#000000</font_color>
+            <font_family>tahoma, arial, helvetica, sans-serif</font_family>
+            <font_size>8pt</font_size>
+            <font_weight>bold</font_weight>
+            <is_disabled>0</is_disabled>
+            <is_visible>1</is_visible>
+            <label xml:lang="en">建立組態BOM_cn_status</label>
+            <label_position>right</label_position>
+            <list_no_blank>0</list_no_blank>
+            <sort_order>2176</sort_order>
+            <source_id keyed_name="C30DB9CA0EDA4F5792052B82C05A11EF" type="Body">C30DB9CA0EDA4F5792052B82C05A11EF</source_id>
+            <tab_stop>1</tab_stop>
+            <x>285</x>
+            <y>250</y>
+            <name>chkCreateConfiguration</name>
+            <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">建立組態BOM_cn_status</i18n:label>
+          </Item>
+          <Item type="Field" id="FF5F33240FE3496BAFFCE335E436D8A5" action="add">
+            <border_width>0</border_width>
+            <display_length_unit>px</display_length_unit>
+            <field_type>checkbox</field_type>
+            <font_color>#000000</font_color>
+            <font_family>tahoma, arial, helvetica, sans-serif</font_family>
+            <font_size>8pt</font_size>
+            <font_weight>bold</font_weight>
+            <is_disabled>0</is_disabled>
+            <is_visible>1</is_visible>
+            <label xml:lang="en">禁止簽入隱藏(未開發)</label>
+            <label_position>right</label_position>
+            <list_no_blank>0</list_no_blank>
+            <sort_order>640</sort_order>
+            <source_id keyed_name="C30DB9CA0EDA4F5792052B82C05A11EF" type="Body">C30DB9CA0EDA4F5792052B82C05A11EF</source_id>
+            <tab_stop>1</tab_stop>
+            <x>285</x>
+            <y>100</y>
+            <name>chkIsHide</name>
+            <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">禁止簽入隱藏(未開發)</i18n:label>
+          </Item>
+          <Item type="Field" id="654F63C72C4C48438F6FA70EADDD7A61" action="add">
+            <border_width>0</border_width>
+            <display_length_unit>px</display_length_unit>
+            <field_type>checkbox</field_type>
+            <font_color>#000000</font_color>
+            <font_family>tahoma, arial, helvetica, sans-serif</font_family>
+            <font_size>8pt</font_size>
+            <font_weight>bold</font_weight>
+            <is_disabled>0</is_disabled>
+            <is_visible>1</is_visible>
+            <label xml:lang="en">禁止簽入抑制(未開發)</label>
+            <label_position>right</label_position>
+            <list_no_blank>0</list_no_blank>
+            <sort_order>512</sort_order>
+            <source_id keyed_name="C30DB9CA0EDA4F5792052B82C05A11EF" type="Body">C30DB9CA0EDA4F5792052B82C05A11EF</source_id>
+            <tab_stop>1</tab_stop>
+            <text_align>left</text_align>
+            <x>285</x>
+            <y>75</y>
+            <name>chkIsSupression</name>
+            <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">禁止簽入抑制(未開發)</i18n:label>
+          </Item>
+          <Item type="Field" id="138E14CE5467432A973D88E829489787" action="add">
+            <border_width>0</border_width>
+            <display_length_unit>px</display_length_unit>
+            <field_type>checkbox</field_type>
+            <font_color>#000000</font_color>
+            <font_family>tahoma, arial, helvetica, sans-serif</font_family>
+            <font_size>8pt</font_size>
+            <font_weight>bold</font_weight>
+            <is_disabled>0</is_disabled>
+            <is_visible>1</is_visible>
+            <label xml:lang="en">SWDM模式</label>
+            <label_position>right</label_position>
+            <list_no_blank>0</list_no_blank>
+            <sort_order>4096</sort_order>
+            <source_id keyed_name="C30DB9CA0EDA4F5792052B82C05A11EF" type="Body">C30DB9CA0EDA4F5792052B82C05A11EF</source_id>
+            <tab_stop>1</tab_stop>
+            <x>50</x>
+            <y>196</y>
+            <name>chkIsSWDMMode</name>
+            <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">SWDM模式</i18n:label>
+          </Item>
+          <Item type="Field" id="1F46C28C3E844E0A8B701A9E97030A1D" action="add">
+            <border_width>0</border_width>
+            <display_length_unit>px</display_length_unit>
+            <field_type>checkbox</field_type>
+            <font_color>#000000</font_color>
+            <font_family>tahoma, arial, helvetica, sans-serif</font_family>
+            <font_size>8pt</font_size>
+            <font_weight>bold</font_weight>
+            <is_disabled>0</is_disabled>
+            <is_visible>1</is_visible>
+            <label xml:lang="en">AutoCAD使用公版列印設定</label>
+            <label_position>right</label_position>
+            <list_no_blank>0</list_no_blank>
+            <sort_order>3328</sort_order>
+            <source_id keyed_name="C30DB9CA0EDA4F5792052B82C05A11EF" type="Body">C30DB9CA0EDA4F5792052B82C05A11EF</source_id>
+            <tab_stop>1</tab_stop>
+            <x>285</x>
+            <y>360</y>
+            <name>chkPDFUseCommonPlotSetting</name>
+            <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">AutoCAD使用公版列印設定</i18n:label>
+          </Item>
+          <Item type="Field" id="8B56EDD3CD2946988D4ACD80E3EFAD8E" action="add">
+            <border_width>0</border_width>
+            <display_length_unit>px</display_length_unit>
+            <field_type>checkbox</field_type>
+            <font_color>#000000</font_color>
+            <font_family>tahoma, arial, helvetica, sans-serif</font_family>
+            <font_size>8pt</font_size>
+            <font_weight>bold</font_weight>
+            <is_disabled>0</is_disabled>
+            <is_visible>1</is_visible>
+            <label xml:lang="en">預設CAD流水號為檔名</label>
+            <label_position>right</label_position>
+            <list_no_blank>0</list_no_blank>
+            <sort_order>1408</sort_order>
+            <source_id keyed_name="C30DB9CA0EDA4F5792052B82C05A11EF" type="Body">C30DB9CA0EDA4F5792052B82C05A11EF</source_id>
+            <tab_stop>1</tab_stop>
+            <x>50</x>
+            <y>100</y>
+            <name>chkPropertyItemNumber</name>
+            <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">預設CAD流水號為檔名</i18n:label>
+          </Item>
+          <Item type="Field" id="CE9735886DC6413C9D51F4FC2AC38BB2" action="add">
+            <border_width>0</border_width>
+            <display_length_unit>px</display_length_unit>
+            <field_type>checkbox</field_type>
+            <font_color>#000000</font_color>
+            <font_family>tahoma, arial, helvetica, sans-serif</font_family>
+            <font_size>8pt</font_size>
+            <font_weight>bold</font_weight>
+            <is_disabled>0</is_disabled>
+            <is_visible>1</is_visible>
+            <label xml:lang="en">預設CAD圖名為檔名</label>
+            <label_position>right</label_position>
+            <list_no_blank>0</list_no_blank>
+            <sort_order>128</sort_order>
+            <source_id keyed_name="C30DB9CA0EDA4F5792052B82C05A11EF" type="Body">C30DB9CA0EDA4F5792052B82C05A11EF</source_id>
+            <tab_stop>1</tab_stop>
+            <text_align>left</text_align>
+            <x>50</x>
+            <y>75</y>
+            <name>chkPropertyName</name>
+            <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">預設CAD圖名為檔名</i18n:label>
+          </Item>
+          <Item type="Field" id="A5B71139B8584A16B4AB690D3B1879DE" action="add">
+            <border_width>0</border_width>
+            <display_length_unit>px</display_length_unit>
+            <field_type>checkbox</field_type>
+            <font_color>#000000</font_color>
+            <font_family>tahoma, arial, helvetica, sans-serif</font_family>
+            <font_size>8pt</font_size>
+            <font_weight>bold</font_weight>
+            <is_disabled>0</is_disabled>
+            <is_visible>1</is_visible>
+            <label xml:lang="en">同步SummaryInfo</label>
+            <label_position>right</label_position>
+            <list_no_blank>0</list_no_blank>
+            <sort_order>2688</sort_order>
+            <source_id keyed_name="C30DB9CA0EDA4F5792052B82C05A11EF" type="Body">C30DB9CA0EDA4F5792052B82C05A11EF</source_id>
+            <tab_stop>1</tab_stop>
+            <x>50</x>
+            <y>125</y>
+            <name>chkSyncSummaryInfo</name>
+            <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">同步SummaryInfo</i18n:label>
+          </Item>
+          <Item type="Field" id="E8FA478C421A4F5E9118713293A18C2C" action="add">
+            <border_width>0</border_width>
+            <display_length_unit>px</display_length_unit>
+            <field_type>class structure</field_type>
+            <font_color>#000000</font_color>
+            <font_family>tahoma, arial, helvetica, sans-serif</font_family>
+            <font_size>8pt</font_size>
+            <font_weight>bold</font_weight>
+            <is_disabled>0</is_disabled>
+            <is_visible>1</is_visible>
+            <label xml:lang="en">Classification</label>
+            <label_position>top</label_position>
+            <list_no_blank>0</list_no_blank>
+            <sort_order>3200</sort_order>
+            <source_id keyed_name="C30DB9CA0EDA4F5792052B82C05A11EF" type="Body">C30DB9CA0EDA4F5792052B82C05A11EF</source_id>
+            <tab_index>128</tab_index>
+            <tab_stop>1</tab_stop>
+            <x>282</x>
+            <y>9</y>
+            <name>classification</name>
+            <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">classification</i18n:label>
+          </Item>
+          <Item type="Field" id="D652710835A54AA7BBE96C8D012F7C9E" action="add">
+            <border_width>1</border_width>
+            <display_length_unit>px</display_length_unit>
+            <field_type>html</field_type>
+            <font_color>#000000</font_color>
+            <font_family>tahoma, arial, helvetica, sans-serif</font_family>
+            <font_size>8pt</font_size>
+            <font_weight>bold</font_weight>
+            <html_code><![CDATA[<div style='width:200px;height:400px'>
+
+</div>]]></html_code>
+            <is_disabled>0</is_disabled>
+            <is_visible>1</is_visible>
+            <label xml:lang="en">簽出規則</label>
+            <label_position>top</label_position>
+            <list_no_blank>0</list_no_blank>
+            <sort_order>896</sort_order>
+            <source_id keyed_name="C30DB9CA0EDA4F5792052B82C05A11EF" type="Body">C30DB9CA0EDA4F5792052B82C05A11EF</source_id>
+            <tab_stop>1</tab_stop>
+            <x>525</x>
+            <y>50</y>
+            <name>html2</name>
+            <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">簽出規則</i18n:label>
+          </Item>
+          <Item type="Field" id="14FE6384FFD1437EA71BD2B60DDC09D1" action="add">
+            <border_width>0</border_width>
+            <display_length_unit>px</display_length_unit>
+            <field_type>textarea</field_type>
+            <font_color>#000000</font_color>
+            <font_family>tahoma, arial, helvetica, sans-serif</font_family>
+            <font_size>8pt</font_size>
+            <font_weight>bold</font_weight>
+            <is_disabled>0</is_disabled>
+            <is_visible>1</is_visible>
+            <label xml:lang="en">JSON</label>
+            <label_position>top</label_position>
+            <list_no_blank>0</list_no_blank>
+            <propertytype_id keyed_name="cn_admin_setting" type="Property">33BB1C6EC2884253BD63F26EBA1F9CB2</propertytype_id>
+            <sort_order>1152</sort_order>
+            <source_id keyed_name="C30DB9CA0EDA4F5792052B82C05A11EF" type="Body">C30DB9CA0EDA4F5792052B82C05A11EF</source_id>
+            <tab_stop>1</tab_stop>
+            <textarea_cols>300</textarea_cols>
+            <textarea_rows>500</textarea_rows>
+            <x>766</x>
+            <y>32</y>
+            <name>jsonScript</name>
+            <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">JSON</i18n:label>
+          </Item>
+          <Item type="Field" id="C3AE36B217D14F25B1159721BA8EF8A1" action="add">
+            <border_width>0</border_width>
+            <display_length_unit>px</display_length_unit>
+            <field_type>html</field_type>
+            <font_color>#000000</font_color>
+            <font_family>tahoma, arial, helvetica, sans-serif</font_family>
+            <font_size>8pt</font_size>
+            <font_weight>bold</font_weight>
+            <html_code><![CDATA[<div style='width:200px;height:200px'>
+<table>
+    <tr><td>系統屬性統一名稱</td><td>用途</td></tr>
+    <tr><td>author</td><td>作者</td></tr>
+    <tr><td>title</td><td>標題</td></tr>
+    <tr><td>subject</td><td>主旨</td></tr>
+    <tr><td>manager</td><td>管理者</td></tr>
+    <tr><td>projectname</td><td>專案名稱</td></tr>
+    <tr><td>documentnumber</td><td>文件編號</td></tr>
+    <tr><td>category</td><td>種類</td></tr>
+    <tr><td>comments</td><td>備註</td></tr>
+    <tr><td>keywords</td><td>關鍵字</td></tr>
+    <tr><td>revisionnumber</td><td>版本號</td></tr>
+    <tr><td>template</td><td>範本</td></tr>
+    <tr><td>saveapp</td><td>儲存軟體</td></tr>
+</table>
+</div>]]></html_code>
+            <is_disabled>0</is_disabled>
+            <is_visible>1</is_visible>
+            <label_position>top</label_position>
+            <list_no_blank>0</list_no_blank>
+            <sort_order>3456</sort_order>
+            <source_id keyed_name="C30DB9CA0EDA4F5792052B82C05A11EF" type="Body">C30DB9CA0EDA4F5792052B82C05A11EF</source_id>
+            <tab_stop>1</tab_stop>
+            <x>285</x>
+            <y>492</y>
+            <name>panel_infomation</name>
+            <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">圖檔系統對應欄位規則</i18n:label>
+          </Item>
+          <Item type="Field" id="404CCB0C07AB435FA72C1FE27F898F00" action="add">
+            <border_width>0</border_width>
+            <display_length_unit>px</display_length_unit>
+            <field_type>html</field_type>
+            <font_color>#000000</font_color>
+            <font_family>tahoma, arial, helvetica, sans-serif</font_family>
+            <font_size>8pt</font_size>
+            <font_weight>bold</font_weight>
+            <html_code><![CDATA[<div style='width:200px;height:200px'>
+<table>
+    <tr><td>系統屬性統一名稱</td><td>用途</td></tr>
+    <tr><td>density</td><td>密度</td></tr>
+    <tr><td>accuracy</td><td>精度</td></tr>
+    <tr><td>volume</td><td>體積</td></tr>
+    <tr><td>area</td><td>表面積</td></tr>
+    <tr><td>mass</td><td>質量</td></tr>
+</table>
+</div>]]></html_code>
+            <is_disabled>0</is_disabled>
+            <is_visible>1</is_visible>
+            <label_position>top</label_position>
+            <list_no_blank>0</list_no_blank>
+            <sort_order>3840</sort_order>
+            <source_id keyed_name="C30DB9CA0EDA4F5792052B82C05A11EF" type="Body">C30DB9CA0EDA4F5792052B82C05A11EF</source_id>
+            <tab_stop>1</tab_stop>
+            <x>523</x>
+            <y>493</y>
+            <name>PhysicalProperty</name>
+            <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">物理屬性</i18n:label>
+          </Item>
+          <Item type="Field" id="97A8654973564B17B161636B1C3583CA" action="add">
+            <border_width>1</border_width>
+            <css>with:400px;
+height:400px;</css>
+            <display_length_unit>px</display_length_unit>
+            <field_type>html</field_type>
+            <font_color>#000000</font_color>
+            <font_family>tahoma, arial, helvetica, sans-serif</font_family>
+            <font_size>8pt</font_size>
+            <font_weight>bold</font_weight>
+            <html_code><![CDATA[<div style='width:200px;height:400px'>
+
+</div>]]></html_code>
+            <is_disabled>0</is_disabled>
+            <is_visible>1</is_visible>
+            <label xml:lang="en">檔案屬性</label>
+            <label_position>top</label_position>
+            <list_no_blank>0</list_no_blank>
+            <sort_order>256</sort_order>
+            <source_id keyed_name="C30DB9CA0EDA4F5792052B82C05A11EF" type="Body">C30DB9CA0EDA4F5792052B82C05A11EF</source_id>
+            <tab_stop>1</tab_stop>
+            <text_align>left</text_align>
+            <x>50</x>
+            <y>49</y>
+            <z_index>-1</z_index>
+            <name>properties</name>
+            <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">檔案屬性</i18n:label>
+          </Item>
+          <Item type="Field" id="A4581D8682DE484FB9BFC69D6EC445BC" action="add">
+            <border_width>0</border_width>
+            <display_length_unit>px</display_length_unit>
+            <field_type>text</field_type>
+            <font_color>#000000</font_color>
+            <font_family>tahoma, arial, helvetica, sans-serif</font_family>
+            <font_size>8pt</font_size>
+            <font_weight>bold</font_weight>
+            <is_disabled>0</is_disabled>
+            <is_visible>1</is_visible>
+            <label xml:lang="en">整合設定classification匹配CAD欄位</label>
+            <label_position>top</label_position>
+            <list_no_blank>0</list_no_blank>
+            <sort_order>4224</sort_order>
+            <source_id keyed_name="C30DB9CA0EDA4F5792052B82C05A11EF" type="Body">C30DB9CA0EDA4F5792052B82C05A11EF</source_id>
+            <tab_stop>1</tab_stop>
+            <x>518</x>
+            <y>6</y>
+            <name>txtClassificationToCAD</name>
+            <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">整合設定classification匹配CAD欄位</i18n:label>
+          </Item>
+          <Item type="Field" id="41CE95E82CBD41C2A7004A31812B0951" action="add">
+            <border_width>0</border_width>
+            <display_length_unit>px</display_length_unit>
+            <field_type>text</field_type>
+            <font_color>#000000</font_color>
+            <font_family>tahoma, arial, helvetica, sans-serif</font_family>
+            <font_size>8pt</font_size>
+            <font_weight>bold</font_weight>
+            <is_disabled>0</is_disabled>
+            <is_visible>1</is_visible>
+            <label xml:lang="en">文件管理API授權碼(SW)</label>
+            <label_position>top</label_position>
+            <list_no_blank>0</list_no_blank>
+            <sort_order>3968</sort_order>
+            <source_id keyed_name="C30DB9CA0EDA4F5792052B82C05A11EF" type="Body">C30DB9CA0EDA4F5792052B82C05A11EF</source_id>
+            <tab_stop>1</tab_stop>
+            <x>51</x>
+            <y>331</y>
+            <name>txtDocManagerLicense</name>
+            <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">文件管理API授權碼(SW)</i18n:label>
+          </Item>
+          <Item type="Field" id="C19C7E3BE3B640A586C67DE8ECFAB89B" action="add">
+            <border_width>0</border_width>
+            <display_length_unit>px</display_length_unit>
+            <field_type>text</field_type>
+            <font_color>#000000</font_color>
+            <font_family>tahoma, arial, helvetica, sans-serif</font_family>
+            <font_size>8pt</font_size>
+            <font_weight>bold</font_weight>
+            <is_disabled>0</is_disabled>
+            <is_visible>1</is_visible>
+            <label xml:lang="en">領號後回寫PLM欄位</label>
+            <label_position>top</label_position>
+            <list_no_blank>0</list_no_blank>
+            <sort_order>2432</sort_order>
+            <source_id keyed_name="C30DB9CA0EDA4F5792052B82C05A11EF" type="Body">C30DB9CA0EDA4F5792052B82C05A11EF</source_id>
+            <tab_stop>1</tab_stop>
+            <x>52</x>
+            <y>377</y>
+            <name>txtGetNumber</name>
+            <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">領號後回寫PLM欄位</i18n:label>
+          </Item>
+          <Item type="Field" id="22F17B8897604B048B1BDE03444677B8" action="add">
+            <border_width>0</border_width>
+            <display_length_unit>px</display_length_unit>
+            <field_type>text</field_type>
+            <font_color>#000000</font_color>
+            <font_family>tahoma, arial, helvetica, sans-serif</font_family>
+            <font_size>8pt</font_size>
+            <font_weight>bold</font_weight>
+            <is_disabled>0</is_disabled>
+            <is_visible>1</is_visible>
+            <label xml:lang="en">系統版本版次屬性格式</label>
+            <label_position>top</label_position>
+            <list_no_blank>0</list_no_blank>
+            <sort_order>3584</sort_order>
+            <source_id keyed_name="C30DB9CA0EDA4F5792052B82C05A11EF" type="Body">C30DB9CA0EDA4F5792052B82C05A11EF</source_id>
+            <tab_stop>1</tab_stop>
+            <x>69</x>
+            <y>148</y>
+            <name>txtMajorRevGenerationFormat</name>
+            <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">系統版本版次屬性格式</i18n:label>
+          </Item>
+          <Item type="Field" id="113E526741994561BCB01832FF67A787" action="add">
+            <border_width>0</border_width>
+            <display_length_unit>px</display_length_unit>
+            <field_type>text</field_type>
+            <font_color>#000000</font_color>
+            <font_family>tahoma, arial, helvetica, sans-serif</font_family>
+            <font_size>8pt</font_size>
+            <font_weight>bold</font_weight>
+            <is_disabled>0</is_disabled>
+            <is_visible>1</is_visible>
+            <label xml:lang="en">設定樹狀結構標題欄位(title,subject)</label>
+            <label_position>top</label_position>
+            <list_no_blank>0</list_no_blank>
+            <sort_order>2560</sort_order>
+            <source_id keyed_name="C30DB9CA0EDA4F5792052B82C05A11EF" type="Body">C30DB9CA0EDA4F5792052B82C05A11EF</source_id>
+            <tab_stop>1</tab_stop>
+            <x>51</x>
+            <y>420</y>
+            <name>txtSystemInfoToName</name>
+            <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">設定樹狀結構標題欄位(title,subject)</i18n:label>
+          </Item>
+        </Relationships>
+      </Item>
+      <Item type="Form Event" id="3EF9CCCB55A542A09D15075FF6BCEDB7" action="add">
+        <form_event>onformpopulated</form_event>
+        <related_id keyed_name="CADIntegration_SystemSettingForm" type="Method">
+          <Item type="Method" action="get" select="id">
+            <name>CADIntegration_SystemSettingForm</name>
+          </Item>
+        </related_id>
+        <sort_order>128</sort_order>
+        <source_id keyed_name="CADIntegration_SystemSetting" type="Form">36EA18C4E531493AA0A3EC99C710DDB8</source_id>
+      </Item>
+    </Relationships>
+  </Item>
+  <Item type="Field" id="E8FA478C421A4F5E9118713293A18C2C" action="edit">
+    <!-- Please note: this AML depends on the "CADIntegration_Admin" ItemType. Please make sure it exists before running this. -->
+    <propertytype_id>
+      <Item type="Property" action="get" select="id">
+        <name>classification</name>
+        <source_id type="ItemType" keyed_name="CADIntegration_Admin">209F9EB0E3E1440FB6C93B6B44688888</source_id>
+      </Item>
+    </propertytype_id>
+    <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">classification</i18n:label>
+  </Item>
+</AML>

@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="142E78512B6D4042BBA5B726FF22E28D" action="add">
+  <en>Remove PLM properties?</en>
+  <item_number>msg_022</item_number>
+  <name />
+  <type>Message</type>
+  <zh_cn>是否将PLM属性移除?</zh_cn>
+  <zh_tw>是否將PLM屬性移除?</zh_tw>
+ </Item>
+</AML>

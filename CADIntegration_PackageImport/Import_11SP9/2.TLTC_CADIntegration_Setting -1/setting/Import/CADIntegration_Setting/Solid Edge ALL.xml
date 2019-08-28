@@ -1,0 +1,9 @@
+﻿<AML>
+ <Item type="CADIntegration_Setting" id="5FE46FD7D7904658A75253B25D547260" action="add">
+  <cn_description>all file ext</cn_description>
+  <cn_file_ext />
+  <authoring_tool>Solid Edge</authoring_tool>
+  <classification>ALL</classification>
+  <Relationships></Relationships>
+ </Item>
+</AML>

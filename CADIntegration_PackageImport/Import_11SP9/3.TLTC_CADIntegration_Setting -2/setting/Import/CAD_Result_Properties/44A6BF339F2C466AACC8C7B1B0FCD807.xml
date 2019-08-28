@@ -1,0 +1,9 @@
+﻿<AML>
+ <Item type="CAD_Result_Properties" id="44A6BF339F2C466AACC8C7B1B0FCD807" action="add">
+  <cn_property keyed_name="modified_on" type="Property">B68BF1FA045B432EA52ACD758E012C60</cn_property>
+  <is_result>1</is_result>
+  <is_search>0</is_search>
+  <sort_order>640</sort_order>
+  <source_id keyed_name="Solid Edge Sheet Metal/Part" type="CADIntegration_Setting">321ACE56C6A641118DD6927EDD6F8AD6</source_id>
+ </Item>
+</AML>

@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="A84B51FEBE574E999D06DBE9883AD67D" action="add">
+  <en>CAD properties is null</en>
+  <item_number>msg_057</item_number>
+  <name />
+  <type>Message</type>
+  <zh_cn>CAD属性为空</zh_cn>
+  <zh_tw>CAD屬性為空</zh_tw>
+ </Item>
+</AML>

@@ -1,0 +1,256 @@
+<AML>
+  <Item type="RelationshipType" id="5CDC101423E04493B311BA4506531F9C" action="add" dependencyLevel="0">
+    <auto_search>1</auto_search>
+    <behavior>float</behavior>
+    <copy_permissions>0</copy_permissions>
+    <create_related>0</create_related>
+    <hide_in_all>0</hide_in_all>
+    <inc_rel_key_name>1</inc_rel_key_name>
+    <inc_related_key_name>1</inc_related_key_name>
+    <is_list_type>0</is_list_type>
+    <new_show_related>0</new_show_related>
+    <related_notnull>0</related_notnull>
+    <related_option>2</related_option>
+    <relationship_id keyed_name="CAD_Mapping_Properties" type="ItemType" name="CAD_Mapping_Properties">
+      <Item type="ItemType" id="9FEFBCE509164EAEAEA9935F9F1FCE38" action="add">
+        <allow_private_permission>1</allow_private_permission>
+        <auto_search>0</auto_search>
+        <enforce_discovery>0</enforce_discovery>
+        <hide_where_used>0</hide_where_used>
+        <implementation_type>table</implementation_type>
+        <instance_data>CAD_MAPPING_PROPERTIES</instance_data>
+        <is_dependent>0</is_dependent>
+        <is_relationship>1</is_relationship>
+        <is_versionable>0</is_versionable>
+        <label xml:lang="en">Mapping Properties</label>
+        <label_plural xml:lang="en">Mapping Properties</label_plural>
+        <revisions keyed_name="Default" type="Revision">7FE395DD8B9F4E1090756A34B733D75E</revisions>
+        <show_parameters_tab>1</show_parameters_tab>
+        <structure_view>tabs off</structure_view>
+        <unlock_on_logout>0</unlock_on_logout>
+        <use_src_access>1</use_src_access>
+        <name>CAD_Mapping_Properties</name>
+        <Relationships>
+          <Item type="Property" id="5D40E47828A644D1A8748D81C35BBA33" action="add">
+            <column_alignment>left</column_alignment>
+            <data_type>string</data_type>
+            <is_hidden>0</is_hidden>
+            <is_hidden2>0</is_hidden2>
+            <is_indexed>0</is_indexed>
+            <is_keyed>0</is_keyed>
+            <is_multi_valued>0</is_multi_valued>
+            <is_required>0</is_required>
+            <range_inclusive>0</range_inclusive>
+            <readonly>0</readonly>
+            <sort_order>4736</sort_order>
+            <source_id keyed_name="CAD_Mapping_Properties" type="ItemType" name="CAD_Mapping_Properties">9FEFBCE509164EAEAEA9935F9F1FCE38</source_id>
+            <stored_length>128</stored_length>
+            <track_history>0</track_history>
+            <name>default_value</name>
+            <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">預設值</i18n:label>
+          </Item>
+          <Item type="Property" id="CFCC09E7D75A4902A3EA0B446025D3F9" action="add">
+            <column_alignment>left</column_alignment>
+            <data_type>boolean</data_type>
+            <is_hidden>0</is_hidden>
+            <is_hidden2>0</is_hidden2>
+            <is_indexed>0</is_indexed>
+            <is_keyed>0</is_keyed>
+            <is_multi_valued>0</is_multi_valued>
+            <is_required>0</is_required>
+            <range_inclusive>0</range_inclusive>
+            <readonly>0</readonly>
+            <sort_order>4480</sort_order>
+            <source_id keyed_name="CAD_Mapping_Properties" type="ItemType" name="CAD_Mapping_Properties">9FEFBCE509164EAEAEA9935F9F1FCE38</source_id>
+            <track_history>0</track_history>
+            <name>is_checkout</name>
+            <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">不要簽出屬性</i18n:label>
+          </Item>
+          <Item type="Property" id="B5345C48C8C14826A541F2BA88874A71" action="add">
+            <column_alignment>left</column_alignment>
+            <data_type>boolean</data_type>
+            <is_hidden>0</is_hidden>
+            <is_hidden2>0</is_hidden2>
+            <is_indexed>0</is_indexed>
+            <is_keyed>0</is_keyed>
+            <is_multi_valued>0</is_multi_valued>
+            <is_required>0</is_required>
+            <range_inclusive>0</range_inclusive>
+            <readonly>0</readonly>
+            <sort_order>4608</sort_order>
+            <source_id keyed_name="CAD_Mapping_Properties" type="ItemType" name="CAD_Mapping_Properties">9FEFBCE509164EAEAEA9935F9F1FCE38</source_id>
+            <track_history>0</track_history>
+            <name>is_model_config</name>
+            <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">是否為模組屬性</i18n:label>
+          </Item>
+          <Item type="Property" id="1463FA76625A4114BF6D415A956D8853" action="add">
+            <column_alignment>left</column_alignment>
+            <data_type>boolean</data_type>
+            <is_hidden>0</is_hidden>
+            <is_hidden2>0</is_hidden2>
+            <is_indexed>0</is_indexed>
+            <is_keyed>0</is_keyed>
+            <is_multi_valued>0</is_multi_valued>
+            <is_required>0</is_required>
+            <label xml:lang="en">is_readonly</label>
+            <range_inclusive>0</range_inclusive>
+            <readonly>0</readonly>
+            <sort_order>4224</sort_order>
+            <source_id keyed_name="CAD_Mapping_Properties" type="ItemType" name="CAD_Mapping_Properties">9FEFBCE509164EAEAEA9935F9F1FCE38</source_id>
+            <track_history>0</track_history>
+            <name>is_readonly</name>
+            <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">唯讀</i18n:label>
+          </Item>
+          <Item type="Property" id="96D2DCC5644643DAB152920CC98CB3BB" action="add">
+            <column_alignment>left</column_alignment>
+            <data_type>boolean</data_type>
+            <is_hidden>0</is_hidden>
+            <is_hidden2>0</is_hidden2>
+            <is_indexed>0</is_indexed>
+            <is_keyed>0</is_keyed>
+            <is_multi_valued>0</is_multi_valued>
+            <is_required>0</is_required>
+            <label xml:lang="en">is_required</label>
+            <range_inclusive>0</range_inclusive>
+            <readonly>0</readonly>
+            <sort_order>4352</sort_order>
+            <source_id keyed_name="CAD_Mapping_Properties" type="ItemType" name="CAD_Mapping_Properties">9FEFBCE509164EAEAEA9935F9F1FCE38</source_id>
+            <track_history>0</track_history>
+            <name>is_required</name>
+            <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">必填</i18n:label>
+          </Item>
+          <Item type="Property" id="E6DA81E81E2B4D65BA21EC504E25D68B" action="add">
+            <column_alignment>left</column_alignment>
+            <data_type>boolean</data_type>
+            <is_hidden>0</is_hidden>
+            <is_hidden2>0</is_hidden2>
+            <is_indexed>0</is_indexed>
+            <is_keyed>0</is_keyed>
+            <is_multi_valued>0</is_multi_valued>
+            <is_required>0</is_required>
+            <label xml:lang="en">is_system</label>
+            <range_inclusive>0</range_inclusive>
+            <readonly>0</readonly>
+            <sort_order>4096</sort_order>
+            <source_id keyed_name="CAD_Mapping_Properties" type="ItemType" name="CAD_Mapping_Properties">9FEFBCE509164EAEAEA9935F9F1FCE38</source_id>
+            <track_history>0</track_history>
+            <name>is_system</name>
+            <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">系統欄</i18n:label>
+          </Item>
+          <Item type="Property" id="7F02688280A446529DCFA3176EAE7039" action="add">
+            <column_alignment>left</column_alignment>
+            <data_type>string</data_type>
+            <is_hidden>0</is_hidden>
+            <is_hidden2>0</is_hidden2>
+            <is_indexed>0</is_indexed>
+            <is_keyed>0</is_keyed>
+            <is_multi_valued>0</is_multi_valued>
+            <is_required>0</is_required>
+            <label xml:lang="en">mapping_field</label>
+            <range_inclusive>0</range_inclusive>
+            <readonly>0</readonly>
+            <sort_order>3712</sort_order>
+            <source_id keyed_name="CAD_Mapping_Properties" type="ItemType" name="CAD_Mapping_Properties">9FEFBCE509164EAEAEA9935F9F1FCE38</source_id>
+            <stored_length>64</stored_length>
+            <track_history>0</track_history>
+            <name>mapping_field</name>
+            <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">同步系統屬性</i18n:label>
+          </Item>
+          <Item type="Property" id="09F72FD5882A440198260287DBBAB28A" action="add">
+            <column_alignment>left</column_alignment>
+            <data_type>string</data_type>
+            <is_hidden>0</is_hidden>
+            <is_hidden2>0</is_hidden2>
+            <is_indexed>0</is_indexed>
+            <is_keyed>0</is_keyed>
+            <is_multi_valued>0</is_multi_valued>
+            <is_required>0</is_required>
+            <range_inclusive>0</range_inclusive>
+            <readonly>0</readonly>
+            <sort_order>3840</sort_order>
+            <source_id keyed_name="CAD_Mapping_Properties" type="ItemType" name="CAD_Mapping_Properties">9FEFBCE509164EAEAEA9935F9F1FCE38</source_id>
+            <stored_length>64</stored_length>
+            <track_history>0</track_history>
+            <name>mapping_label</name>
+            <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">同步屬性標籤</i18n:label>
+          </Item>
+          <Item type="Property" id="49CBAABDB9ED426CB2939E555405CC59" action="add">
+            <column_alignment>left</column_alignment>
+            <data_type>string</data_type>
+            <is_hidden>0</is_hidden>
+            <is_hidden2>0</is_hidden2>
+            <is_indexed>0</is_indexed>
+            <is_keyed>0</is_keyed>
+            <is_multi_valued>0</is_multi_valued>
+            <is_required>0</is_required>
+            <label xml:lang="en">plm_field</label>
+            <range_inclusive>0</range_inclusive>
+            <readonly>0</readonly>
+            <sort_order>3584</sort_order>
+            <source_id keyed_name="CAD_Mapping_Properties" type="ItemType" name="CAD_Mapping_Properties">9FEFBCE509164EAEAEA9935F9F1FCE38</source_id>
+            <stored_length>64</stored_length>
+            <track_history>0</track_history>
+            <name>plm_field</name>
+            <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">PLM屬性</i18n:label>
+          </Item>
+          <Item type="View" id="F6EE4C8FD3F4453BA700DE7D465F4A73" action="add">
+            <client>js</client>
+            <related_id keyed_name="CAD_Mapping_Properties" type="Form">4261EA69133449AFBE6C62834F19525A</related_id>
+            <role keyed_name="World" type="Identity">
+              <Item type="Identity" action="get" select="id">
+                <name>World</name>
+              </Item>
+            </role>
+            <show_ssvc>0</show_ssvc>
+            <sort_order>128</sort_order>
+            <source_id keyed_name="CAD_Mapping_Properties" type="ItemType" name="CAD_Mapping_Properties">9FEFBCE509164EAEAEA9935F9F1FCE38</source_id>
+            <type>default</type>
+          </Item>
+          <Item type="TOC Access" id="959389C79B1B4C1DA08EB454954D2F8B" action="add">
+            <related_id keyed_name="Administrators" type="Identity">2618D6F5A90949BAA7E920D1B04C7EE1</related_id>
+            <sort_order>128</sort_order>
+            <source_id keyed_name="CAD_Mapping_Properties" type="ItemType" name="CAD_Mapping_Properties">9FEFBCE509164EAEAEA9935F9F1FCE38</source_id>
+            <category>Administration/Integration/CADIntegration/Other</category>
+          </Item>
+          <Item type="TOC View" id="87534905D3674408A490D46A0C8764AD" action="add">
+            <related_id keyed_name="World" type="Identity">
+              <Item type="Identity" action="get" select="id">
+                <name>World</name>
+              </Item>
+            </related_id>
+            <sort_order>128</sort_order>
+            <source_id keyed_name="CAD_Mapping_Properties" type="ItemType" name="CAD_Mapping_Properties">9FEFBCE509164EAEAEA9935F9F1FCE38</source_id>
+          </Item>
+        </Relationships>
+        <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">同步屬性</i18n:label>
+        <i18n:label_plural xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">同步屬性</i18n:label_plural>
+      </Item>
+    </relationship_id>
+    <sort_order>128</sort_order>
+    <source_id keyed_name="CADIntegration_Setting" type="ItemType" name="CADIntegration_Setting">CB5C7DEB95F749709209FDB110717281</source_id>
+    <name>CAD_Mapping_Properties</name>
+    <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">CAD屬性同步</i18n:label>
+  </Item>
+  <Item type="ItemType" id="9FEFBCE509164EAEAEA9935F9F1FCE38" action="edit">
+    <Relationships>
+      <Item type="Property" action="edit" where="source_id='9FEFBCE509164EAEAEA9935F9F1FCE38' and name='sort_order'">
+        <column_alignment>left</column_alignment>
+        <data_type>integer</data_type>
+        <is_hidden>1</is_hidden>
+        <is_hidden2>0</is_hidden2>
+        <is_indexed>0</is_indexed>
+        <is_keyed>0</is_keyed>
+        <is_multi_valued>0</is_multi_valued>
+        <is_required>0</is_required>
+        <range_inclusive>0</range_inclusive>
+        <readonly>0</readonly>
+        <sort_order>3200</sort_order>
+        <source_id keyed_name="CAD_Mapping_Properties" type="ItemType" name="CAD_Mapping_Properties">9FEFBCE509164EAEAEA9935F9F1FCE38</source_id>
+        <track_history>0</track_history>
+        <name>sort_order</name>
+      </Item>
+    </Relationships>
+    <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">同步屬性</i18n:label>
+    <i18n:label_plural xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">同步屬性</i18n:label_plural>
+  </Item>
+</AML>

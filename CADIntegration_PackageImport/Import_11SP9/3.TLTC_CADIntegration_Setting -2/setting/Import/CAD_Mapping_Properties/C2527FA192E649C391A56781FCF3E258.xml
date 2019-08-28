@@ -1,0 +1,13 @@
+﻿<AML>
+ <Item type="CAD_Mapping_Properties" id="C2527FA192E649C391A56781FCF3E258" action="add">
+  <is_checkout>0</is_checkout>
+  <is_model_config>0</is_model_config>
+  <is_readonly>0</is_readonly>
+  <is_required>0</is_required>
+  <is_system>0</is_system>
+  <mapping_label>測試Filter List</mapping_label>
+  <plm_field>cn_filter_list</plm_field>
+  <sort_order>2560</sort_order>
+  <source_id keyed_name="Solid Edge Mechanical/Assembly" type="CADIntegration_Setting">A54FD7CE79B043ADA555704B1E007E24</source_id>
+ </Item>
+</AML>

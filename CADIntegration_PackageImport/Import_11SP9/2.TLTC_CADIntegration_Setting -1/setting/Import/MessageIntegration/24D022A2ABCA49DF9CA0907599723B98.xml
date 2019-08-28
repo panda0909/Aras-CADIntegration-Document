@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="24D022A2ABCA49DF9CA0907599723B98" action="add">
+  <en>Update</en>
+  <item_number>name_007</item_number>
+  <name>Update</name>
+  <type>name</type>
+  <zh_cn>更新程式</zh_cn>
+  <zh_tw>更新程式</zh_tw>
+ </Item>
+</AML>

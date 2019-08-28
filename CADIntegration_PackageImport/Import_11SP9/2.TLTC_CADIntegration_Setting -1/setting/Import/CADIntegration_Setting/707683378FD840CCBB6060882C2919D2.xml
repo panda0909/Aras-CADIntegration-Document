@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="CADIntegration_Setting" id="707683378FD840CCBB6060882C2919D2" action="add">
+  <cn_file_ext>.dwg</cn_file_ext>
+  <cn_tltileblock_name>AX</cn_tltileblock_name>
+  <cn_treesmallicon>6</cn_treesmallicon>
+  <authoring_tool>AutoCAD</authoring_tool>
+  <classification>Mechanical/Drawing</classification>
+  <Relationships></Relationships>
+ </Item>
+</AML>

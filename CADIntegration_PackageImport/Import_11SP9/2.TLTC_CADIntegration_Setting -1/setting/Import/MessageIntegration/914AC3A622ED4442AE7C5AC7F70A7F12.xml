@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="914AC3A622ED4442AE7C5AC7F70A7F12" action="add">
+  <en>Get item number After Save As</en>
+  <item_number>msg_030</item_number>
+  <name />
+  <type>Message</type>
+  <zh_cn>领号是否另存新档? </zh_cn>
+  <zh_tw>領號是否另存新檔? </zh_tw>
+ </Item>
+</AML>

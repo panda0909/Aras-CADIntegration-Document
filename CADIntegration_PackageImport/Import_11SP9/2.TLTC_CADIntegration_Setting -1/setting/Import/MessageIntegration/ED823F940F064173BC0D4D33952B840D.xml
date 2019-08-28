@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="ED823F940F064173BC0D4D33952B840D" action="add">
+  <en>Checkout Exception:{0}</en>
+  <item_number>msg_050</item_number>
+  <name />
+  <type>Message</type>
+  <zh_cn>签出例外错误:{0}</zh_cn>
+  <zh_tw>簽出例外錯誤:{0}</zh_tw>
+ </Item>
+</AML>

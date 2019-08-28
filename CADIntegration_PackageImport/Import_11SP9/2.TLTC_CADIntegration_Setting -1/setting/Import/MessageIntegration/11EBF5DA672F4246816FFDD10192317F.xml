@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="11EBF5DA672F4246816FFDD10192317F" action="add">
+  <en>MessageIntegration error</en>
+  <item_number>msg_054</item_number>
+  <name />
+  <type>Message</type>
+  <zh_cn>讯息整合错误</zh_cn>
+  <zh_tw>訊息整合錯誤</zh_tw>
+ </Item>
+</AML>

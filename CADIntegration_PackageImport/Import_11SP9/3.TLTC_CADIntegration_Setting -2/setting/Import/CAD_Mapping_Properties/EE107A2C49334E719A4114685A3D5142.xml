@@ -1,0 +1,14 @@
+﻿<AML>
+ <Item type="CAD_Mapping_Properties" id="EE107A2C49334E719A4114685A3D5142" action="add">
+  <is_checkout>0</is_checkout>
+  <is_model_config>0</is_model_config>
+  <is_readonly>0</is_readonly>
+  <is_required>0</is_required>
+  <is_system>1</is_system>
+  <mapping_field />
+  <mapping_label>authoring_tool</mapping_label>
+  <plm_field>authoring_tool</plm_field>
+  <sort_order>896</sort_order>
+  <source_id keyed_name="Solid Edge Mechanical/Part" type="CADIntegration_Setting">061E8ABED89B410AA8454FE8B07D34CE</source_id>
+ </Item>
+</AML>

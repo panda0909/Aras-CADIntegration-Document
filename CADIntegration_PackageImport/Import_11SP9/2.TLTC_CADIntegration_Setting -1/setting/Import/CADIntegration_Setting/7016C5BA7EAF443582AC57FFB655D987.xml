@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="CADIntegration_Setting" id="7016C5BA7EAF443582AC57FFB655D987" action="add">
+  <cn_description>SolidWorks組合鍵</cn_description>
+  <cn_file_ext>.sldasm</cn_file_ext>
+  <cn_treesmallicon>6</cn_treesmallicon>
+  <authoring_tool>SolidWorks</authoring_tool>
+  <classification>Mechanical/Assembly</classification>
+  <Relationships></Relationships>
+ </Item>
+</AML>

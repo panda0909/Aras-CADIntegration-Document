@@ -1,0 +1,163 @@
+<AML>
+  <Item type="RelationshipType" id="7FF2384A47504929B93EF77C9E1ECE70" action="add" dependencyLevel="0">
+    <auto_search>1</auto_search>
+    <behavior>float</behavior>
+    <copy_permissions>0</copy_permissions>
+    <create_related>0</create_related>
+    <hide_in_all>0</hide_in_all>
+    <inc_rel_key_name>1</inc_rel_key_name>
+    <inc_related_key_name>1</inc_related_key_name>
+    <is_list_type>0</is_list_type>
+    <new_show_related>0</new_show_related>
+    <related_notnull>0</related_notnull>
+    <related_option>2</related_option>
+    <relationship_id keyed_name="CAD_Result_Properties" type="ItemType" name="CAD_Result_Properties">
+      <Item type="ItemType" id="ADAF706A2EF64EF7AD3D14C7FC258AED" action="add">
+        <allow_private_permission>1</allow_private_permission>
+        <auto_search>0</auto_search>
+        <enforce_discovery>0</enforce_discovery>
+        <hide_where_used>0</hide_where_used>
+        <implementation_type>table</implementation_type>
+        <instance_data>CAD_RESULT_PROPERTIES</instance_data>
+        <is_dependent>0</is_dependent>
+        <is_relationship>1</is_relationship>
+        <is_versionable>0</is_versionable>
+        <label xml:lang="en">SearchResult Property</label>
+        <label_plural xml:lang="en">SearchResult Property</label_plural>
+        <revisions keyed_name="Default" type="Revision">7FE395DD8B9F4E1090756A34B733D75E</revisions>
+        <show_parameters_tab>1</show_parameters_tab>
+        <structure_view>tabs off</structure_view>
+        <unlock_on_logout>0</unlock_on_logout>
+        <use_src_access>1</use_src_access>
+        <name>CAD_Result_Properties</name>
+        <Relationships>
+          <Item type="Property" id="F9640E8F6A884C689DC65A7856E37D20" action="add">
+            <column_alignment>left</column_alignment>
+            <data_source keyed_name="Property" type="ItemType" name="Property">26D7CD4E033242148E2724D3D054B4D3</data_source>
+            <data_type>item</data_type>
+            <is_hidden>0</is_hidden>
+            <is_hidden2>0</is_hidden2>
+            <is_indexed>0</is_indexed>
+            <is_keyed>0</is_keyed>
+            <is_multi_valued>0</is_multi_valued>
+            <is_required>0</is_required>
+            <item_behavior>float</item_behavior>
+            <label xml:lang="en">Property</label>
+            <range_inclusive>0</range_inclusive>
+            <readonly>0</readonly>
+            <sort_order>3584</sort_order>
+            <source_id keyed_name="CAD_Result_Properties" type="ItemType" name="CAD_Result_Properties">ADAF706A2EF64EF7AD3D14C7FC258AED</source_id>
+            <track_history>0</track_history>
+            <name>cn_property</name>
+            <Relationships>
+              <Item type="Grid Event" id="A5E954AE1102481F8BC4B0C8664EF230" action="add">
+                <grid_event>onsearchdialog</grid_event>
+                <related_id keyed_name="CADIntegration_SetProperty" type="Method">
+                  <Item type="Method" action="get" select="id">
+                    <name>CADIntegration_SetProperty</name>
+                  </Item>
+                </related_id>
+                <sort_order>128</sort_order>
+                <source_id keyed_name="cn_property" type="Property">F9640E8F6A884C689DC65A7856E37D20</source_id>
+              </Item>
+            </Relationships>
+            <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">屬性</i18n:label>
+          </Item>
+          <Item type="Property" id="5AF5B4C252DB49C49E0747F867F789C1" action="add">
+            <column_alignment>left</column_alignment>
+            <data_type>boolean</data_type>
+            <is_hidden>0</is_hidden>
+            <is_hidden2>0</is_hidden2>
+            <is_indexed>0</is_indexed>
+            <is_keyed>0</is_keyed>
+            <is_multi_valued>0</is_multi_valued>
+            <is_required>0</is_required>
+            <range_inclusive>0</range_inclusive>
+            <readonly>0</readonly>
+            <sort_order>3968</sort_order>
+            <source_id keyed_name="CAD_Result_Properties" type="ItemType" name="CAD_Result_Properties">ADAF706A2EF64EF7AD3D14C7FC258AED</source_id>
+            <track_history>0</track_history>
+            <name>is_result</name>
+            <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">顯示結果</i18n:label>
+          </Item>
+          <Item type="Property" id="AB576C17E79D4CE0819AD46CE83C6FC8" action="add">
+            <column_alignment>left</column_alignment>
+            <data_type>boolean</data_type>
+            <is_hidden>0</is_hidden>
+            <is_hidden2>0</is_hidden2>
+            <is_indexed>0</is_indexed>
+            <is_keyed>0</is_keyed>
+            <is_multi_valued>0</is_multi_valued>
+            <is_required>0</is_required>
+            <range_inclusive>0</range_inclusive>
+            <readonly>0</readonly>
+            <sort_order>3840</sort_order>
+            <source_id keyed_name="CAD_Result_Properties" type="ItemType" name="CAD_Result_Properties">ADAF706A2EF64EF7AD3D14C7FC258AED</source_id>
+            <track_history>0</track_history>
+            <name>is_search</name>
+            <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">設為搜尋</i18n:label>
+          </Item>
+          <Item type="View" id="E9551BC8CC3D4A43A0DAC9FDCD9C58F7" action="add">
+            <client>js</client>
+            <related_id keyed_name="CAD_Result_Properties" type="Form">A03037557DA44C83A33EA8583EC2CD2D</related_id>
+            <role keyed_name="World" type="Identity">
+              <Item type="Identity" action="get" select="id">
+                <name>World</name>
+              </Item>
+            </role>
+            <show_ssvc>0</show_ssvc>
+            <sort_order>128</sort_order>
+            <source_id keyed_name="CAD_Result_Properties" type="ItemType" name="CAD_Result_Properties">ADAF706A2EF64EF7AD3D14C7FC258AED</source_id>
+            <type>default</type>
+          </Item>
+        </Relationships>
+        <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">搜尋結果屬性</i18n:label>
+        <i18n:label_plural xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">搜尋結果屬性</i18n:label_plural>
+      </Item>
+    </relationship_id>
+    <sort_order>128</sort_order>
+    <source_id keyed_name="CADIntegration_Setting" type="ItemType" name="CADIntegration_Setting">CB5C7DEB95F749709209FDB110717281</source_id>
+    <name>CAD_Result_Properties</name>
+    <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">搜尋結果欄位</i18n:label>
+  </Item>
+  <Item type="ItemType" id="ADAF706A2EF64EF7AD3D14C7FC258AED" action="edit">
+    <Relationships>
+      <Item type="Property" action="edit" where="source_id='ADAF706A2EF64EF7AD3D14C7FC258AED' and name='related_id'">
+        <column_alignment>left</column_alignment>
+        <data_type>item</data_type>
+        <is_hidden>0</is_hidden>
+        <is_hidden2>1</is_hidden2>
+        <is_indexed>1</is_indexed>
+        <is_keyed>0</is_keyed>
+        <is_multi_valued>0</is_multi_valued>
+        <is_required>0</is_required>
+        <item_behavior>float</item_behavior>
+        <range_inclusive>0</range_inclusive>
+        <readonly>0</readonly>
+        <sort_order>3712</sort_order>
+        <source_id keyed_name="CAD_Result_Properties" type="ItemType" name="CAD_Result_Properties">ADAF706A2EF64EF7AD3D14C7FC258AED</source_id>
+        <track_history>0</track_history>
+        <name>related_id</name>
+        <Relationships>
+          <Item type="Grid Event" id="01837FFE83DB48CDAE3A24E0A908AED4" action="add">
+            <grid_event>onsearchdialog</grid_event>
+            <related_id keyed_name="CADIntegration_SetProperty" type="Method">
+              <Item type="Method" action="get" select="id">
+                <name>CADIntegration_SetProperty</name>
+              </Item>
+            </related_id>
+            <sort_order>128</sort_order>
+            <source_id>
+              <Item type="Property" action="get" select="id">
+                <name>related_id</name>
+                <source_id>ADAF706A2EF64EF7AD3D14C7FC258AED</source_id>
+              </Item>
+            </source_id>
+          </Item>
+        </Relationships>
+      </Item>
+    </Relationships>
+    <i18n:label xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">搜尋結果屬性</i18n:label>
+    <i18n:label_plural xml:lang="zt" xmlns:i18n="http://www.aras.com/I18N">搜尋結果屬性</i18n:label_plural>
+  </Item>
+</AML>

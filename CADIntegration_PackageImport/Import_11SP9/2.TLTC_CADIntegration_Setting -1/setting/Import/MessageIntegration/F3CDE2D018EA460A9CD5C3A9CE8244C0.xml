@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="MessageIntegration" id="F3CDE2D018EA460A9CD5C3A9CE8244C0" action="add">
+  <en>Loading {0} error</en>
+  <item_number>msg_005</item_number>
+  <name />
+  <type>Message</type>
+  <zh_cn>讀取{0}失敗</zh_cn>
+  <zh_tw>讀取{0}失敗</zh_tw>
+ </Item>
+</AML>
