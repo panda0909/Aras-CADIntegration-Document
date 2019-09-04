@@ -360,3 +360,1552 @@ System.Exception: Not a single item
 2019/09/03 12:53:31====>---------------結束簽入-----------
 2019/09/03 12:53:31====>
 2019/09/03 12:53:31====>---------Checkin End----------
+2019/09/03 06:18:54====>取得訊息整合成功
+2019/09/03 06:18:57====>UpdateDataStart 更新資料
+2019/09/03 06:18:57====>UpdateDataUpdate 更新資料
+2019/09/03 06:18:58====>UpdateDataUpdate 更新資料
+2019/09/03 06:18:59====>UpdateDataUpdate 更新資料
+2019/09/03 06:19:01====>---------Login Start----------
+2019/09/03 06:19:13====>Login Success
+2019/09/03 06:19:13====>---------Login End----------
+2019/09/03 06:20:24====>UpdateDataUpdate 更新資料
+2019/09/03 06:20:24====>UpdateDataUpdate 更新資料
+2019/09/03 06:20:37====>---------CAD Manager Start----------
+2019/09/03 06:20:38====>---------CAD Manager End----------
+2019/09/03 06:20:40====>
+===================
+<Item isNew="1" isTemp="1" type="CAD" action="get"><classification>Mechanical/Drawing</classification><item_number>AD</item_number><is_current>1</is_current></Item>
+
+2019/09/03 06:20:41====>
+===================
+<Item isNew="1" isTemp="1" type="CAD" action="get"><classification>Mechanical/Drawing</classification><item_number>AD</item_number><is_current>1</is_current></Item>
+
+2019/09/03 06:21:16====>UpdateDataUpdate 更新資料
+2019/09/03 06:21:17====>UpdateDataUpdate 更新資料
+2019/09/03 06:21:17====>UpdateDataUpdate 更新資料
+2019/09/03 06:21:17====>UpdateDataUpdate 更新資料
+2019/09/04 11:11:04====>取得訊息整合成功
+2019/09/04 11:31:08====>UpdateDataStart 更新資料
+2019/09/04 11:31:08====>UpdateDataUpdate 更新資料
+2019/09/04 11:31:09====>UpdateDataUpdate 更新資料
+2019/09/04 11:31:10====>UpdateDataUpdate 更新資料
+2019/09/04 11:38:23====>---------Login Start----------
+2019/09/04 11:38:35====>Login Success
+2019/09/04 11:38:35====>---------Login End----------
+2019/09/04 11:39:54====>---------Checkout Start----------
+2019/09/04 11:39:58====>
+2019/09/04 11:40:05====>---------Checkout End----------
+2019/09/04 11:40:06====>---------Checkin Start----------
+2019/09/04 11:40:06====>
+===================
+<Item isNew="1" isTemp="1" type="CAD" action="get"><classification>Mechanical/Drawing</classification><item_number>AD</item_number><is_current>1</is_current></Item>
+
+2019/09/04 11:40:06====>
+===================
+<Item isNew="1" isTemp="1" type="CAD" action="get"><classification>Mechanical/Drawing</classification><item_number>AD</item_number><is_current>1</is_current></Item>
+
+2019/09/04 11:40:07====>
+<?xml version="1.0" encoding="utf-16"?>
+<CADBOM xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part_bom_quantity />
+  <id>temp-4b892cb3-ab2a-4685-8244-65895676b635</id>
+  <last_id>8F735AD1E62C47E4AF33E5E1523A0D04</last_id>
+  <name>AD.dwg</name>
+  <filePath>C:\Users\Administrator\Desktop\AD.dwg</filePath>
+  <state>none</state>
+  <isEdited>false</isEdited>
+  <classification>Mechanical/Drawing</classification>
+  <level>1</level>
+  <is_current>0</is_current>
+  <treeSmallIcon>6</treeSmallIcon>
+  <thumbnail />
+  <major_rev />
+  <generation />
+  <plm_state />
+  <plm_major_rev>A</plm_major_rev>
+  <plm_generation>1</plm_generation>
+  <cad_fileSize>0</cad_fileSize>
+  <plm_fileSize>34233</plm_fileSize>
+  <isDrawing>false</isDrawing>
+  <isCheckIn>false</isCheckIn>
+  <isCheckout>false</isCheckout>
+  <isCheckInDrawing>false</isCheckInDrawing>
+  <isCheckoutDrawing>false</isCheckoutDrawing>
+  <isApplySuccess>false</isApplySuccess>
+  <error_message />
+  <checkinRuleState />
+  <configuration_list />
+  <bom />
+  <part_bom />
+  <drawingList />
+  <properties>
+    <Property>
+      <field_name>item_number</field_name>
+      <field_value>AD</field_value>
+    </Property>
+    <Property>
+      <field_name>name</field_name>
+      <field_value>AD</field_value>
+    </Property>
+    <Property>
+      <field_name>classification</field_name>
+      <field_value>Mechanical/Drawing</field_value>
+    </Property>
+    <Property>
+      <field_name>major_rev</field_name>
+      <field_value />
+    </Property>
+    <Property>
+      <field_name>generation</field_name>
+      <field_value />
+    </Property>
+    <Property>
+      <field_name>id</field_name>
+      <field_value>temp-4b892cb3-ab2a-4685-8244-65895676b635</field_value>
+    </Property>
+    <Property>
+      <field_name>authoring_tool</field_name>
+      <field_value>AutoCAD</field_value>
+    </Property>
+    <Property>
+      <field_name>viewable_file</field_name>
+      <field_value />
+    </Property>
+    <Property>
+      <field_name>is_current</field_name>
+      <field_value />
+    </Property>
+  </properties>
+  <configuration_structure />
+</CADBOM>
+2019/09/04 11:40:07====>C:\Users\Administrator\Desktop\AD.dwg
+2019/09/04 11:40:09====>
+2019/09/04 11:40:09====>---------Checkin End----------
+2019/09/04 11:40:11====>---------Checkout Start----------
+2019/09/04 11:40:14====>
+2019/09/04 11:41:51====>---------Checkout End----------
+2019/09/04 11:47:17====>---------SaveProperties Start----------
+2019/09/04 11:47:17====>C:\Users\Administrator\Desktop\AD.dwg
+2019/09/04 11:47:20====>---------SaveProperties End----------
+2019/09/04 11:47:22====>---------Checkout Start----------
+2019/09/04 11:47:35====>
+2019/09/04 11:47:51====>
+2019/09/04 11:57:59====>---------Checkout End----------
+2019/09/04 11:58:02====>---------Checkout Start----------
+2019/09/04 11:58:57====>
+2019/09/04 12:13:42====>查詢AML:<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:Body><Result><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="8F735AD1E62C47E4AF33E5E1523A0D04" page="1" pagemax="1" itemmax="1"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="AD" type="CAD">8F735AD1E62C47E4AF33E5E1523A0D04</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-09-03T12:53:21</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>1</generation><has_change_pending>0</has_change_pending><id keyed_name="AD" type="CAD">8F735AD1E62C47E4AF33E5E1523A0D04</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>AD</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-09-03T12:53:22</modified_on><name>AD</name><native_file keyed_name="AD.dwg" type="File">EA7595A3471E453CB3BBE16262699F8D</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="AD.pdf" type="File">10B560A0F2EB46C79905BC2B021699E0</viewable_file><item_number>AD</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item></Result><Message><event name="pagemax" value="1" /><event name="itemmax" value="1" /><event name="items_with_no_access_count" value="0" /></Message></SOAP-ENV:Body></SOAP-ENV:Envelope>
+2019/09/04 12:13:57====>---------Checkout End----------
+2019/09/04 12:14:16====>---------Checkout Start----------
+2019/09/04 12:14:22====>---------Checkout End----------
+2019/09/04 12:14:24====>---------Checkout Start----------
+2019/09/04 12:27:27====>查詢AML:<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:Body><Result><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="8F735AD1E62C47E4AF33E5E1523A0D04" page="1" pagemax="1" itemmax="1"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="AD" type="CAD">8F735AD1E62C47E4AF33E5E1523A0D04</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-09-03T12:53:21</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>1</generation><has_change_pending>0</has_change_pending><id keyed_name="AD" type="CAD">8F735AD1E62C47E4AF33E5E1523A0D04</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>AD</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-09-03T12:53:22</modified_on><name>AD</name><native_file keyed_name="AD.dwg" type="File">EA7595A3471E453CB3BBE16262699F8D</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="AD.pdf" type="File">10B560A0F2EB46C79905BC2B021699E0</viewable_file><item_number>AD</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item></Result><Message><event name="pagemax" value="1" /><event name="itemmax" value="1" /><event name="items_with_no_access_count" value="0" /></Message></SOAP-ENV:Body></SOAP-ENV:Envelope>
+2019/09/04 12:27:32====>下載例外錯誤:System.Exception: Not a single item
+   於 Aras.IOM.Item.getProperty(String propertyName, String defaultValue, String lang) 於 E:\Builds\Innovator_RELS11-0-SP12\6920-RELS11-0-SP12\Innovator.git\CompilableCode\IOM.NET\Item.common.cs: 行 1769
+   於 CADIntegration.ComApp.GetSmallIconNumber(Item itm, Int32& smallIcon)
+   於 CADIntegration.ComApp.GetPLMCADObjectToList(List`1 selectItemId)
+   於 CADIntegration.ComApp.DownLoad(Boolean IsCheckout)
+   於 Aras.IOM.Item.getProperty(String propertyName, String defaultValue, String lang) 於 E:\Builds\Innovator_RELS11-0-SP12\6920-RELS11-0-SP12\Innovator.git\CompilableCode\IOM.NET\Item.common.cs: 行 1769
+   於 CADIntegration.ComApp.GetSmallIconNumber(Item itm, Int32& smallIcon)
+   於 CADIntegration.ComApp.GetPLMCADObjectToList(List`1 selectItemId)
+   於 CADIntegration.ComApp.DownLoad(Boolean IsCheckout)
+2019/09/04 12:27:32====>---------Checkout End----------
+2019/09/04 12:29:43====>---------Checkout Start----------
+2019/09/04 12:29:55====>查詢AML:<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:Body><Result><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="FA1FAD32D73048CBAC7C97EDFBFD41C4" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="0A12345P" type="CAD">458FC437ADBE47FE8E299A2394370954</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-13T17:04:12</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>3</generation><has_change_pending>0</has_change_pending><id keyed_name="0A12345P" type="CAD">FA1FAD32D73048CBAC7C97EDFBFD41C4</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>0A12345P</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-14T15:36:02</modified_on><name>0A12345P</name><native_file keyed_name="0A12345P.dwg" type="File">839B993E3D75476D86F548D7B556EE53</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="0A12345P.pdf" type="File">74BA087EA5E248E1B59C6877719ACCFF</viewable_file><item_number>0A12345P</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="4B10DBB0F4E74ACC9322A0E8F885220B" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="555555555" type="CAD">DB0518BC91A546FC88799507D4734940</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-01T23:45:39</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>24</generation><has_change_pending>0</has_change_pending><id keyed_name="555555555" type="CAD">4B10DBB0F4E74ACC9322A0E8F885220B</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>555555555</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-13T16:23:30</modified_on><name>77</name><native_file keyed_name="T4HBBF01_v2013.dwg" type="File">C1DCAA58440F42B1849F6DA10DB0F90A</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="T4HBBF01_v2013.pdf" type="File">A34F034843B04DE7869688E1870DD393</viewable_file><item_number>555555555</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="8F735AD1E62C47E4AF33E5E1523A0D04" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="AD" type="CAD">8F735AD1E62C47E4AF33E5E1523A0D04</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-09-03T12:53:21</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>1</generation><has_change_pending>0</has_change_pending><id keyed_name="AD" type="CAD">8F735AD1E62C47E4AF33E5E1523A0D04</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>AD</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-09-03T12:53:22</modified_on><name>AD</name><native_file keyed_name="AD.dwg" type="File">EA7595A3471E453CB3BBE16262699F8D</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="AD.pdf" type="File">10B560A0F2EB46C79905BC2B021699E0</viewable_file><item_number>AD</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="DF1E2BF3D2024E0E920C793CF7932BF0" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="Template" type="CAD">D28951D28E984EAD9977BF12AC2BEA08</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-13T16:50:30</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>4</generation><has_change_pending>0</has_change_pending><id keyed_name="Template" type="CAD">DF1E2BF3D2024E0E920C793CF7932BF0</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>Template</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-14T12:30:47</modified_on><name>Template</name><native_file keyed_name="Template.dwg" type="File">52AD7F118C4844FB92113D0134E9ED8B</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="0A12345P.pdf" type="File">1E62F5DE1BAB4C9EBF58DC221F392CB0</viewable_file><item_number>Template</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item></Result><Message><event name="pagemax" value="1" /><event name="itemmax" value="4" /><event name="items_with_no_access_count" value="0" /></Message></SOAP-ENV:Body></SOAP-ENV:Envelope>
+2019/09/04 12:30:20====>下載例外錯誤:System.Exception: Not a single item
+   於 Aras.IOM.Item.getProperty(String propertyName, String defaultValue, String lang) 於 E:\Builds\Innovator_RELS11-0-SP12\6920-RELS11-0-SP12\Innovator.git\CompilableCode\IOM.NET\Item.common.cs: 行 1769
+   於 CADIntegration.ComApp.GetSmallIconNumber(Item itm, Int32& smallIcon)
+   於 CADIntegration.ComApp.GetPLMCADObjectToList(List`1 selectItemId)
+   於 CADIntegration.ComApp.DownLoad(Boolean IsCheckout)
+   於 Aras.IOM.Item.getProperty(String propertyName, String defaultValue, String lang) 於 E:\Builds\Innovator_RELS11-0-SP12\6920-RELS11-0-SP12\Innovator.git\CompilableCode\IOM.NET\Item.common.cs: 行 1769
+   於 CADIntegration.ComApp.GetSmallIconNumber(Item itm, Int32& smallIcon)
+   於 CADIntegration.ComApp.GetPLMCADObjectToList(List`1 selectItemId)
+   於 CADIntegration.ComApp.DownLoad(Boolean IsCheckout)
+2019/09/04 12:30:36====>下載例外錯誤:System.Exception: Not a single item
+   於 Aras.IOM.Item.getProperty(String propertyName, String defaultValue, String lang) 於 E:\Builds\Innovator_RELS11-0-SP12\6920-RELS11-0-SP12\Innovator.git\CompilableCode\IOM.NET\Item.common.cs: 行 1769
+   於 CADIntegration.ComApp.GetSmallIconNumber(Item itm, Int32& smallIcon)
+   於 CADIntegration.ComApp.GetPLMCADObjectToList(List`1 selectItemId)
+   於 CADIntegration.ComApp.DownLoad(Boolean IsCheckout)
+   於 Aras.IOM.Item.getProperty(String propertyName, String defaultValue, String lang) 於 E:\Builds\Innovator_RELS11-0-SP12\6920-RELS11-0-SP12\Innovator.git\CompilableCode\IOM.NET\Item.common.cs: 行 1769
+   於 CADIntegration.ComApp.GetSmallIconNumber(Item itm, Int32& smallIcon)
+   於 CADIntegration.ComApp.GetPLMCADObjectToList(List`1 selectItemId)
+   於 CADIntegration.ComApp.DownLoad(Boolean IsCheckout)
+2019/09/04 12:31:15====>下載例外錯誤:System.Exception: Not a single item
+   於 Aras.IOM.Item.getProperty(String propertyName, String defaultValue, String lang) 於 E:\Builds\Innovator_RELS11-0-SP12\6920-RELS11-0-SP12\Innovator.git\CompilableCode\IOM.NET\Item.common.cs: 行 1769
+   於 CADIntegration.ComApp.GetSmallIconNumber(Item itm, Int32& smallIcon)
+   於 CADIntegration.ComApp.GetPLMCADObjectToList(List`1 selectItemId)
+   於 CADIntegration.ComApp.DownLoad(Boolean IsCheckout)
+   於 Aras.IOM.Item.getProperty(String propertyName, String defaultValue, String lang) 於 E:\Builds\Innovator_RELS11-0-SP12\6920-RELS11-0-SP12\Innovator.git\CompilableCode\IOM.NET\Item.common.cs: 行 1769
+   於 CADIntegration.ComApp.GetSmallIconNumber(Item itm, Int32& smallIcon)
+   於 CADIntegration.ComApp.GetPLMCADObjectToList(List`1 selectItemId)
+   於 CADIntegration.ComApp.DownLoad(Boolean IsCheckout)
+2019/09/04 12:31:15====>---------Checkout End----------
+2019/09/04 12:31:18====>---------Checkout Start----------
+2019/09/04 12:31:19====>查詢AML:<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:Body><Result><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="FA1FAD32D73048CBAC7C97EDFBFD41C4" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="0A12345P" type="CAD">458FC437ADBE47FE8E299A2394370954</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-13T17:04:12</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>3</generation><has_change_pending>0</has_change_pending><id keyed_name="0A12345P" type="CAD">FA1FAD32D73048CBAC7C97EDFBFD41C4</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>0A12345P</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-14T15:36:02</modified_on><name>0A12345P</name><native_file keyed_name="0A12345P.dwg" type="File">839B993E3D75476D86F548D7B556EE53</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="0A12345P.pdf" type="File">74BA087EA5E248E1B59C6877719ACCFF</viewable_file><item_number>0A12345P</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="4B10DBB0F4E74ACC9322A0E8F885220B" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="555555555" type="CAD">DB0518BC91A546FC88799507D4734940</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-01T23:45:39</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>24</generation><has_change_pending>0</has_change_pending><id keyed_name="555555555" type="CAD">4B10DBB0F4E74ACC9322A0E8F885220B</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>555555555</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-13T16:23:30</modified_on><name>77</name><native_file keyed_name="T4HBBF01_v2013.dwg" type="File">C1DCAA58440F42B1849F6DA10DB0F90A</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="T4HBBF01_v2013.pdf" type="File">A34F034843B04DE7869688E1870DD393</viewable_file><item_number>555555555</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="8F735AD1E62C47E4AF33E5E1523A0D04" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="AD" type="CAD">8F735AD1E62C47E4AF33E5E1523A0D04</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-09-03T12:53:21</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>1</generation><has_change_pending>0</has_change_pending><id keyed_name="AD" type="CAD">8F735AD1E62C47E4AF33E5E1523A0D04</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>AD</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-09-03T12:53:22</modified_on><name>AD</name><native_file keyed_name="AD.dwg" type="File">EA7595A3471E453CB3BBE16262699F8D</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="AD.pdf" type="File">10B560A0F2EB46C79905BC2B021699E0</viewable_file><item_number>AD</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="DF1E2BF3D2024E0E920C793CF7932BF0" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="Template" type="CAD">D28951D28E984EAD9977BF12AC2BEA08</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-13T16:50:30</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>4</generation><has_change_pending>0</has_change_pending><id keyed_name="Template" type="CAD">DF1E2BF3D2024E0E920C793CF7932BF0</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>Template</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-14T12:30:47</modified_on><name>Template</name><native_file keyed_name="Template.dwg" type="File">52AD7F118C4844FB92113D0134E9ED8B</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="0A12345P.pdf" type="File">1E62F5DE1BAB4C9EBF58DC221F392CB0</viewable_file><item_number>Template</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item></Result><Message><event name="pagemax" value="1" /><event name="itemmax" value="4" /><event name="items_with_no_access_count" value="0" /></Message></SOAP-ENV:Body></SOAP-ENV:Envelope>
+2019/09/04 12:31:55====>下載例外錯誤:System.Exception: Not a single item
+   於 Aras.IOM.Item.getProperty(String propertyName, String defaultValue, String lang) 於 E:\Builds\Innovator_RELS11-0-SP12\6920-RELS11-0-SP12\Innovator.git\CompilableCode\IOM.NET\Item.common.cs: 行 1769
+   於 CADIntegration.ComApp.GetSmallIconNumber(Item itm, Int32& smallIcon)
+   於 CADIntegration.ComApp.GetPLMCADObjectToList(List`1 selectItemId)
+   於 CADIntegration.ComApp.DownLoad(Boolean IsCheckout)
+   於 Aras.IOM.Item.getProperty(String propertyName, String defaultValue, String lang) 於 E:\Builds\Innovator_RELS11-0-SP12\6920-RELS11-0-SP12\Innovator.git\CompilableCode\IOM.NET\Item.common.cs: 行 1769
+   於 CADIntegration.ComApp.GetSmallIconNumber(Item itm, Int32& smallIcon)
+   於 CADIntegration.ComApp.GetPLMCADObjectToList(List`1 selectItemId)
+   於 CADIntegration.ComApp.DownLoad(Boolean IsCheckout)
+2019/09/04 12:31:55====>---------Checkout End----------
+2019/09/04 12:32:00====>---------Checkout Start----------
+2019/09/04 12:32:02====>查詢AML:<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:Body><Result><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="FA1FAD32D73048CBAC7C97EDFBFD41C4" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="0A12345P" type="CAD">458FC437ADBE47FE8E299A2394370954</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-13T17:04:12</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>3</generation><has_change_pending>0</has_change_pending><id keyed_name="0A12345P" type="CAD">FA1FAD32D73048CBAC7C97EDFBFD41C4</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>0A12345P</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-14T15:36:02</modified_on><name>0A12345P</name><native_file keyed_name="0A12345P.dwg" type="File">839B993E3D75476D86F548D7B556EE53</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="0A12345P.pdf" type="File">74BA087EA5E248E1B59C6877719ACCFF</viewable_file><item_number>0A12345P</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="4B10DBB0F4E74ACC9322A0E8F885220B" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="555555555" type="CAD">DB0518BC91A546FC88799507D4734940</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-01T23:45:39</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>24</generation><has_change_pending>0</has_change_pending><id keyed_name="555555555" type="CAD">4B10DBB0F4E74ACC9322A0E8F885220B</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>555555555</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-13T16:23:30</modified_on><name>77</name><native_file keyed_name="T4HBBF01_v2013.dwg" type="File">C1DCAA58440F42B1849F6DA10DB0F90A</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="T4HBBF01_v2013.pdf" type="File">A34F034843B04DE7869688E1870DD393</viewable_file><item_number>555555555</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="8F735AD1E62C47E4AF33E5E1523A0D04" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="AD" type="CAD">8F735AD1E62C47E4AF33E5E1523A0D04</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-09-03T12:53:21</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>1</generation><has_change_pending>0</has_change_pending><id keyed_name="AD" type="CAD">8F735AD1E62C47E4AF33E5E1523A0D04</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>AD</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-09-03T12:53:22</modified_on><name>AD</name><native_file keyed_name="AD.dwg" type="File">EA7595A3471E453CB3BBE16262699F8D</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="AD.pdf" type="File">10B560A0F2EB46C79905BC2B021699E0</viewable_file><item_number>AD</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="DF1E2BF3D2024E0E920C793CF7932BF0" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="Template" type="CAD">D28951D28E984EAD9977BF12AC2BEA08</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-13T16:50:30</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>4</generation><has_change_pending>0</has_change_pending><id keyed_name="Template" type="CAD">DF1E2BF3D2024E0E920C793CF7932BF0</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>Template</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-14T12:30:47</modified_on><name>Template</name><native_file keyed_name="Template.dwg" type="File">52AD7F118C4844FB92113D0134E9ED8B</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="0A12345P.pdf" type="File">1E62F5DE1BAB4C9EBF58DC221F392CB0</viewable_file><item_number>Template</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item></Result><Message><event name="pagemax" value="1" /><event name="itemmax" value="4" /><event name="items_with_no_access_count" value="0" /></Message></SOAP-ENV:Body></SOAP-ENV:Envelope>
+2019/09/04 12:33:02====>下載例外錯誤:System.Exception: Not a single item
+   於 Aras.IOM.Item.getProperty(String propertyName, String defaultValue, String lang) 於 E:\Builds\Innovator_RELS11-0-SP12\6920-RELS11-0-SP12\Innovator.git\CompilableCode\IOM.NET\Item.common.cs: 行 1769
+   於 CADIntegration.ComApp.GetCADMappingProperties(Item itm, Int32& smallIcon)
+   於 CADIntegration.ComApp.GetPLMCADObjectToList(List`1 selectItemId)
+   於 CADIntegration.ComApp.DownLoad(Boolean IsCheckout)
+   於 Aras.IOM.Item.getProperty(String propertyName, String defaultValue, String lang) 於 E:\Builds\Innovator_RELS11-0-SP12\6920-RELS11-0-SP12\Innovator.git\CompilableCode\IOM.NET\Item.common.cs: 行 1769
+   於 CADIntegration.ComApp.GetCADMappingProperties(Item itm, Int32& smallIcon)
+   於 CADIntegration.ComApp.GetPLMCADObjectToList(List`1 selectItemId)
+   於 CADIntegration.ComApp.DownLoad(Boolean IsCheckout)
+2019/09/04 12:33:02====>---------Checkout End----------
+2019/09/04 12:33:10====>---------Checkout Start----------
+2019/09/04 12:33:12====>查詢AML:<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:Body><Result><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="FA1FAD32D73048CBAC7C97EDFBFD41C4" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="0A12345P" type="CAD">458FC437ADBE47FE8E299A2394370954</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-13T17:04:12</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>3</generation><has_change_pending>0</has_change_pending><id keyed_name="0A12345P" type="CAD">FA1FAD32D73048CBAC7C97EDFBFD41C4</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>0A12345P</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-14T15:36:02</modified_on><name>0A12345P</name><native_file keyed_name="0A12345P.dwg" type="File">839B993E3D75476D86F548D7B556EE53</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="0A12345P.pdf" type="File">74BA087EA5E248E1B59C6877719ACCFF</viewable_file><item_number>0A12345P</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="4B10DBB0F4E74ACC9322A0E8F885220B" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="555555555" type="CAD">DB0518BC91A546FC88799507D4734940</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-01T23:45:39</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>24</generation><has_change_pending>0</has_change_pending><id keyed_name="555555555" type="CAD">4B10DBB0F4E74ACC9322A0E8F885220B</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>555555555</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-13T16:23:30</modified_on><name>77</name><native_file keyed_name="T4HBBF01_v2013.dwg" type="File">C1DCAA58440F42B1849F6DA10DB0F90A</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="T4HBBF01_v2013.pdf" type="File">A34F034843B04DE7869688E1870DD393</viewable_file><item_number>555555555</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="8F735AD1E62C47E4AF33E5E1523A0D04" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="AD" type="CAD">8F735AD1E62C47E4AF33E5E1523A0D04</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-09-03T12:53:21</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>1</generation><has_change_pending>0</has_change_pending><id keyed_name="AD" type="CAD">8F735AD1E62C47E4AF33E5E1523A0D04</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>AD</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-09-03T12:53:22</modified_on><name>AD</name><native_file keyed_name="AD.dwg" type="File">EA7595A3471E453CB3BBE16262699F8D</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="AD.pdf" type="File">10B560A0F2EB46C79905BC2B021699E0</viewable_file><item_number>AD</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="DF1E2BF3D2024E0E920C793CF7932BF0" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="Template" type="CAD">D28951D28E984EAD9977BF12AC2BEA08</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-13T16:50:30</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>4</generation><has_change_pending>0</has_change_pending><id keyed_name="Template" type="CAD">DF1E2BF3D2024E0E920C793CF7932BF0</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>Template</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-14T12:30:47</modified_on><name>Template</name><native_file keyed_name="Template.dwg" type="File">52AD7F118C4844FB92113D0134E9ED8B</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="0A12345P.pdf" type="File">1E62F5DE1BAB4C9EBF58DC221F392CB0</viewable_file><item_number>Template</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item></Result><Message><event name="pagemax" value="1" /><event name="itemmax" value="4" /><event name="items_with_no_access_count" value="0" /></Message></SOAP-ENV:Body></SOAP-ENV:Envelope>
+2019/09/04 12:33:17====>下載例外錯誤:System.Exception: Not a single item
+   於 Aras.IOM.Item.getProperty(String propertyName, String defaultValue, String lang) 於 E:\Builds\Innovator_RELS11-0-SP12\6920-RELS11-0-SP12\Innovator.git\CompilableCode\IOM.NET\Item.common.cs: 行 1769
+   於 CADIntegration.ComApp.GetCADMappingProperties(Item itm, Int32& smallIcon)
+   於 CADIntegration.ComApp.GetPLMCADObjectToList(List`1 selectItemId)
+   於 CADIntegration.ComApp.DownLoad(Boolean IsCheckout)
+   於 Aras.IOM.Item.getProperty(String propertyName, String defaultValue, String lang) 於 E:\Builds\Innovator_RELS11-0-SP12\6920-RELS11-0-SP12\Innovator.git\CompilableCode\IOM.NET\Item.common.cs: 行 1769
+   於 CADIntegration.ComApp.GetCADMappingProperties(Item itm, Int32& smallIcon)
+   於 CADIntegration.ComApp.GetPLMCADObjectToList(List`1 selectItemId)
+   於 CADIntegration.ComApp.DownLoad(Boolean IsCheckout)
+2019/09/04 12:33:17====>---------Checkout End----------
+2019/09/04 12:33:19====>---------Checkout Start----------
+2019/09/04 12:33:21====>查詢AML:<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:Body><Result><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="FA1FAD32D73048CBAC7C97EDFBFD41C4" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="0A12345P" type="CAD">458FC437ADBE47FE8E299A2394370954</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-13T17:04:12</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>3</generation><has_change_pending>0</has_change_pending><id keyed_name="0A12345P" type="CAD">FA1FAD32D73048CBAC7C97EDFBFD41C4</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>0A12345P</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-14T15:36:02</modified_on><name>0A12345P</name><native_file keyed_name="0A12345P.dwg" type="File">839B993E3D75476D86F548D7B556EE53</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="0A12345P.pdf" type="File">74BA087EA5E248E1B59C6877719ACCFF</viewable_file><item_number>0A12345P</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="4B10DBB0F4E74ACC9322A0E8F885220B" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="555555555" type="CAD">DB0518BC91A546FC88799507D4734940</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-01T23:45:39</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>24</generation><has_change_pending>0</has_change_pending><id keyed_name="555555555" type="CAD">4B10DBB0F4E74ACC9322A0E8F885220B</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>555555555</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-13T16:23:30</modified_on><name>77</name><native_file keyed_name="T4HBBF01_v2013.dwg" type="File">C1DCAA58440F42B1849F6DA10DB0F90A</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="T4HBBF01_v2013.pdf" type="File">A34F034843B04DE7869688E1870DD393</viewable_file><item_number>555555555</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="8F735AD1E62C47E4AF33E5E1523A0D04" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="AD" type="CAD">8F735AD1E62C47E4AF33E5E1523A0D04</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-09-03T12:53:21</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>1</generation><has_change_pending>0</has_change_pending><id keyed_name="AD" type="CAD">8F735AD1E62C47E4AF33E5E1523A0D04</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>AD</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-09-03T12:53:22</modified_on><name>AD</name><native_file keyed_name="AD.dwg" type="File">EA7595A3471E453CB3BBE16262699F8D</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="AD.pdf" type="File">10B560A0F2EB46C79905BC2B021699E0</viewable_file><item_number>AD</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="DF1E2BF3D2024E0E920C793CF7932BF0" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="Template" type="CAD">D28951D28E984EAD9977BF12AC2BEA08</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-13T16:50:30</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>4</generation><has_change_pending>0</has_change_pending><id keyed_name="Template" type="CAD">DF1E2BF3D2024E0E920C793CF7932BF0</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>Template</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-14T12:30:47</modified_on><name>Template</name><native_file keyed_name="Template.dwg" type="File">52AD7F118C4844FB92113D0134E9ED8B</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="0A12345P.pdf" type="File">1E62F5DE1BAB4C9EBF58DC221F392CB0</viewable_file><item_number>Template</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item></Result><Message><event name="pagemax" value="1" /><event name="itemmax" value="4" /><event name="items_with_no_access_count" value="0" /></Message></SOAP-ENV:Body></SOAP-ENV:Envelope>
+2019/09/04 12:33:23====>下載例外錯誤:System.Exception: Not a single item
+   於 Aras.IOM.Item.getProperty(String propertyName, String defaultValue, String lang) 於 E:\Builds\Innovator_RELS11-0-SP12\6920-RELS11-0-SP12\Innovator.git\CompilableCode\IOM.NET\Item.common.cs: 行 1769
+   於 CADIntegration.ComApp.GetCADMappingProperties(Item itm, Int32& smallIcon)
+   於 CADIntegration.ComApp.GetPLMCADObjectToList(List`1 selectItemId)
+   於 CADIntegration.ComApp.DownLoad(Boolean IsCheckout)
+   於 Aras.IOM.Item.getProperty(String propertyName, String defaultValue, String lang) 於 E:\Builds\Innovator_RELS11-0-SP12\6920-RELS11-0-SP12\Innovator.git\CompilableCode\IOM.NET\Item.common.cs: 行 1769
+   於 CADIntegration.ComApp.GetCADMappingProperties(Item itm, Int32& smallIcon)
+   於 CADIntegration.ComApp.GetPLMCADObjectToList(List`1 selectItemId)
+   於 CADIntegration.ComApp.DownLoad(Boolean IsCheckout)
+2019/09/04 12:33:23====>---------Checkout End----------
+2019/09/04 12:33:25====>---------Checkout Start----------
+2019/09/04 12:33:27====>查詢AML:<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:Body><Result><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="FA1FAD32D73048CBAC7C97EDFBFD41C4" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="0A12345P" type="CAD">458FC437ADBE47FE8E299A2394370954</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-13T17:04:12</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>3</generation><has_change_pending>0</has_change_pending><id keyed_name="0A12345P" type="CAD">FA1FAD32D73048CBAC7C97EDFBFD41C4</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>0A12345P</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-14T15:36:02</modified_on><name>0A12345P</name><native_file keyed_name="0A12345P.dwg" type="File">839B993E3D75476D86F548D7B556EE53</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="0A12345P.pdf" type="File">74BA087EA5E248E1B59C6877719ACCFF</viewable_file><item_number>0A12345P</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="4B10DBB0F4E74ACC9322A0E8F885220B" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="555555555" type="CAD">DB0518BC91A546FC88799507D4734940</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-01T23:45:39</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>24</generation><has_change_pending>0</has_change_pending><id keyed_name="555555555" type="CAD">4B10DBB0F4E74ACC9322A0E8F885220B</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>555555555</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-13T16:23:30</modified_on><name>77</name><native_file keyed_name="T4HBBF01_v2013.dwg" type="File">C1DCAA58440F42B1849F6DA10DB0F90A</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="T4HBBF01_v2013.pdf" type="File">A34F034843B04DE7869688E1870DD393</viewable_file><item_number>555555555</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="8F735AD1E62C47E4AF33E5E1523A0D04" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="AD" type="CAD">8F735AD1E62C47E4AF33E5E1523A0D04</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-09-03T12:53:21</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>1</generation><has_change_pending>0</has_change_pending><id keyed_name="AD" type="CAD">8F735AD1E62C47E4AF33E5E1523A0D04</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>AD</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-09-03T12:53:22</modified_on><name>AD</name><native_file keyed_name="AD.dwg" type="File">EA7595A3471E453CB3BBE16262699F8D</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="AD.pdf" type="File">10B560A0F2EB46C79905BC2B021699E0</viewable_file><item_number>AD</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="DF1E2BF3D2024E0E920C793CF7932BF0" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="Template" type="CAD">D28951D28E984EAD9977BF12AC2BEA08</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-13T16:50:30</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>4</generation><has_change_pending>0</has_change_pending><id keyed_name="Template" type="CAD">DF1E2BF3D2024E0E920C793CF7932BF0</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>Template</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-14T12:30:47</modified_on><name>Template</name><native_file keyed_name="Template.dwg" type="File">52AD7F118C4844FB92113D0134E9ED8B</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="0A12345P.pdf" type="File">1E62F5DE1BAB4C9EBF58DC221F392CB0</viewable_file><item_number>Template</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item></Result><Message><event name="pagemax" value="1" /><event name="itemmax" value="4" /><event name="items_with_no_access_count" value="0" /></Message></SOAP-ENV:Body></SOAP-ENV:Envelope>
+2019/09/04 12:33:34====>下載例外錯誤:System.Exception: Not a single item
+   於 Aras.IOM.Item.getProperty(String propertyName, String defaultValue, String lang) 於 E:\Builds\Innovator_RELS11-0-SP12\6920-RELS11-0-SP12\Innovator.git\CompilableCode\IOM.NET\Item.common.cs: 行 1769
+   於 CADIntegration.ComApp.GetCADMappingProperties(Item itm, Int32& smallIcon)
+   於 CADIntegration.ComApp.GetPLMCADObjectToList(List`1 selectItemId)
+   於 CADIntegration.ComApp.DownLoad(Boolean IsCheckout)
+   於 Aras.IOM.Item.getProperty(String propertyName, String defaultValue, String lang) 於 E:\Builds\Innovator_RELS11-0-SP12\6920-RELS11-0-SP12\Innovator.git\CompilableCode\IOM.NET\Item.common.cs: 行 1769
+   於 CADIntegration.ComApp.GetCADMappingProperties(Item itm, Int32& smallIcon)
+   於 CADIntegration.ComApp.GetPLMCADObjectToList(List`1 selectItemId)
+   於 CADIntegration.ComApp.DownLoad(Boolean IsCheckout)
+2019/09/04 12:33:42====>---------Checkout End----------
+2019/09/04 12:33:44====>---------Checkout Start----------
+2019/09/04 12:33:46====>查詢AML:<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:Body><Result><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="FA1FAD32D73048CBAC7C97EDFBFD41C4" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="0A12345P" type="CAD">458FC437ADBE47FE8E299A2394370954</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-13T17:04:12</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>3</generation><has_change_pending>0</has_change_pending><id keyed_name="0A12345P" type="CAD">FA1FAD32D73048CBAC7C97EDFBFD41C4</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>0A12345P</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-14T15:36:02</modified_on><name>0A12345P</name><native_file keyed_name="0A12345P.dwg" type="File">839B993E3D75476D86F548D7B556EE53</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="0A12345P.pdf" type="File">74BA087EA5E248E1B59C6877719ACCFF</viewable_file><item_number>0A12345P</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="4B10DBB0F4E74ACC9322A0E8F885220B" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="555555555" type="CAD">DB0518BC91A546FC88799507D4734940</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-01T23:45:39</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>24</generation><has_change_pending>0</has_change_pending><id keyed_name="555555555" type="CAD">4B10DBB0F4E74ACC9322A0E8F885220B</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>555555555</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-13T16:23:30</modified_on><name>77</name><native_file keyed_name="T4HBBF01_v2013.dwg" type="File">C1DCAA58440F42B1849F6DA10DB0F90A</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="T4HBBF01_v2013.pdf" type="File">A34F034843B04DE7869688E1870DD393</viewable_file><item_number>555555555</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="8F735AD1E62C47E4AF33E5E1523A0D04" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="AD" type="CAD">8F735AD1E62C47E4AF33E5E1523A0D04</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-09-03T12:53:21</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>1</generation><has_change_pending>0</has_change_pending><id keyed_name="AD" type="CAD">8F735AD1E62C47E4AF33E5E1523A0D04</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>AD</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-09-03T12:53:22</modified_on><name>AD</name><native_file keyed_name="AD.dwg" type="File">EA7595A3471E453CB3BBE16262699F8D</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="AD.pdf" type="File">10B560A0F2EB46C79905BC2B021699E0</viewable_file><item_number>AD</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="DF1E2BF3D2024E0E920C793CF7932BF0" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="Template" type="CAD">D28951D28E984EAD9977BF12AC2BEA08</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-13T16:50:30</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>4</generation><has_change_pending>0</has_change_pending><id keyed_name="Template" type="CAD">DF1E2BF3D2024E0E920C793CF7932BF0</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>Template</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-14T12:30:47</modified_on><name>Template</name><native_file keyed_name="Template.dwg" type="File">52AD7F118C4844FB92113D0134E9ED8B</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="0A12345P.pdf" type="File">1E62F5DE1BAB4C9EBF58DC221F392CB0</viewable_file><item_number>Template</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item></Result><Message><event name="pagemax" value="1" /><event name="itemmax" value="4" /><event name="items_with_no_access_count" value="0" /></Message></SOAP-ENV:Body></SOAP-ENV:Envelope>
+2019/09/04 02:08:32====>下載例外錯誤:System.Exception: Not a single item
+   於 Aras.IOM.Item.getProperty(String propertyName, String defaultValue, String lang) 於 E:\Builds\Innovator_RELS11-0-SP12\6920-RELS11-0-SP12\Innovator.git\CompilableCode\IOM.NET\Item.common.cs: 行 1769
+   於 CADIntegration.ComApp.GetCADMappingProperties(Item itm, Int32& smallIcon)
+   於 CADIntegration.ComApp.GetPLMCADObjectToList(List`1 selectItemId)
+   於 CADIntegration.ComApp.DownLoad(Boolean IsCheckout)
+   於 Aras.IOM.Item.getProperty(String propertyName, String defaultValue, String lang) 於 E:\Builds\Innovator_RELS11-0-SP12\6920-RELS11-0-SP12\Innovator.git\CompilableCode\IOM.NET\Item.common.cs: 行 1769
+   於 CADIntegration.ComApp.GetCADMappingProperties(Item itm, Int32& smallIcon)
+   於 CADIntegration.ComApp.GetPLMCADObjectToList(List`1 selectItemId)
+   於 CADIntegration.ComApp.DownLoad(Boolean IsCheckout)
+2019/09/04 02:08:32====>---------Checkout End----------
+2019/09/04 02:08:49====>---------Checkout Start----------
+2019/09/04 02:08:51====>查詢AML:<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:Body><Result><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="FA1FAD32D73048CBAC7C97EDFBFD41C4" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="0A12345P" type="CAD">458FC437ADBE47FE8E299A2394370954</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-13T17:04:12</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>3</generation><has_change_pending>0</has_change_pending><id keyed_name="0A12345P" type="CAD">FA1FAD32D73048CBAC7C97EDFBFD41C4</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>0A12345P</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-14T15:36:02</modified_on><name>0A12345P</name><native_file keyed_name="0A12345P.dwg" type="File">839B993E3D75476D86F548D7B556EE53</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="0A12345P.pdf" type="File">74BA087EA5E248E1B59C6877719ACCFF</viewable_file><item_number>0A12345P</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="4B10DBB0F4E74ACC9322A0E8F885220B" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="555555555" type="CAD">DB0518BC91A546FC88799507D4734940</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-01T23:45:39</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>24</generation><has_change_pending>0</has_change_pending><id keyed_name="555555555" type="CAD">4B10DBB0F4E74ACC9322A0E8F885220B</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>555555555</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-13T16:23:30</modified_on><name>77</name><native_file keyed_name="T4HBBF01_v2013.dwg" type="File">C1DCAA58440F42B1849F6DA10DB0F90A</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="T4HBBF01_v2013.pdf" type="File">A34F034843B04DE7869688E1870DD393</viewable_file><item_number>555555555</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="8F735AD1E62C47E4AF33E5E1523A0D04" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="AD" type="CAD">8F735AD1E62C47E4AF33E5E1523A0D04</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-09-03T12:53:21</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>1</generation><has_change_pending>0</has_change_pending><id keyed_name="AD" type="CAD">8F735AD1E62C47E4AF33E5E1523A0D04</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>AD</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-09-03T12:53:22</modified_on><name>AD</name><native_file keyed_name="AD.dwg" type="File">EA7595A3471E453CB3BBE16262699F8D</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="AD.pdf" type="File">10B560A0F2EB46C79905BC2B021699E0</viewable_file><item_number>AD</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="DF1E2BF3D2024E0E920C793CF7932BF0" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="Template" type="CAD">D28951D28E984EAD9977BF12AC2BEA08</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-13T16:50:30</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>4</generation><has_change_pending>0</has_change_pending><id keyed_name="Template" type="CAD">DF1E2BF3D2024E0E920C793CF7932BF0</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>Template</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-14T12:30:47</modified_on><name>Template</name><native_file keyed_name="Template.dwg" type="File">52AD7F118C4844FB92113D0134E9ED8B</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="0A12345P.pdf" type="File">1E62F5DE1BAB4C9EBF58DC221F392CB0</viewable_file><item_number>Template</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item></Result><Message><event name="pagemax" value="1" /><event name="itemmax" value="4" /><event name="items_with_no_access_count" value="0" /></Message></SOAP-ENV:Body></SOAP-ENV:Envelope>
+2019/09/04 02:52:02====>下載例外錯誤:System.Exception: Not a single item
+   於 Aras.IOM.Item.getProperty(String propertyName, String defaultValue, String lang) 於 E:\Builds\Innovator_RELS11-0-SP12\6920-RELS11-0-SP12\Innovator.git\CompilableCode\IOM.NET\Item.common.cs: 行 1769
+   於 CADIntegration.ComApp.GetCADMappingProperties(Item itm, Int32& smallIcon)
+   於 CADIntegration.ComApp.GetPLMCADObjectToList(List`1 selectItemId)
+   於 CADIntegration.ComApp.DownLoad(Boolean IsCheckout)
+   於 Aras.IOM.Item.getProperty(String propertyName, String defaultValue, String lang) 於 E:\Builds\Innovator_RELS11-0-SP12\6920-RELS11-0-SP12\Innovator.git\CompilableCode\IOM.NET\Item.common.cs: 行 1769
+   於 CADIntegration.ComApp.GetCADMappingProperties(Item itm, Int32& smallIcon)
+   於 CADIntegration.ComApp.GetPLMCADObjectToList(List`1 selectItemId)
+   於 CADIntegration.ComApp.DownLoad(Boolean IsCheckout)
+2019/09/04 02:52:02====>---------Checkout End----------
+2019/09/04 02:52:05====>---------Logout Start----------
+2019/09/04 02:52:05====>---------Logout Start----------
+2019/09/04 02:52:06====>---------Login Start----------
+2019/09/04 02:52:08====>Login Success
+2019/09/04 02:52:08====>---------Login End----------
+2019/09/04 02:52:17====>UpdateDataUpdate 更新資料
+2019/09/04 02:52:17====>Autodesk.AutoCAD.Runtime.Exception: eInvalidInput
+   於 Autodesk.AutoCAD.DatabaseServices.DBText.set_TextString(String param0)
+   於 CADIntegration.AutoCAD_API.CreateTitleBlockProperty(XElement setting_section, String filepath)
+2019/09/04 02:52:17====>UpdateDataUpdate 更新資料
+2019/09/04 02:52:17====>Autodesk.AutoCAD.Runtime.Exception: eInvalidInput
+   於 Autodesk.AutoCAD.DatabaseServices.DBText.set_TextString(String param0)
+   於 CADIntegration.AutoCAD_API.CreateTitleBlockProperty(XElement setting_section, String filepath)
+2019/09/04 02:52:40====>UpdateDataUpdate 更新資料
+2019/09/04 02:52:40====>Autodesk.AutoCAD.Runtime.Exception: eInvalidInput
+   於 Autodesk.AutoCAD.DatabaseServices.DBText.set_TextString(String param0)
+   於 CADIntegration.AutoCAD_API.CreateTitleBlockProperty(XElement setting_section, String filepath)
+2019/09/04 02:52:40====>UpdateDataUpdate 更新資料
+2019/09/04 02:52:40====>Autodesk.AutoCAD.Runtime.Exception: eInvalidInput
+   於 Autodesk.AutoCAD.DatabaseServices.DBText.set_TextString(String param0)
+   於 CADIntegration.AutoCAD_API.CreateTitleBlockProperty(XElement setting_section, String filepath)
+2019/09/04 02:52:43====>UpdateDataUpdate 更新資料
+2019/09/04 02:52:43====>Autodesk.AutoCAD.Runtime.Exception: eInvalidInput
+   於 Autodesk.AutoCAD.DatabaseServices.DBText.set_TextString(String param0)
+   於 CADIntegration.AutoCAD_API.CreateTitleBlockProperty(XElement setting_section, String filepath)
+2019/09/04 02:52:45====>UpdateDataUpdate 更新資料
+2019/09/04 02:52:45====>Autodesk.AutoCAD.Runtime.Exception: eInvalidInput
+   於 Autodesk.AutoCAD.DatabaseServices.DBText.set_TextString(String param0)
+   於 CADIntegration.AutoCAD_API.CreateTitleBlockProperty(XElement setting_section, String filepath)
+2019/09/04 02:52:45====>UpdateDataUpdate 更新資料
+2019/09/04 02:52:45====>Autodesk.AutoCAD.Runtime.Exception: eInvalidInput
+   於 Autodesk.AutoCAD.DatabaseServices.DBText.set_TextString(String param0)
+   於 CADIntegration.AutoCAD_API.CreateTitleBlockProperty(XElement setting_section, String filepath)
+2019/09/04 02:52:45====>UpdateDataUpdate 更新資料
+2019/09/04 02:52:45====>Autodesk.AutoCAD.Runtime.Exception: eInvalidInput
+   於 Autodesk.AutoCAD.DatabaseServices.DBText.set_TextString(String param0)
+   於 CADIntegration.AutoCAD_API.CreateTitleBlockProperty(XElement setting_section, String filepath)
+2019/09/04 02:52:45====>UpdateDataUpdate 更新資料
+2019/09/04 02:52:45====>Autodesk.AutoCAD.Runtime.Exception: eInvalidInput
+   於 Autodesk.AutoCAD.DatabaseServices.DBText.set_TextString(String param0)
+   於 CADIntegration.AutoCAD_API.CreateTitleBlockProperty(XElement setting_section, String filepath)
+2019/09/04 02:52:48====>UpdateDataStart 更新資料
+2019/09/04 02:52:48====>Autodesk.AutoCAD.Runtime.Exception: eInvalidInput
+   於 Autodesk.AutoCAD.DatabaseServices.DBText.set_TextString(String param0)
+   於 CADIntegration.AutoCAD_API.CreateTitleBlockProperty(XElement setting_section, String filepath)
+2019/09/04 02:52:48====>UpdateDataUpdate 更新資料
+2019/09/04 02:52:48====>Autodesk.AutoCAD.Runtime.Exception: eInvalidInput
+   於 Autodesk.AutoCAD.DatabaseServices.DBText.set_TextString(String param0)
+   於 CADIntegration.AutoCAD_API.CreateTitleBlockProperty(XElement setting_section, String filepath)
+2019/09/04 02:52:50====>---------SaveProperties Start----------
+2019/09/04 02:52:50====>UpdateDataUpdate 更新資料
+2019/09/04 02:52:50====>Autodesk.AutoCAD.Runtime.Exception: eInvalidInput
+   於 Autodesk.AutoCAD.DatabaseServices.DBText.set_TextString(String param0)
+   於 CADIntegration.AutoCAD_API.CreateTitleBlockProperty(XElement setting_section, String filepath)
+2019/09/04 02:52:50====>UpdateDataUpdate 更新資料
+2019/09/04 02:52:50====>Autodesk.AutoCAD.Runtime.Exception: eInvalidInput
+   於 Autodesk.AutoCAD.DatabaseServices.DBText.set_TextString(String param0)
+   於 CADIntegration.AutoCAD_API.CreateTitleBlockProperty(XElement setting_section, String filepath)
+2019/09/04 02:52:50====>UpdateDataUpdate 更新資料
+2019/09/04 02:52:51====>Autodesk.AutoCAD.Runtime.Exception: eInvalidInput
+   於 Autodesk.AutoCAD.DatabaseServices.DBText.set_TextString(String param0)
+   於 CADIntegration.AutoCAD_API.CreateTitleBlockProperty(XElement setting_section, String filepath)
+2019/09/04 02:52:51====>C:\Users\Administrator\Desktop\AD.dwg
+2019/09/04 02:52:53====>---------SaveProperties End----------
+2019/09/04 02:52:54====>---------Checkin Start----------
+2019/09/04 02:52:54====>UpdateDataUpdate 更新資料
+2019/09/04 02:52:54====>Autodesk.AutoCAD.Runtime.Exception: eInvalidInput
+   於 Autodesk.AutoCAD.DatabaseServices.DBText.set_TextString(String param0)
+   於 CADIntegration.AutoCAD_API.CreateTitleBlockProperty(XElement setting_section, String filepath)
+2019/09/04 02:52:54====>UpdateDataUpdate 更新資料
+2019/09/04 02:52:54====>Autodesk.AutoCAD.Runtime.Exception: eInvalidInput
+   於 Autodesk.AutoCAD.DatabaseServices.DBText.set_TextString(String param0)
+   於 CADIntegration.AutoCAD_API.CreateTitleBlockProperty(XElement setting_section, String filepath)
+2019/09/04 02:52:54====>UpdateDataUpdate 更新資料
+2019/09/04 02:52:54====>Autodesk.AutoCAD.Runtime.Exception: eInvalidInput
+   於 Autodesk.AutoCAD.DatabaseServices.DBText.set_TextString(String param0)
+   於 CADIntegration.AutoCAD_API.CreateTitleBlockProperty(XElement setting_section, String filepath)
+2019/09/04 02:52:54====>
+===================
+<Item isNew="1" isTemp="1" type="CAD" action="get"><classification>Mechanical/Drawing</classification><item_number>AD</item_number><is_current>1</is_current></Item>
+
+2019/09/04 02:52:55====>
+===================
+<Item isNew="1" isTemp="1" type="CAD" action="get"><classification>Mechanical/Drawing</classification><item_number>AD</item_number><is_current>1</is_current></Item>
+
+2019/09/04 02:52:55====>
+<?xml version="1.0" encoding="utf-16"?>
+<CADBOM xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part_bom_quantity />
+  <id>temp-4b892cb3-ab2a-4685-8244-65895676b635</id>
+  <last_id>8F735AD1E62C47E4AF33E5E1523A0D04</last_id>
+  <name>AD.dwg</name>
+  <filePath>C:\Users\Administrator\Desktop\AD.dwg</filePath>
+  <state>none</state>
+  <isEdited>false</isEdited>
+  <classification>Mechanical/Drawing</classification>
+  <level>1</level>
+  <is_current>0</is_current>
+  <treeSmallIcon>6</treeSmallIcon>
+  <thumbnail />
+  <major_rev />
+  <generation />
+  <plm_state />
+  <plm_major_rev>A</plm_major_rev>
+  <plm_generation>1</plm_generation>
+  <cad_fileSize>0</cad_fileSize>
+  <plm_fileSize>34233</plm_fileSize>
+  <isDrawing>false</isDrawing>
+  <isCheckIn>false</isCheckIn>
+  <isCheckout>false</isCheckout>
+  <isCheckInDrawing>false</isCheckInDrawing>
+  <isCheckoutDrawing>false</isCheckoutDrawing>
+  <isApplySuccess>false</isApplySuccess>
+  <error_message />
+  <checkinRuleState />
+  <configuration_list />
+  <bom />
+  <part_bom />
+  <drawingList />
+  <properties>
+    <Property>
+      <field_name>item_number</field_name>
+      <field_value>AD</field_value>
+    </Property>
+    <Property>
+      <field_name>name</field_name>
+      <field_value>AD</field_value>
+    </Property>
+    <Property>
+      <field_name>classification</field_name>
+      <field_value>Mechanical/Drawing</field_value>
+    </Property>
+    <Property>
+      <field_name>major_rev</field_name>
+      <field_value />
+    </Property>
+    <Property>
+      <field_name>generation</field_name>
+      <field_value />
+    </Property>
+    <Property>
+      <field_name>id</field_name>
+      <field_value>temp-4b892cb3-ab2a-4685-8244-65895676b635</field_value>
+    </Property>
+    <Property>
+      <field_name>authoring_tool</field_name>
+      <field_value>AutoCAD</field_value>
+    </Property>
+    <Property>
+      <field_name>viewable_file</field_name>
+      <field_value />
+    </Property>
+    <Property>
+      <field_name>is_current</field_name>
+      <field_value />
+    </Property>
+  </properties>
+  <configuration_structure />
+</CADBOM>
+2019/09/04 02:52:55====>C:\Users\Administrator\Desktop\AD.dwg
+2019/09/04 02:53:04====>
+2019/09/04 02:53:04====>---------Checkin End----------
+2019/09/04 02:53:33====>---------Logout Start----------
+2019/09/04 02:53:33====>---------Logout Start----------
+2019/09/04 02:53:33====>---------Login Start----------
+2019/09/04 02:53:37====>Login Success
+2019/09/04 02:53:37====>---------Login End----------
+2019/09/04 02:53:43====>UpdateDataUpdate 更新資料
+2019/09/04 02:53:43====>Autodesk.AutoCAD.Runtime.Exception: eInvalidInput
+   於 Autodesk.AutoCAD.DatabaseServices.DBText.set_TextString(String param0)
+   於 CADIntegration.AutoCAD_API.CreateTitleBlockProperty(XElement setting_section, String filepath)
+2019/09/04 02:53:44====>UpdateDataUpdate 更新資料
+2019/09/04 02:53:44====>Autodesk.AutoCAD.Runtime.Exception: eInvalidInput
+   於 Autodesk.AutoCAD.DatabaseServices.DBText.set_TextString(String param0)
+   於 CADIntegration.AutoCAD_API.CreateTitleBlockProperty(XElement setting_section, String filepath)
+2019/09/04 02:53:44====>UpdateDataUpdate 更新資料
+2019/09/04 02:53:44====>Autodesk.AutoCAD.Runtime.Exception: eInvalidInput
+   於 Autodesk.AutoCAD.DatabaseServices.DBText.set_TextString(String param0)
+   於 CADIntegration.AutoCAD_API.CreateTitleBlockProperty(XElement setting_section, String filepath)
+2019/09/04 02:53:44====>UpdateDataUpdate 更新資料
+2019/09/04 02:53:44====>Autodesk.AutoCAD.Runtime.Exception: eInvalidInput
+   於 Autodesk.AutoCAD.DatabaseServices.DBText.set_TextString(String param0)
+   於 CADIntegration.AutoCAD_API.CreateTitleBlockProperty(XElement setting_section, String filepath)
+2019/09/04 02:53:44====>UpdateDataUpdate 更新資料
+2019/09/04 02:53:44====>Autodesk.AutoCAD.Runtime.Exception: eInvalidInput
+   於 Autodesk.AutoCAD.DatabaseServices.DBText.set_TextString(String param0)
+   於 CADIntegration.AutoCAD_API.CreateTitleBlockProperty(XElement setting_section, String filepath)
+2019/09/04 02:53:47====>UpdateDataStart 更新資料
+2019/09/04 02:53:47====>Autodesk.AutoCAD.Runtime.Exception: eInvalidInput
+   於 Autodesk.AutoCAD.DatabaseServices.DBText.set_TextString(String param0)
+   於 CADIntegration.AutoCAD_API.CreateTitleBlockProperty(XElement setting_section, String filepath)
+2019/09/04 02:53:47====>UpdateDataUpdate 更新資料
+2019/09/04 02:53:47====>Autodesk.AutoCAD.Runtime.Exception: eInvalidInput
+   於 Autodesk.AutoCAD.DatabaseServices.DBText.set_TextString(String param0)
+   於 CADIntegration.AutoCAD_API.CreateTitleBlockProperty(XElement setting_section, String filepath)
+2019/09/04 02:56:10====>---------SaveProperties Start----------
+2019/09/04 02:56:10====>C:\Users\Administrator\Desktop\AD.dwg
+2019/09/04 02:56:13====>---------SaveProperties End----------
+2019/09/04 02:56:18====>UpdateDataUpdate 更新資料
+2019/09/04 02:56:18====>Autodesk.AutoCAD.Runtime.Exception: eInvalidInput
+   於 Autodesk.AutoCAD.DatabaseServices.DBText.set_TextString(String param0)
+   於 CADIntegration.AutoCAD_API.CreateTitleBlockProperty(XElement setting_section, String filepath)
+2019/09/04 02:56:18====>UpdateDataUpdate 更新資料
+2019/09/04 02:56:18====>Autodesk.AutoCAD.Runtime.Exception: eInvalidInput
+   於 Autodesk.AutoCAD.DatabaseServices.DBText.set_TextString(String param0)
+   於 CADIntegration.AutoCAD_API.CreateTitleBlockProperty(XElement setting_section, String filepath)
+2019/09/04 02:56:50====>---------Checkin Start----------
+2019/09/04 02:56:50====>
+===================
+<Item isNew="1" isTemp="1" type="CAD" action="get"><classification>Mechanical/Drawing</classification><item_number>AD</item_number><is_current>1</is_current></Item>
+
+2019/09/04 02:56:50====>
+===================
+<Item isNew="1" isTemp="1" type="CAD" action="get"><classification>Mechanical/Drawing</classification><item_number>AD</item_number><is_current>1</is_current></Item>
+
+2019/09/04 02:56:50====>
+<?xml version="1.0" encoding="utf-16"?>
+<CADBOM xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part_bom_quantity />
+  <id>temp-4b892cb3-ab2a-4685-8244-65895676b635</id>
+  <last_id>8F735AD1E62C47E4AF33E5E1523A0D04</last_id>
+  <name>AD.dwg</name>
+  <filePath>C:\Users\Administrator\Desktop\AD.dwg</filePath>
+  <state>none</state>
+  <isEdited>false</isEdited>
+  <classification>Mechanical/Drawing</classification>
+  <level>1</level>
+  <is_current>0</is_current>
+  <treeSmallIcon>6</treeSmallIcon>
+  <thumbnail />
+  <major_rev />
+  <generation />
+  <plm_state />
+  <plm_major_rev>A</plm_major_rev>
+  <plm_generation>1</plm_generation>
+  <cad_fileSize>0</cad_fileSize>
+  <plm_fileSize>34233</plm_fileSize>
+  <isDrawing>false</isDrawing>
+  <isCheckIn>false</isCheckIn>
+  <isCheckout>false</isCheckout>
+  <isCheckInDrawing>false</isCheckInDrawing>
+  <isCheckoutDrawing>false</isCheckoutDrawing>
+  <isApplySuccess>false</isApplySuccess>
+  <error_message />
+  <checkinRuleState />
+  <configuration_list />
+  <bom />
+  <part_bom />
+  <drawingList />
+  <properties>
+    <Property>
+      <field_name>item_number</field_name>
+      <field_value>AD</field_value>
+    </Property>
+    <Property>
+      <field_name>name</field_name>
+      <field_value>AD</field_value>
+    </Property>
+    <Property>
+      <field_name>classification</field_name>
+      <field_value>Mechanical/Drawing</field_value>
+    </Property>
+    <Property>
+      <field_name>major_rev</field_name>
+      <field_value />
+    </Property>
+    <Property>
+      <field_name>generation</field_name>
+      <field_value />
+    </Property>
+    <Property>
+      <field_name>id</field_name>
+      <field_value>temp-4b892cb3-ab2a-4685-8244-65895676b635</field_value>
+    </Property>
+    <Property>
+      <field_name>authoring_tool</field_name>
+      <field_value>AutoCAD</field_value>
+    </Property>
+    <Property>
+      <field_name>viewable_file</field_name>
+      <field_value />
+    </Property>
+    <Property>
+      <field_name>is_current</field_name>
+      <field_value />
+    </Property>
+  </properties>
+  <configuration_structure />
+</CADBOM>
+2019/09/04 02:56:50====>C:\Users\Administrator\Desktop\AD.dwg
+2019/09/04 02:57:01====>
+2019/09/04 02:57:01====>---------Checkin End----------
+2019/09/04 02:58:11====>---------Logout Start----------
+2019/09/04 02:58:11====>---------Logout Start----------
+2019/09/04 02:58:12====>---------Login Start----------
+2019/09/04 02:58:14====>Login Success
+2019/09/04 02:58:14====>---------Login End----------
+2019/09/04 02:58:16====>---------Checkin Start----------
+2019/09/04 02:58:16====>
+===================
+<Item isNew="1" isTemp="1" type="CAD" action="get"><classification>Mechanical/Drawing</classification><item_number>AD</item_number><is_current>1</is_current></Item>
+
+2019/09/04 02:58:16====>
+===================
+<Item isNew="1" isTemp="1" type="CAD" action="get"><classification>Mechanical/Drawing</classification><item_number>AD</item_number><is_current>1</is_current></Item>
+
+2019/09/04 02:58:16====>
+<?xml version="1.0" encoding="utf-16"?>
+<CADBOM xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part_bom_quantity />
+  <id>temp-4b892cb3-ab2a-4685-8244-65895676b635</id>
+  <last_id>8F735AD1E62C47E4AF33E5E1523A0D04</last_id>
+  <name>AD.dwg</name>
+  <filePath>C:\Users\Administrator\Desktop\AD.dwg</filePath>
+  <state>none</state>
+  <isEdited>false</isEdited>
+  <classification>Mechanical/Drawing</classification>
+  <level>1</level>
+  <is_current>0</is_current>
+  <treeSmallIcon>6</treeSmallIcon>
+  <thumbnail />
+  <major_rev />
+  <generation />
+  <plm_state />
+  <plm_major_rev>A</plm_major_rev>
+  <plm_generation>1</plm_generation>
+  <cad_fileSize>0</cad_fileSize>
+  <plm_fileSize>34233</plm_fileSize>
+  <isDrawing>false</isDrawing>
+  <isCheckIn>false</isCheckIn>
+  <isCheckout>false</isCheckout>
+  <isCheckInDrawing>false</isCheckInDrawing>
+  <isCheckoutDrawing>false</isCheckoutDrawing>
+  <isApplySuccess>false</isApplySuccess>
+  <error_message />
+  <checkinRuleState />
+  <configuration_list />
+  <bom />
+  <part_bom />
+  <drawingList />
+  <properties>
+    <Property>
+      <field_name>item_number</field_name>
+      <field_value>AD</field_value>
+    </Property>
+    <Property>
+      <field_name>name</field_name>
+      <field_value>AD</field_value>
+    </Property>
+    <Property>
+      <field_name>classification</field_name>
+      <field_value>Mechanical/Drawing</field_value>
+    </Property>
+    <Property>
+      <field_name>major_rev</field_name>
+      <field_value />
+    </Property>
+    <Property>
+      <field_name>generation</field_name>
+      <field_value />
+    </Property>
+    <Property>
+      <field_name>id</field_name>
+      <field_value>temp-4b892cb3-ab2a-4685-8244-65895676b635</field_value>
+    </Property>
+    <Property>
+      <field_name>authoring_tool</field_name>
+      <field_value>AutoCAD</field_value>
+    </Property>
+    <Property>
+      <field_name>viewable_file</field_name>
+      <field_value />
+    </Property>
+    <Property>
+      <field_name>is_current</field_name>
+      <field_value />
+    </Property>
+  </properties>
+  <configuration_structure />
+</CADBOM>
+2019/09/04 02:58:17====>C:\Users\Administrator\Desktop\AD.dwg
+2019/09/04 02:58:22====>
+2019/09/04 02:58:22====>---------Checkin End----------
+2019/09/04 02:58:23====>UpdateDataUpdate 更新資料
+2019/09/04 02:58:23====>Autodesk.AutoCAD.Runtime.Exception: eInvalidInput
+   於 Autodesk.AutoCAD.DatabaseServices.DBText.set_TextString(String param0)
+   於 CADIntegration.AutoCAD_API.CreateTitleBlockProperty(XElement setting_section, String filepath)
+2019/09/04 02:58:23====>UpdateDataUpdate 更新資料
+2019/09/04 02:58:23====>Autodesk.AutoCAD.Runtime.Exception: eInvalidInput
+   於 Autodesk.AutoCAD.DatabaseServices.DBText.set_TextString(String param0)
+   於 CADIntegration.AutoCAD_API.CreateTitleBlockProperty(XElement setting_section, String filepath)
+2019/09/04 02:58:29====>---------SaveProperties Start----------
+2019/09/04 02:58:30====>C:\Users\Administrator\Desktop\AD.dwg
+2019/09/04 02:58:32====>---------SaveProperties End----------
+2019/09/04 02:58:33====>---------Checkin Start----------
+2019/09/04 02:58:33====>
+===================
+<Item isNew="1" isTemp="1" type="CAD" action="get"><classification>Mechanical/Drawing</classification><item_number>AD</item_number><is_current>1</is_current></Item>
+
+2019/09/04 02:58:33====>
+===================
+<Item isNew="1" isTemp="1" type="CAD" action="get"><classification>Mechanical/Drawing</classification><item_number>AD</item_number><is_current>1</is_current></Item>
+
+2019/09/04 02:58:33====>
+<?xml version="1.0" encoding="utf-16"?>
+<CADBOM xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part_bom_quantity />
+  <id>temp-4b892cb3-ab2a-4685-8244-65895676b635</id>
+  <last_id>8F735AD1E62C47E4AF33E5E1523A0D04</last_id>
+  <name>AD.dwg</name>
+  <filePath>C:\Users\Administrator\Desktop\AD.dwg</filePath>
+  <state>none</state>
+  <isEdited>false</isEdited>
+  <classification>Mechanical/Drawing</classification>
+  <level>1</level>
+  <is_current>0</is_current>
+  <treeSmallIcon>6</treeSmallIcon>
+  <thumbnail />
+  <major_rev />
+  <generation />
+  <plm_state />
+  <plm_major_rev>A</plm_major_rev>
+  <plm_generation>1</plm_generation>
+  <cad_fileSize>0</cad_fileSize>
+  <plm_fileSize>34233</plm_fileSize>
+  <isDrawing>false</isDrawing>
+  <isCheckIn>false</isCheckIn>
+  <isCheckout>false</isCheckout>
+  <isCheckInDrawing>false</isCheckInDrawing>
+  <isCheckoutDrawing>false</isCheckoutDrawing>
+  <isApplySuccess>false</isApplySuccess>
+  <error_message />
+  <checkinRuleState />
+  <configuration_list />
+  <bom />
+  <part_bom />
+  <drawingList />
+  <properties>
+    <Property>
+      <field_name>item_number</field_name>
+      <field_value>AD</field_value>
+    </Property>
+    <Property>
+      <field_name>name</field_name>
+      <field_value>AD</field_value>
+    </Property>
+    <Property>
+      <field_name>classification</field_name>
+      <field_value>Mechanical/Drawing</field_value>
+    </Property>
+    <Property>
+      <field_name>major_rev</field_name>
+      <field_value />
+    </Property>
+    <Property>
+      <field_name>generation</field_name>
+      <field_value />
+    </Property>
+    <Property>
+      <field_name>id</field_name>
+      <field_value>temp-4b892cb3-ab2a-4685-8244-65895676b635</field_value>
+    </Property>
+    <Property>
+      <field_name>authoring_tool</field_name>
+      <field_value>AutoCAD</field_value>
+    </Property>
+    <Property>
+      <field_name>viewable_file</field_name>
+      <field_value />
+    </Property>
+    <Property>
+      <field_name>is_current</field_name>
+      <field_value />
+    </Property>
+  </properties>
+  <configuration_structure />
+</CADBOM>
+2019/09/04 02:58:33====>C:\Users\Administrator\Desktop\AD.dwg
+2019/09/04 02:58:38====>
+2019/09/04 02:58:38====>---------Checkin End----------
+2019/09/04 02:58:39====>UpdateDataUpdate 更新資料
+2019/09/04 02:58:39====>Autodesk.AutoCAD.Runtime.Exception: eInvalidInput
+   於 Autodesk.AutoCAD.DatabaseServices.DBText.set_TextString(String param0)
+   於 CADIntegration.AutoCAD_API.CreateTitleBlockProperty(XElement setting_section, String filepath)
+2019/09/04 02:58:40====>UpdateDataUpdate 更新資料
+2019/09/04 02:58:40====>Autodesk.AutoCAD.Runtime.Exception: eInvalidInput
+   於 Autodesk.AutoCAD.DatabaseServices.DBText.set_TextString(String param0)
+   於 CADIntegration.AutoCAD_API.CreateTitleBlockProperty(XElement setting_section, String filepath)
+2019/09/04 02:58:40====>UpdateDataUpdate 更新資料
+2019/09/04 02:58:40====>Autodesk.AutoCAD.Runtime.Exception: eInvalidInput
+   於 Autodesk.AutoCAD.DatabaseServices.DBText.set_TextString(String param0)
+   於 CADIntegration.AutoCAD_API.CreateTitleBlockProperty(XElement setting_section, String filepath)
+2019/09/04 02:58:40====>UpdateDataUpdate 更新資料
+2019/09/04 02:58:40====>Autodesk.AutoCAD.Runtime.Exception: eInvalidInput
+   於 Autodesk.AutoCAD.DatabaseServices.DBText.set_TextString(String param0)
+   於 CADIntegration.AutoCAD_API.CreateTitleBlockProperty(XElement setting_section, String filepath)
+2019/09/04 02:58:40====>UpdateDataUpdate 更新資料
+2019/09/04 02:58:40====>Autodesk.AutoCAD.Runtime.Exception: eInvalidInput
+   於 Autodesk.AutoCAD.DatabaseServices.DBText.set_TextString(String param0)
+   於 CADIntegration.AutoCAD_API.CreateTitleBlockProperty(XElement setting_section, String filepath)
+2019/09/04 02:58:42====>UpdateDataStart 更新資料
+2019/09/04 02:58:42====>Autodesk.AutoCAD.Runtime.Exception: eInvalidInput
+   於 Autodesk.AutoCAD.DatabaseServices.DBText.set_TextString(String param0)
+   於 CADIntegration.AutoCAD_API.CreateTitleBlockProperty(XElement setting_section, String filepath)
+2019/09/04 02:58:43====>UpdateDataUpdate 更新資料
+2019/09/04 02:58:43====>Autodesk.AutoCAD.Runtime.Exception: eInvalidInput
+   於 Autodesk.AutoCAD.DatabaseServices.DBText.set_TextString(String param0)
+   於 CADIntegration.AutoCAD_API.CreateTitleBlockProperty(XElement setting_section, String filepath)
+2019/09/04 02:58:44====>---------Checkin Start----------
+2019/09/04 02:58:44====>UpdateDataUpdate 更新資料
+2019/09/04 02:58:44====>Autodesk.AutoCAD.Runtime.Exception: eInvalidInput
+   於 Autodesk.AutoCAD.DatabaseServices.DBText.set_TextString(String param0)
+   於 CADIntegration.AutoCAD_API.CreateTitleBlockProperty(XElement setting_section, String filepath)
+2019/09/04 02:58:44====>UpdateDataUpdate 更新資料
+2019/09/04 02:58:44====>Autodesk.AutoCAD.Runtime.Exception: eInvalidInput
+   於 Autodesk.AutoCAD.DatabaseServices.DBText.set_TextString(String param0)
+   於 CADIntegration.AutoCAD_API.CreateTitleBlockProperty(XElement setting_section, String filepath)
+2019/09/04 02:58:44====>UpdateDataUpdate 更新資料
+2019/09/04 02:58:44====>Autodesk.AutoCAD.Runtime.Exception: eInvalidInput
+   於 Autodesk.AutoCAD.DatabaseServices.DBText.set_TextString(String param0)
+   於 CADIntegration.AutoCAD_API.CreateTitleBlockProperty(XElement setting_section, String filepath)
+2019/09/04 02:58:44====>
+===================
+<Item isNew="1" isTemp="1" type="CAD" action="get"><classification>Mechanical/Drawing</classification><item_number>AD</item_number><is_current>1</is_current></Item>
+
+2019/09/04 02:58:44====>
+===================
+<Item isNew="1" isTemp="1" type="CAD" action="get"><classification>Mechanical/Drawing</classification><item_number>AD</item_number><is_current>1</is_current></Item>
+
+2019/09/04 02:58:44====>
+<?xml version="1.0" encoding="utf-16"?>
+<CADBOM xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part_bom_quantity />
+  <id>temp-4b892cb3-ab2a-4685-8244-65895676b635</id>
+  <last_id>8F735AD1E62C47E4AF33E5E1523A0D04</last_id>
+  <name>AD.dwg</name>
+  <filePath>C:\Users\Administrator\Desktop\AD.dwg</filePath>
+  <state>none</state>
+  <isEdited>false</isEdited>
+  <classification>Mechanical/Drawing</classification>
+  <level>1</level>
+  <is_current>0</is_current>
+  <treeSmallIcon>6</treeSmallIcon>
+  <thumbnail />
+  <major_rev />
+  <generation />
+  <plm_state />
+  <plm_major_rev>A</plm_major_rev>
+  <plm_generation>1</plm_generation>
+  <cad_fileSize>0</cad_fileSize>
+  <plm_fileSize>34233</plm_fileSize>
+  <isDrawing>false</isDrawing>
+  <isCheckIn>false</isCheckIn>
+  <isCheckout>false</isCheckout>
+  <isCheckInDrawing>false</isCheckInDrawing>
+  <isCheckoutDrawing>false</isCheckoutDrawing>
+  <isApplySuccess>false</isApplySuccess>
+  <error_message />
+  <checkinRuleState />
+  <configuration_list />
+  <bom />
+  <part_bom />
+  <drawingList />
+  <properties>
+    <Property>
+      <field_name>item_number</field_name>
+      <field_value>AD</field_value>
+    </Property>
+    <Property>
+      <field_name>name</field_name>
+      <field_value>AD</field_value>
+    </Property>
+    <Property>
+      <field_name>classification</field_name>
+      <field_value>Mechanical/Drawing</field_value>
+    </Property>
+    <Property>
+      <field_name>major_rev</field_name>
+      <field_value />
+    </Property>
+    <Property>
+      <field_name>generation</field_name>
+      <field_value />
+    </Property>
+    <Property>
+      <field_name>id</field_name>
+      <field_value>temp-4b892cb3-ab2a-4685-8244-65895676b635</field_value>
+    </Property>
+    <Property>
+      <field_name>authoring_tool</field_name>
+      <field_value>AutoCAD</field_value>
+    </Property>
+    <Property>
+      <field_name>viewable_file</field_name>
+      <field_value />
+    </Property>
+    <Property>
+      <field_name>is_current</field_name>
+      <field_value />
+    </Property>
+  </properties>
+  <configuration_structure />
+</CADBOM>
+2019/09/04 02:58:44====>C:\Users\Administrator\Desktop\AD.dwg
+2019/09/04 02:58:50====>
+2019/09/04 02:58:50====>---------Checkin End----------
+2019/09/04 02:59:06====>---------SaveProperties Start----------
+2019/09/04 02:59:06====>UpdateDataUpdate 更新資料
+2019/09/04 02:59:06====>Autodesk.AutoCAD.Runtime.Exception: eInvalidInput
+   於 Autodesk.AutoCAD.DatabaseServices.DBText.set_TextString(String param0)
+   於 CADIntegration.AutoCAD_API.CreateTitleBlockProperty(XElement setting_section, String filepath)
+2019/09/04 02:59:06====>UpdateDataUpdate 更新資料
+2019/09/04 02:59:06====>Autodesk.AutoCAD.Runtime.Exception: eInvalidInput
+   於 Autodesk.AutoCAD.DatabaseServices.DBText.set_TextString(String param0)
+   於 CADIntegration.AutoCAD_API.CreateTitleBlockProperty(XElement setting_section, String filepath)
+2019/09/04 02:59:06====>UpdateDataUpdate 更新資料
+2019/09/04 02:59:07====>Autodesk.AutoCAD.Runtime.Exception: eInvalidInput
+   於 Autodesk.AutoCAD.DatabaseServices.DBText.set_TextString(String param0)
+   於 CADIntegration.AutoCAD_API.CreateTitleBlockProperty(XElement setting_section, String filepath)
+2019/09/04 02:59:07====>C:\Users\Administrator\Desktop\AD.dwg
+2019/09/04 02:59:10====>---------SaveProperties End----------
+2019/09/04 02:59:11====>---------Checkin Start----------
+2019/09/04 02:59:11====>UpdateDataUpdate 更新資料
+2019/09/04 02:59:11====>Autodesk.AutoCAD.Runtime.Exception: eInvalidInput
+   於 Autodesk.AutoCAD.DatabaseServices.DBText.set_TextString(String param0)
+   於 CADIntegration.AutoCAD_API.CreateTitleBlockProperty(XElement setting_section, String filepath)
+2019/09/04 02:59:12====>UpdateDataUpdate 更新資料
+2019/09/04 02:59:12====>Autodesk.AutoCAD.Runtime.Exception: eInvalidInput
+   於 Autodesk.AutoCAD.DatabaseServices.DBText.set_TextString(String param0)
+   於 CADIntegration.AutoCAD_API.CreateTitleBlockProperty(XElement setting_section, String filepath)
+2019/09/04 02:59:12====>UpdateDataUpdate 更新資料
+2019/09/04 02:59:12====>Autodesk.AutoCAD.Runtime.Exception: eInvalidInput
+   於 Autodesk.AutoCAD.DatabaseServices.DBText.set_TextString(String param0)
+   於 CADIntegration.AutoCAD_API.CreateTitleBlockProperty(XElement setting_section, String filepath)
+2019/09/04 02:59:12====>
+===================
+<Item isNew="1" isTemp="1" type="CAD" action="get"><classification>Mechanical/Drawing</classification><item_number>AD</item_number><is_current>1</is_current></Item>
+
+2019/09/04 02:59:12====>
+===================
+<Item isNew="1" isTemp="1" type="CAD" action="get"><classification>Mechanical/Drawing</classification><item_number>AD</item_number><is_current>1</is_current></Item>
+
+2019/09/04 02:59:12====>
+<?xml version="1.0" encoding="utf-16"?>
+<CADBOM xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part_bom_quantity />
+  <id>temp-4b892cb3-ab2a-4685-8244-65895676b635</id>
+  <last_id>8F735AD1E62C47E4AF33E5E1523A0D04</last_id>
+  <name>AD.dwg</name>
+  <filePath>C:\Users\Administrator\Desktop\AD.dwg</filePath>
+  <state>none</state>
+  <isEdited>false</isEdited>
+  <classification>Mechanical/Drawing</classification>
+  <level>1</level>
+  <is_current>0</is_current>
+  <treeSmallIcon>6</treeSmallIcon>
+  <thumbnail />
+  <major_rev />
+  <generation />
+  <plm_state />
+  <plm_major_rev>A</plm_major_rev>
+  <plm_generation>1</plm_generation>
+  <cad_fileSize>0</cad_fileSize>
+  <plm_fileSize>34233</plm_fileSize>
+  <isDrawing>false</isDrawing>
+  <isCheckIn>false</isCheckIn>
+  <isCheckout>false</isCheckout>
+  <isCheckInDrawing>false</isCheckInDrawing>
+  <isCheckoutDrawing>false</isCheckoutDrawing>
+  <isApplySuccess>false</isApplySuccess>
+  <error_message />
+  <checkinRuleState />
+  <configuration_list />
+  <bom />
+  <part_bom />
+  <drawingList />
+  <properties>
+    <Property>
+      <field_name>item_number</field_name>
+      <field_value>AD</field_value>
+    </Property>
+    <Property>
+      <field_name>name</field_name>
+      <field_value>AD</field_value>
+    </Property>
+    <Property>
+      <field_name>classification</field_name>
+      <field_value>Mechanical/Drawing</field_value>
+    </Property>
+    <Property>
+      <field_name>major_rev</field_name>
+      <field_value />
+    </Property>
+    <Property>
+      <field_name>generation</field_name>
+      <field_value />
+    </Property>
+    <Property>
+      <field_name>id</field_name>
+      <field_value>temp-4b892cb3-ab2a-4685-8244-65895676b635</field_value>
+    </Property>
+    <Property>
+      <field_name>authoring_tool</field_name>
+      <field_value>AutoCAD</field_value>
+    </Property>
+    <Property>
+      <field_name>viewable_file</field_name>
+      <field_value />
+    </Property>
+    <Property>
+      <field_name>is_current</field_name>
+      <field_value />
+    </Property>
+  </properties>
+  <configuration_structure />
+</CADBOM>
+2019/09/04 02:59:12====>C:\Users\Administrator\Desktop\AD.dwg
+2019/09/04 02:59:14====>---------------開始簽入-----------
+2019/09/04 02:59:19====>---------------結束簽入-----------
+2019/09/04 02:59:19====>
+2019/09/04 02:59:19====>---------Checkin End----------
+2019/09/04 03:00:53====>---------SaveProperties Start----------
+2019/09/04 03:00:53====>UpdateDataUpdate 更新資料
+2019/09/04 03:01:03====>Autodesk.AutoCAD.Runtime.Exception: eInvalidInput
+   於 Autodesk.AutoCAD.DatabaseServices.DBText.set_TextString(String param0)
+   於 CADIntegration.AutoCAD_API.CreateTitleBlockProperty(XElement setting_section, String filepath)
+2019/09/04 03:01:20====>UpdateDataUpdate 更新資料
+2019/09/04 03:02:05====>UpdateDataUpdate 更新資料
+2019/09/04 03:02:05====>C:\Users\Administrator\Desktop\AD.dwg
+2019/09/04 03:02:11====>---------SaveProperties End----------
+2019/09/04 03:02:16====>---------Checkin Start----------
+2019/09/04 03:02:16====>UpdateDataUpdate 更新資料
+2019/09/04 03:02:16====>UpdateDataUpdate 更新資料
+2019/09/04 03:02:16====>UpdateDataUpdate 更新資料
+2019/09/04 03:02:16====>
+===================
+<Item isNew="1" isTemp="1" type="CAD" action="get"><classification>Mechanical/Drawing</classification><item_number>AD</item_number><is_current>1</is_current></Item>
+
+2019/09/04 03:02:16====>
+===================
+<Item isNew="1" isTemp="1" type="CAD" action="get"><classification>Mechanical/Drawing</classification><item_number>AD</item_number><is_current>1</is_current></Item>
+
+2019/09/04 03:02:16====>
+<?xml version="1.0" encoding="utf-16"?>
+<CADBOM xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part_bom_quantity />
+  <id>temp-4b892cb3-ab2a-4685-8244-65895676b635</id>
+  <last_id>8F735AD1E62C47E4AF33E5E1523A0D04</last_id>
+  <name>AD.dwg</name>
+  <filePath>C:\Users\Administrator\Desktop\AD.dwg</filePath>
+  <state>none</state>
+  <isEdited>false</isEdited>
+  <classification>Mechanical/Drawing</classification>
+  <level>1</level>
+  <is_current>0</is_current>
+  <treeSmallIcon>6</treeSmallIcon>
+  <thumbnail />
+  <major_rev />
+  <generation />
+  <plm_state />
+  <plm_major_rev>A</plm_major_rev>
+  <plm_generation>1</plm_generation>
+  <cad_fileSize>0</cad_fileSize>
+  <plm_fileSize>34233</plm_fileSize>
+  <isDrawing>false</isDrawing>
+  <isCheckIn>false</isCheckIn>
+  <isCheckout>false</isCheckout>
+  <isCheckInDrawing>false</isCheckInDrawing>
+  <isCheckoutDrawing>false</isCheckoutDrawing>
+  <isApplySuccess>false</isApplySuccess>
+  <error_message />
+  <checkinRuleState />
+  <configuration_list />
+  <bom />
+  <part_bom />
+  <drawingList />
+  <properties>
+    <Property>
+      <field_name>item_number</field_name>
+      <field_value>AD</field_value>
+    </Property>
+    <Property>
+      <field_name>name</field_name>
+      <field_value>AD</field_value>
+    </Property>
+    <Property>
+      <field_name>classification</field_name>
+      <field_value>Mechanical/Drawing</field_value>
+    </Property>
+    <Property>
+      <field_name>major_rev</field_name>
+      <field_value />
+    </Property>
+    <Property>
+      <field_name>generation</field_name>
+      <field_value />
+    </Property>
+    <Property>
+      <field_name>id</field_name>
+      <field_value>temp-4b892cb3-ab2a-4685-8244-65895676b635</field_value>
+    </Property>
+    <Property>
+      <field_name>authoring_tool</field_name>
+      <field_value>AutoCAD</field_value>
+    </Property>
+    <Property>
+      <field_name>viewable_file</field_name>
+      <field_value />
+    </Property>
+    <Property>
+      <field_name>is_current</field_name>
+      <field_value />
+    </Property>
+    <Property>
+      <field_name>cn_titleblock_name</field_name>
+      <field_value>AD</field_value>
+    </Property>
+  </properties>
+  <configuration_structure />
+</CADBOM>
+2019/09/04 03:02:16====>C:\Users\Administrator\Desktop\AD.dwg
+2019/09/04 03:02:21====>
+2019/09/04 03:02:21====>---------Checkin End----------
+2019/09/04 03:02:22====>---------Checkin Start----------
+2019/09/04 03:02:22====>UpdateDataUpdate 更新資料
+2019/09/04 03:02:22====>UpdateDataUpdate 更新資料
+2019/09/04 03:02:22====>UpdateDataUpdate 更新資料
+2019/09/04 03:02:22====>
+===================
+<Item isNew="1" isTemp="1" type="CAD" action="get"><classification>Mechanical/Drawing</classification><item_number>AD</item_number><is_current>1</is_current></Item>
+
+2019/09/04 03:02:22====>
+===================
+<Item isNew="1" isTemp="1" type="CAD" action="get"><classification>Mechanical/Drawing</classification><item_number>AD</item_number><is_current>1</is_current></Item>
+
+2019/09/04 03:02:22====>
+<?xml version="1.0" encoding="utf-16"?>
+<CADBOM xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part_bom_quantity />
+  <id>temp-4b892cb3-ab2a-4685-8244-65895676b635</id>
+  <last_id>8F735AD1E62C47E4AF33E5E1523A0D04</last_id>
+  <name>AD.dwg</name>
+  <filePath>C:\Users\Administrator\Desktop\AD.dwg</filePath>
+  <state>none</state>
+  <isEdited>false</isEdited>
+  <classification>Mechanical/Drawing</classification>
+  <level>1</level>
+  <is_current>0</is_current>
+  <treeSmallIcon>6</treeSmallIcon>
+  <thumbnail />
+  <major_rev />
+  <generation />
+  <plm_state />
+  <plm_major_rev>A</plm_major_rev>
+  <plm_generation>1</plm_generation>
+  <cad_fileSize>0</cad_fileSize>
+  <plm_fileSize>34233</plm_fileSize>
+  <isDrawing>false</isDrawing>
+  <isCheckIn>false</isCheckIn>
+  <isCheckout>false</isCheckout>
+  <isCheckInDrawing>false</isCheckInDrawing>
+  <isCheckoutDrawing>false</isCheckoutDrawing>
+  <isApplySuccess>false</isApplySuccess>
+  <error_message />
+  <checkinRuleState />
+  <configuration_list />
+  <bom />
+  <part_bom />
+  <drawingList />
+  <properties>
+    <Property>
+      <field_name>item_number</field_name>
+      <field_value>AD</field_value>
+    </Property>
+    <Property>
+      <field_name>name</field_name>
+      <field_value>AD</field_value>
+    </Property>
+    <Property>
+      <field_name>classification</field_name>
+      <field_value>Mechanical/Drawing</field_value>
+    </Property>
+    <Property>
+      <field_name>major_rev</field_name>
+      <field_value />
+    </Property>
+    <Property>
+      <field_name>generation</field_name>
+      <field_value />
+    </Property>
+    <Property>
+      <field_name>id</field_name>
+      <field_value>temp-4b892cb3-ab2a-4685-8244-65895676b635</field_value>
+    </Property>
+    <Property>
+      <field_name>authoring_tool</field_name>
+      <field_value>AutoCAD</field_value>
+    </Property>
+    <Property>
+      <field_name>viewable_file</field_name>
+      <field_value />
+    </Property>
+    <Property>
+      <field_name>is_current</field_name>
+      <field_value />
+    </Property>
+    <Property>
+      <field_name>cn_titleblock_name</field_name>
+      <field_value>AD</field_value>
+    </Property>
+  </properties>
+  <configuration_structure />
+</CADBOM>
+2019/09/04 03:02:22====>C:\Users\Administrator\Desktop\AD.dwg
+2019/09/04 03:02:24====>
+2019/09/04 03:02:24====>---------Checkin End----------
+2019/09/04 03:09:33====>---------Checkin Start----------
+2019/09/04 03:09:33====>UpdateDataUpdate 更新資料
+2019/09/04 03:09:33====>UpdateDataUpdate 更新資料
+2019/09/04 03:09:33====>UpdateDataUpdate 更新資料
+2019/09/04 03:09:33====>
+===================
+<Item isNew="1" isTemp="1" type="CAD" action="get"><classification>Mechanical/Drawing</classification><item_number>AD</item_number><is_current>1</is_current></Item>
+
+2019/09/04 03:09:33====>
+===================
+<Item isNew="1" isTemp="1" type="CAD" action="get"><classification>Mechanical/Drawing</classification><item_number>AD</item_number><is_current>1</is_current></Item>
+
+2019/09/04 03:09:33====>
+<?xml version="1.0" encoding="utf-16"?>
+<CADBOM xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part_bom_quantity />
+  <id>temp-4b892cb3-ab2a-4685-8244-65895676b635</id>
+  <name>AD.dwg</name>
+  <filePath>C:\Users\Administrator\Desktop\AD.dwg</filePath>
+  <state>new</state>
+  <isEdited>false</isEdited>
+  <classification>Mechanical/Drawing</classification>
+  <level>1</level>
+  <treeSmallIcon>6</treeSmallIcon>
+  <thumbnail />
+  <major_rev />
+  <generation />
+  <plm_state />
+  <plm_major_rev />
+  <plm_generation />
+  <cad_fileSize>0</cad_fileSize>
+  <plm_fileSize>0</plm_fileSize>
+  <isDrawing>false</isDrawing>
+  <isCheckIn>false</isCheckIn>
+  <isCheckout>false</isCheckout>
+  <isCheckInDrawing>false</isCheckInDrawing>
+  <isCheckoutDrawing>false</isCheckoutDrawing>
+  <isApplySuccess>false</isApplySuccess>
+  <error_message />
+  <checkinRuleState />
+  <configuration_list />
+  <bom />
+  <part_bom />
+  <drawingList />
+  <properties>
+    <Property>
+      <field_name>item_number</field_name>
+      <field_value>AD</field_value>
+    </Property>
+    <Property>
+      <field_name>name</field_name>
+      <field_value>AD</field_value>
+    </Property>
+    <Property>
+      <field_name>classification</field_name>
+      <field_value>Mechanical/Drawing</field_value>
+    </Property>
+    <Property>
+      <field_name>major_rev</field_name>
+      <field_value />
+    </Property>
+    <Property>
+      <field_name>generation</field_name>
+      <field_value />
+    </Property>
+    <Property>
+      <field_name>id</field_name>
+      <field_value>temp-4b892cb3-ab2a-4685-8244-65895676b635</field_value>
+    </Property>
+    <Property>
+      <field_name>authoring_tool</field_name>
+      <field_value>AutoCAD</field_value>
+    </Property>
+    <Property>
+      <field_name>viewable_file</field_name>
+      <field_value />
+    </Property>
+    <Property>
+      <field_name>is_current</field_name>
+      <field_value />
+    </Property>
+    <Property>
+      <field_name>cn_titleblock_name</field_name>
+      <field_value>AD</field_value>
+    </Property>
+  </properties>
+  <configuration_structure />
+</CADBOM>
+2019/09/04 03:09:33====>C:\Users\Administrator\Desktop\AD.dwg
+2019/09/04 03:09:35====>---------------開始簽入-----------
+2019/09/04 03:09:35====>執行中........
+
+2019/09/04 03:09:35====>UpdateDataUpdate 更新資料
+2019/09/04 03:09:35====>UpdateDataUpdate 更新資料
+2019/09/04 03:09:35====>UpdateDataUpdate 更新資料
+2019/09/04 03:09:56====>取得訊息整合成功
+2019/09/04 03:10:01====>C:\Users\Administrator\Desktop\AD.dwg簽入完成
+2019/09/04 03:10:01====>執行BOM簽入中........
+
+2019/09/04 03:10:01====>執行BOM簽入結束........
+
+2019/09/04 03:10:06====>---------------結束簽入-----------
+2019/09/04 03:10:06====>
+2019/09/04 03:10:06====>---------Checkin End----------
+2019/09/04 03:10:20====>---------Checkout Start----------
+2019/09/04 03:10:22====>查詢AML:<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:Body><Result><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="FA1FAD32D73048CBAC7C97EDFBFD41C4" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="0A12345P" type="CAD">458FC437ADBE47FE8E299A2394370954</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-13T17:04:12</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>3</generation><has_change_pending>0</has_change_pending><id keyed_name="0A12345P" type="CAD">FA1FAD32D73048CBAC7C97EDFBFD41C4</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>0A12345P</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-14T15:36:02</modified_on><name>0A12345P</name><native_file keyed_name="0A12345P.dwg" type="File">839B993E3D75476D86F548D7B556EE53</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="0A12345P.pdf" type="File">74BA087EA5E248E1B59C6877719ACCFF</viewable_file><item_number>0A12345P</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="4B10DBB0F4E74ACC9322A0E8F885220B" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="555555555" type="CAD">DB0518BC91A546FC88799507D4734940</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-01T23:45:39</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>24</generation><has_change_pending>0</has_change_pending><id keyed_name="555555555" type="CAD">4B10DBB0F4E74ACC9322A0E8F885220B</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>555555555</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-13T16:23:30</modified_on><name>77</name><native_file keyed_name="T4HBBF01_v2013.dwg" type="File">C1DCAA58440F42B1849F6DA10DB0F90A</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="T4HBBF01_v2013.pdf" type="File">A34F034843B04DE7869688E1870DD393</viewable_file><item_number>555555555</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="4A466D63A9764225A31AE9ADE82478EF" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><cn_titleblock_name>AD</cn_titleblock_name><config_id keyed_name="AD" type="CAD">4A466D63A9764225A31AE9ADE82478EF</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-09-04T15:10:00</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>1</generation><has_change_pending>0</has_change_pending><id keyed_name="AD" type="CAD">4A466D63A9764225A31AE9ADE82478EF</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>AD</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-09-04T15:10:00</modified_on><name>AD</name><native_file keyed_name="AD.dwg" type="File">2E35909423234E26BF0E135963CCDABE</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="AD.pdf" type="File">8DDA76F32587407C81FB76BF1F065AE5</viewable_file><item_number>AD</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="DF1E2BF3D2024E0E920C793CF7932BF0" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="Template" type="CAD">D28951D28E984EAD9977BF12AC2BEA08</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-13T16:50:30</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>4</generation><has_change_pending>0</has_change_pending><id keyed_name="Template" type="CAD">DF1E2BF3D2024E0E920C793CF7932BF0</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>Template</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-14T12:30:47</modified_on><name>Template</name><native_file keyed_name="Template.dwg" type="File">52AD7F118C4844FB92113D0134E9ED8B</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="0A12345P.pdf" type="File">1E62F5DE1BAB4C9EBF58DC221F392CB0</viewable_file><item_number>Template</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item></Result><Message><event name="pagemax" value="1" /><event name="itemmax" value="4" /><event name="items_with_no_access_count" value="0" /></Message></SOAP-ENV:Body></SOAP-ENV:Envelope>
+2019/09/04 03:10:30====>下載例外錯誤:System.Exception: Not a single item
+   於 Aras.IOM.Item.getProperty(String propertyName, String defaultValue, String lang) 於 E:\Builds\Innovator_RELS11-0-SP12\6920-RELS11-0-SP12\Innovator.git\CompilableCode\IOM.NET\Item.common.cs: 行 1769
+   於 CADIntegration.ComApp.GetCADMappingProperties(Item itm, Int32& smallIcon)
+   於 CADIntegration.ComApp.GetPLMCADObjectToList(List`1 selectItemId)
+   於 CADIntegration.ComApp.DownLoad(Boolean IsCheckout)
+   於 Aras.IOM.Item.getProperty(String propertyName, String defaultValue, String lang) 於 E:\Builds\Innovator_RELS11-0-SP12\6920-RELS11-0-SP12\Innovator.git\CompilableCode\IOM.NET\Item.common.cs: 行 1769
+   於 CADIntegration.ComApp.GetCADMappingProperties(Item itm, Int32& smallIcon)
+   於 CADIntegration.ComApp.GetPLMCADObjectToList(List`1 selectItemId)
+   於 CADIntegration.ComApp.DownLoad(Boolean IsCheckout)
+2019/09/04 03:10:30====>---------Checkout End----------
+2019/09/04 03:10:35====>---------Checkout Start----------
+2019/09/04 03:10:37====>查詢AML:<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:Body><Result><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="FA1FAD32D73048CBAC7C97EDFBFD41C4" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="0A12345P" type="CAD">458FC437ADBE47FE8E299A2394370954</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-13T17:04:12</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>3</generation><has_change_pending>0</has_change_pending><id keyed_name="0A12345P" type="CAD">FA1FAD32D73048CBAC7C97EDFBFD41C4</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>0A12345P</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-14T15:36:02</modified_on><name>0A12345P</name><native_file keyed_name="0A12345P.dwg" type="File">839B993E3D75476D86F548D7B556EE53</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="0A12345P.pdf" type="File">74BA087EA5E248E1B59C6877719ACCFF</viewable_file><item_number>0A12345P</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="4B10DBB0F4E74ACC9322A0E8F885220B" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="555555555" type="CAD">DB0518BC91A546FC88799507D4734940</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-01T23:45:39</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>24</generation><has_change_pending>0</has_change_pending><id keyed_name="555555555" type="CAD">4B10DBB0F4E74ACC9322A0E8F885220B</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>555555555</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-13T16:23:30</modified_on><name>77</name><native_file keyed_name="T4HBBF01_v2013.dwg" type="File">C1DCAA58440F42B1849F6DA10DB0F90A</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="T4HBBF01_v2013.pdf" type="File">A34F034843B04DE7869688E1870DD393</viewable_file><item_number>555555555</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="4A466D63A9764225A31AE9ADE82478EF" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><cn_titleblock_name>AD</cn_titleblock_name><config_id keyed_name="AD" type="CAD">4A466D63A9764225A31AE9ADE82478EF</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-09-04T15:10:00</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>1</generation><has_change_pending>0</has_change_pending><id keyed_name="AD" type="CAD">4A466D63A9764225A31AE9ADE82478EF</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>AD</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-09-04T15:10:00</modified_on><name>AD</name><native_file keyed_name="AD.dwg" type="File">2E35909423234E26BF0E135963CCDABE</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="AD.pdf" type="File">8DDA76F32587407C81FB76BF1F065AE5</viewable_file><item_number>AD</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="DF1E2BF3D2024E0E920C793CF7932BF0" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="Template" type="CAD">D28951D28E984EAD9977BF12AC2BEA08</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-13T16:50:30</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>4</generation><has_change_pending>0</has_change_pending><id keyed_name="Template" type="CAD">DF1E2BF3D2024E0E920C793CF7932BF0</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>Template</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-14T12:30:47</modified_on><name>Template</name><native_file keyed_name="Template.dwg" type="File">52AD7F118C4844FB92113D0134E9ED8B</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="0A12345P.pdf" type="File">1E62F5DE1BAB4C9EBF58DC221F392CB0</viewable_file><item_number>Template</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item></Result><Message><event name="pagemax" value="1" /><event name="itemmax" value="4" /><event name="items_with_no_access_count" value="0" /></Message></SOAP-ENV:Body></SOAP-ENV:Envelope>
+2019/09/04 03:10:39====>下載例外錯誤:System.Exception: Not a single item
+   於 Aras.IOM.Item.getProperty(String propertyName, String defaultValue, String lang) 於 E:\Builds\Innovator_RELS11-0-SP12\6920-RELS11-0-SP12\Innovator.git\CompilableCode\IOM.NET\Item.common.cs: 行 1769
+   於 CADIntegration.ComApp.GetCADMappingProperties(Item itm, Int32& smallIcon)
+   於 CADIntegration.ComApp.GetPLMCADObjectToList(List`1 selectItemId)
+   於 CADIntegration.ComApp.DownLoad(Boolean IsCheckout)
+   於 Aras.IOM.Item.getProperty(String propertyName, String defaultValue, String lang) 於 E:\Builds\Innovator_RELS11-0-SP12\6920-RELS11-0-SP12\Innovator.git\CompilableCode\IOM.NET\Item.common.cs: 行 1769
+   於 CADIntegration.ComApp.GetCADMappingProperties(Item itm, Int32& smallIcon)
+   於 CADIntegration.ComApp.GetPLMCADObjectToList(List`1 selectItemId)
+   於 CADIntegration.ComApp.DownLoad(Boolean IsCheckout)
+2019/09/04 03:10:39====>---------Checkout End----------
+2019/09/04 03:10:46====>---------Checkout Start----------
+2019/09/04 03:10:48====>查詢AML:<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:Body><Result><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="FA1FAD32D73048CBAC7C97EDFBFD41C4" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="0A12345P" type="CAD">458FC437ADBE47FE8E299A2394370954</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-13T17:04:12</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>3</generation><has_change_pending>0</has_change_pending><id keyed_name="0A12345P" type="CAD">FA1FAD32D73048CBAC7C97EDFBFD41C4</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>0A12345P</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-14T15:36:02</modified_on><name>0A12345P</name><native_file keyed_name="0A12345P.dwg" type="File">839B993E3D75476D86F548D7B556EE53</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="0A12345P.pdf" type="File">74BA087EA5E248E1B59C6877719ACCFF</viewable_file><item_number>0A12345P</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="4B10DBB0F4E74ACC9322A0E8F885220B" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="555555555" type="CAD">DB0518BC91A546FC88799507D4734940</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-01T23:45:39</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>24</generation><has_change_pending>0</has_change_pending><id keyed_name="555555555" type="CAD">4B10DBB0F4E74ACC9322A0E8F885220B</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>555555555</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-13T16:23:30</modified_on><name>77</name><native_file keyed_name="T4HBBF01_v2013.dwg" type="File">C1DCAA58440F42B1849F6DA10DB0F90A</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="T4HBBF01_v2013.pdf" type="File">A34F034843B04DE7869688E1870DD393</viewable_file><item_number>555555555</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="4A466D63A9764225A31AE9ADE82478EF" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><cn_titleblock_name>AD</cn_titleblock_name><config_id keyed_name="AD" type="CAD">4A466D63A9764225A31AE9ADE82478EF</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-09-04T15:10:00</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>1</generation><has_change_pending>0</has_change_pending><id keyed_name="AD" type="CAD">4A466D63A9764225A31AE9ADE82478EF</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>AD</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-09-04T15:10:00</modified_on><name>AD</name><native_file keyed_name="AD.dwg" type="File">2E35909423234E26BF0E135963CCDABE</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="AD.pdf" type="File">8DDA76F32587407C81FB76BF1F065AE5</viewable_file><item_number>AD</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="DF1E2BF3D2024E0E920C793CF7932BF0" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="Template" type="CAD">D28951D28E984EAD9977BF12AC2BEA08</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-13T16:50:30</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>4</generation><has_change_pending>0</has_change_pending><id keyed_name="Template" type="CAD">DF1E2BF3D2024E0E920C793CF7932BF0</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>Template</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-14T12:30:47</modified_on><name>Template</name><native_file keyed_name="Template.dwg" type="File">52AD7F118C4844FB92113D0134E9ED8B</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="0A12345P.pdf" type="File">1E62F5DE1BAB4C9EBF58DC221F392CB0</viewable_file><item_number>Template</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item></Result><Message><event name="pagemax" value="1" /><event name="itemmax" value="4" /><event name="items_with_no_access_count" value="0" /></Message></SOAP-ENV:Body></SOAP-ENV:Envelope>
+2019/09/04 03:10:55====>下載例外錯誤:System.Exception: Not a single item
+   於 Aras.IOM.Item.getProperty(String propertyName, String defaultValue, String lang) 於 E:\Builds\Innovator_RELS11-0-SP12\6920-RELS11-0-SP12\Innovator.git\CompilableCode\IOM.NET\Item.common.cs: 行 1769
+   於 CADIntegration.ComApp.GetCADMappingProperties(Item itm, Int32& smallIcon)
+   於 CADIntegration.ComApp.GetPLMCADObjectToList(List`1 selectItemId)
+   於 CADIntegration.ComApp.DownLoad(Boolean IsCheckout)
+   於 Aras.IOM.Item.getProperty(String propertyName, String defaultValue, String lang) 於 E:\Builds\Innovator_RELS11-0-SP12\6920-RELS11-0-SP12\Innovator.git\CompilableCode\IOM.NET\Item.common.cs: 行 1769
+   於 CADIntegration.ComApp.GetCADMappingProperties(Item itm, Int32& smallIcon)
+   於 CADIntegration.ComApp.GetPLMCADObjectToList(List`1 selectItemId)
+   於 CADIntegration.ComApp.DownLoad(Boolean IsCheckout)
+2019/09/04 03:10:55====>---------Checkout End----------
+2019/09/04 03:10:58====>---------Checkout Start----------
+2019/09/04 03:11:00====>查詢AML:<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:Body><Result><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="FA1FAD32D73048CBAC7C97EDFBFD41C4" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="0A12345P" type="CAD">458FC437ADBE47FE8E299A2394370954</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-13T17:04:12</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>3</generation><has_change_pending>0</has_change_pending><id keyed_name="0A12345P" type="CAD">FA1FAD32D73048CBAC7C97EDFBFD41C4</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>0A12345P</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-14T15:36:02</modified_on><name>0A12345P</name><native_file keyed_name="0A12345P.dwg" type="File">839B993E3D75476D86F548D7B556EE53</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="0A12345P.pdf" type="File">74BA087EA5E248E1B59C6877719ACCFF</viewable_file><item_number>0A12345P</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="4B10DBB0F4E74ACC9322A0E8F885220B" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="555555555" type="CAD">DB0518BC91A546FC88799507D4734940</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-01T23:45:39</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>24</generation><has_change_pending>0</has_change_pending><id keyed_name="555555555" type="CAD">4B10DBB0F4E74ACC9322A0E8F885220B</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>555555555</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-13T16:23:30</modified_on><name>77</name><native_file keyed_name="T4HBBF01_v2013.dwg" type="File">C1DCAA58440F42B1849F6DA10DB0F90A</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="T4HBBF01_v2013.pdf" type="File">A34F034843B04DE7869688E1870DD393</viewable_file><item_number>555555555</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="4A466D63A9764225A31AE9ADE82478EF" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><cn_titleblock_name>AD</cn_titleblock_name><config_id keyed_name="AD" type="CAD">4A466D63A9764225A31AE9ADE82478EF</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-09-04T15:10:00</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>1</generation><has_change_pending>0</has_change_pending><id keyed_name="AD" type="CAD">4A466D63A9764225A31AE9ADE82478EF</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>AD</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-09-04T15:10:00</modified_on><name>AD</name><native_file keyed_name="AD.dwg" type="File">2E35909423234E26BF0E135963CCDABE</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="AD.pdf" type="File">8DDA76F32587407C81FB76BF1F065AE5</viewable_file><item_number>AD</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="DF1E2BF3D2024E0E920C793CF7932BF0" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="Template" type="CAD">D28951D28E984EAD9977BF12AC2BEA08</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-13T16:50:30</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>4</generation><has_change_pending>0</has_change_pending><id keyed_name="Template" type="CAD">DF1E2BF3D2024E0E920C793CF7932BF0</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>Template</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-14T12:30:47</modified_on><name>Template</name><native_file keyed_name="Template.dwg" type="File">52AD7F118C4844FB92113D0134E9ED8B</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="0A12345P.pdf" type="File">1E62F5DE1BAB4C9EBF58DC221F392CB0</viewable_file><item_number>Template</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item></Result><Message><event name="pagemax" value="1" /><event name="itemmax" value="4" /><event name="items_with_no_access_count" value="0" /></Message></SOAP-ENV:Body></SOAP-ENV:Envelope>
+2019/09/04 03:12:24====>下載例外錯誤:System.Exception: Not a single item
+   於 Aras.IOM.Item.getProperty(String propertyName, String defaultValue, String lang) 於 E:\Builds\Innovator_RELS11-0-SP12\6920-RELS11-0-SP12\Innovator.git\CompilableCode\IOM.NET\Item.common.cs: 行 1769
+   於 CADIntegration.ComApp.GetCADMappingProperties(Item itm, Int32& smallIcon)
+   於 CADIntegration.ComApp.GetPLMCADObjectToList(List`1 selectItemId)
+   於 CADIntegration.ComApp.DownLoad(Boolean IsCheckout)
+   於 Aras.IOM.Item.getProperty(String propertyName, String defaultValue, String lang) 於 E:\Builds\Innovator_RELS11-0-SP12\6920-RELS11-0-SP12\Innovator.git\CompilableCode\IOM.NET\Item.common.cs: 行 1769
+   於 CADIntegration.ComApp.GetCADMappingProperties(Item itm, Int32& smallIcon)
+   於 CADIntegration.ComApp.GetPLMCADObjectToList(List`1 selectItemId)
+   於 CADIntegration.ComApp.DownLoad(Boolean IsCheckout)
+2019/09/04 03:12:24====>---------Checkout End----------
+2019/09/04 03:12:30====>---------Checkout Start----------
+2019/09/04 03:12:32====>查詢AML:<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:Body><Result><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="FA1FAD32D73048CBAC7C97EDFBFD41C4" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="0A12345P" type="CAD">458FC437ADBE47FE8E299A2394370954</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-13T17:04:12</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>3</generation><has_change_pending>0</has_change_pending><id keyed_name="0A12345P" type="CAD">FA1FAD32D73048CBAC7C97EDFBFD41C4</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>0A12345P</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-14T15:36:02</modified_on><name>0A12345P</name><native_file keyed_name="0A12345P.dwg" type="File">839B993E3D75476D86F548D7B556EE53</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="0A12345P.pdf" type="File">74BA087EA5E248E1B59C6877719ACCFF</viewable_file><item_number>0A12345P</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="4B10DBB0F4E74ACC9322A0E8F885220B" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="555555555" type="CAD">DB0518BC91A546FC88799507D4734940</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-01T23:45:39</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>24</generation><has_change_pending>0</has_change_pending><id keyed_name="555555555" type="CAD">4B10DBB0F4E74ACC9322A0E8F885220B</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>555555555</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-13T16:23:30</modified_on><name>77</name><native_file keyed_name="T4HBBF01_v2013.dwg" type="File">C1DCAA58440F42B1849F6DA10DB0F90A</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="T4HBBF01_v2013.pdf" type="File">A34F034843B04DE7869688E1870DD393</viewable_file><item_number>555555555</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="4A466D63A9764225A31AE9ADE82478EF" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><cn_titleblock_name>AD</cn_titleblock_name><config_id keyed_name="AD" type="CAD">4A466D63A9764225A31AE9ADE82478EF</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-09-04T15:10:00</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>1</generation><has_change_pending>0</has_change_pending><id keyed_name="AD" type="CAD">4A466D63A9764225A31AE9ADE82478EF</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>AD</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-09-04T15:10:00</modified_on><name>AD</name><native_file keyed_name="AD.dwg" type="File">2E35909423234E26BF0E135963CCDABE</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="AD.pdf" type="File">8DDA76F32587407C81FB76BF1F065AE5</viewable_file><item_number>AD</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="DF1E2BF3D2024E0E920C793CF7932BF0" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="Template" type="CAD">D28951D28E984EAD9977BF12AC2BEA08</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-13T16:50:30</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>4</generation><has_change_pending>0</has_change_pending><id keyed_name="Template" type="CAD">DF1E2BF3D2024E0E920C793CF7932BF0</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>Template</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-14T12:30:47</modified_on><name>Template</name><native_file keyed_name="Template.dwg" type="File">52AD7F118C4844FB92113D0134E9ED8B</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="0A12345P.pdf" type="File">1E62F5DE1BAB4C9EBF58DC221F392CB0</viewable_file><item_number>Template</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item></Result><Message><event name="pagemax" value="1" /><event name="itemmax" value="4" /><event name="items_with_no_access_count" value="0" /></Message></SOAP-ENV:Body></SOAP-ENV:Envelope>
+2019/09/04 03:12:47====>下載例外錯誤:System.Exception: Not a single item
+   於 Aras.IOM.Item.getProperty(String propertyName, String defaultValue, String lang) 於 E:\Builds\Innovator_RELS11-0-SP12\6920-RELS11-0-SP12\Innovator.git\CompilableCode\IOM.NET\Item.common.cs: 行 1769
+   於 CADIntegration.ComApp.GetCADMappingProperties(Item itm, Int32& smallIcon)
+   於 CADIntegration.ComApp.GetPLMCADObjectToList(List`1 selectItemId)
+   於 CADIntegration.ComApp.DownLoad(Boolean IsCheckout)
+   於 Aras.IOM.Item.getProperty(String propertyName, String defaultValue, String lang) 於 E:\Builds\Innovator_RELS11-0-SP12\6920-RELS11-0-SP12\Innovator.git\CompilableCode\IOM.NET\Item.common.cs: 行 1769
+   於 CADIntegration.ComApp.GetCADMappingProperties(Item itm, Int32& smallIcon)
+   於 CADIntegration.ComApp.GetPLMCADObjectToList(List`1 selectItemId)
+   於 CADIntegration.ComApp.DownLoad(Boolean IsCheckout)
+2019/09/04 03:13:01====>查詢AML:<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:Body><Result><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="FA1FAD32D73048CBAC7C97EDFBFD41C4" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="0A12345P" type="CAD">458FC437ADBE47FE8E299A2394370954</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-13T17:04:12</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>3</generation><has_change_pending>0</has_change_pending><id keyed_name="0A12345P" type="CAD">FA1FAD32D73048CBAC7C97EDFBFD41C4</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>0A12345P</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-14T15:36:02</modified_on><name>0A12345P</name><native_file keyed_name="0A12345P.dwg" type="File">839B993E3D75476D86F548D7B556EE53</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="0A12345P.pdf" type="File">74BA087EA5E248E1B59C6877719ACCFF</viewable_file><item_number>0A12345P</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="4B10DBB0F4E74ACC9322A0E8F885220B" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="555555555" type="CAD">DB0518BC91A546FC88799507D4734940</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-01T23:45:39</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>24</generation><has_change_pending>0</has_change_pending><id keyed_name="555555555" type="CAD">4B10DBB0F4E74ACC9322A0E8F885220B</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>555555555</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-13T16:23:30</modified_on><name>77</name><native_file keyed_name="T4HBBF01_v2013.dwg" type="File">C1DCAA58440F42B1849F6DA10DB0F90A</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="T4HBBF01_v2013.pdf" type="File">A34F034843B04DE7869688E1870DD393</viewable_file><item_number>555555555</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="4A466D63A9764225A31AE9ADE82478EF" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><cn_titleblock_name>AD</cn_titleblock_name><config_id keyed_name="AD" type="CAD">4A466D63A9764225A31AE9ADE82478EF</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-09-04T15:10:00</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>1</generation><has_change_pending>0</has_change_pending><id keyed_name="AD" type="CAD">4A466D63A9764225A31AE9ADE82478EF</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>AD</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-09-04T15:10:00</modified_on><name>AD</name><native_file keyed_name="AD.dwg" type="File">2E35909423234E26BF0E135963CCDABE</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="AD.pdf" type="File">8DDA76F32587407C81FB76BF1F065AE5</viewable_file><item_number>AD</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="DF1E2BF3D2024E0E920C793CF7932BF0" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="Template" type="CAD">D28951D28E984EAD9977BF12AC2BEA08</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-13T16:50:30</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>4</generation><has_change_pending>0</has_change_pending><id keyed_name="Template" type="CAD">DF1E2BF3D2024E0E920C793CF7932BF0</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>Template</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-14T12:30:47</modified_on><name>Template</name><native_file keyed_name="Template.dwg" type="File">52AD7F118C4844FB92113D0134E9ED8B</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="0A12345P.pdf" type="File">1E62F5DE1BAB4C9EBF58DC221F392CB0</viewable_file><item_number>Template</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item></Result><Message><event name="pagemax" value="1" /><event name="itemmax" value="4" /><event name="items_with_no_access_count" value="0" /></Message></SOAP-ENV:Body></SOAP-ENV:Envelope>
+2019/09/04 03:14:19====>下載例外錯誤:System.Exception: Not a single item
+   於 Aras.IOM.Item.getProperty(String propertyName, String defaultValue, String lang) 於 E:\Builds\Innovator_RELS11-0-SP12\6920-RELS11-0-SP12\Innovator.git\CompilableCode\IOM.NET\Item.common.cs: 行 1769
+   於 CADIntegration.ComApp.GetCADMappingProperties(Item itm, Int32& smallIcon)
+   於 CADIntegration.ComApp.GetPLMCADObjectToList(List`1 selectItemId)
+   於 CADIntegration.ComApp.DownLoad(Boolean IsCheckout)
+   於 Aras.IOM.Item.getProperty(String propertyName, String defaultValue, String lang) 於 E:\Builds\Innovator_RELS11-0-SP12\6920-RELS11-0-SP12\Innovator.git\CompilableCode\IOM.NET\Item.common.cs: 行 1769
+   於 CADIntegration.ComApp.GetCADMappingProperties(Item itm, Int32& smallIcon)
+   於 CADIntegration.ComApp.GetPLMCADObjectToList(List`1 selectItemId)
+   於 CADIntegration.ComApp.DownLoad(Boolean IsCheckout)
+2019/09/04 03:14:32====>查詢AML:<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:Body><Result><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="FA1FAD32D73048CBAC7C97EDFBFD41C4" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="0A12345P" type="CAD">458FC437ADBE47FE8E299A2394370954</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-13T17:04:12</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>3</generation><has_change_pending>0</has_change_pending><id keyed_name="0A12345P" type="CAD">FA1FAD32D73048CBAC7C97EDFBFD41C4</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>0A12345P</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-14T15:36:02</modified_on><name>0A12345P</name><native_file keyed_name="0A12345P.dwg" type="File">839B993E3D75476D86F548D7B556EE53</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="0A12345P.pdf" type="File">74BA087EA5E248E1B59C6877719ACCFF</viewable_file><item_number>0A12345P</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="4B10DBB0F4E74ACC9322A0E8F885220B" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="555555555" type="CAD">DB0518BC91A546FC88799507D4734940</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-01T23:45:39</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>24</generation><has_change_pending>0</has_change_pending><id keyed_name="555555555" type="CAD">4B10DBB0F4E74ACC9322A0E8F885220B</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>555555555</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-13T16:23:30</modified_on><name>77</name><native_file keyed_name="T4HBBF01_v2013.dwg" type="File">C1DCAA58440F42B1849F6DA10DB0F90A</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="T4HBBF01_v2013.pdf" type="File">A34F034843B04DE7869688E1870DD393</viewable_file><item_number>555555555</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="4A466D63A9764225A31AE9ADE82478EF" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><cn_titleblock_name>AD</cn_titleblock_name><config_id keyed_name="AD" type="CAD">4A466D63A9764225A31AE9ADE82478EF</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-09-04T15:10:00</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>1</generation><has_change_pending>0</has_change_pending><id keyed_name="AD" type="CAD">4A466D63A9764225A31AE9ADE82478EF</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>AD</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-09-04T15:10:00</modified_on><name>AD</name><native_file keyed_name="AD.dwg" type="File">2E35909423234E26BF0E135963CCDABE</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="AD.pdf" type="File">8DDA76F32587407C81FB76BF1F065AE5</viewable_file><item_number>AD</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="DF1E2BF3D2024E0E920C793CF7932BF0" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="Template" type="CAD">D28951D28E984EAD9977BF12AC2BEA08</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-13T16:50:30</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>4</generation><has_change_pending>0</has_change_pending><id keyed_name="Template" type="CAD">DF1E2BF3D2024E0E920C793CF7932BF0</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>Template</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-14T12:30:47</modified_on><name>Template</name><native_file keyed_name="Template.dwg" type="File">52AD7F118C4844FB92113D0134E9ED8B</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="0A12345P.pdf" type="File">1E62F5DE1BAB4C9EBF58DC221F392CB0</viewable_file><item_number>Template</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item></Result><Message><event name="pagemax" value="1" /><event name="itemmax" value="4" /><event name="items_with_no_access_count" value="0" /></Message></SOAP-ENV:Body></SOAP-ENV:Envelope>
+2019/09/04 03:14:33====>查詢AML:<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:Body><Result><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="FA1FAD32D73048CBAC7C97EDFBFD41C4" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="0A12345P" type="CAD">458FC437ADBE47FE8E299A2394370954</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-13T17:04:12</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>3</generation><has_change_pending>0</has_change_pending><id keyed_name="0A12345P" type="CAD">FA1FAD32D73048CBAC7C97EDFBFD41C4</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>0A12345P</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-14T15:36:02</modified_on><name>0A12345P</name><native_file keyed_name="0A12345P.dwg" type="File">839B993E3D75476D86F548D7B556EE53</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="0A12345P.pdf" type="File">74BA087EA5E248E1B59C6877719ACCFF</viewable_file><item_number>0A12345P</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="4B10DBB0F4E74ACC9322A0E8F885220B" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="555555555" type="CAD">DB0518BC91A546FC88799507D4734940</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-01T23:45:39</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>24</generation><has_change_pending>0</has_change_pending><id keyed_name="555555555" type="CAD">4B10DBB0F4E74ACC9322A0E8F885220B</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>555555555</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-13T16:23:30</modified_on><name>77</name><native_file keyed_name="T4HBBF01_v2013.dwg" type="File">C1DCAA58440F42B1849F6DA10DB0F90A</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="T4HBBF01_v2013.pdf" type="File">A34F034843B04DE7869688E1870DD393</viewable_file><item_number>555555555</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="4A466D63A9764225A31AE9ADE82478EF" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><cn_titleblock_name>AD</cn_titleblock_name><config_id keyed_name="AD" type="CAD">4A466D63A9764225A31AE9ADE82478EF</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-09-04T15:10:00</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>1</generation><has_change_pending>0</has_change_pending><id keyed_name="AD" type="CAD">4A466D63A9764225A31AE9ADE82478EF</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>AD</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-09-04T15:10:00</modified_on><name>AD</name><native_file keyed_name="AD.dwg" type="File">2E35909423234E26BF0E135963CCDABE</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="AD.pdf" type="File">8DDA76F32587407C81FB76BF1F065AE5</viewable_file><item_number>AD</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="DF1E2BF3D2024E0E920C793CF7932BF0" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="Template" type="CAD">D28951D28E984EAD9977BF12AC2BEA08</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-13T16:50:30</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>4</generation><has_change_pending>0</has_change_pending><id keyed_name="Template" type="CAD">DF1E2BF3D2024E0E920C793CF7932BF0</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>Template</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-14T12:30:47</modified_on><name>Template</name><native_file keyed_name="Template.dwg" type="File">52AD7F118C4844FB92113D0134E9ED8B</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="0A12345P.pdf" type="File">1E62F5DE1BAB4C9EBF58DC221F392CB0</viewable_file><item_number>Template</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item></Result><Message><event name="pagemax" value="1" /><event name="itemmax" value="4" /><event name="items_with_no_access_count" value="0" /></Message></SOAP-ENV:Body></SOAP-ENV:Envelope>
+2019/09/04 03:21:07====>AD.dwg
+2019/09/04 03:21:19====>
+2019/09/04 03:21:19====>UpdateDataUpdate 更新資料
+2019/09/04 03:21:19====>UpdateDataStart 更新資料
+2019/09/04 03:21:20====>UpdateDataUpdate 更新資料
+2019/09/04 03:21:20====>
+2019/09/04 03:21:22====>//------      簽出檔案    ------//
+AD.dwg
+//------      簽出結束    ------//
+2019/09/04 03:21:22====>
+2019/09/04 03:21:22====>---------Checkout End----------
+2019/09/04 03:21:22====>UpdateDataStart 更新資料
+2019/09/04 03:21:22====>UpdateDataStart 更新資料
+2019/09/04 03:21:25====>UpdateDataStart 更新資料
+2019/09/04 03:21:26====>UpdateDataUpdate 更新資料
+2019/09/04 03:21:26====>UpdateDataUpdate 更新資料
+2019/09/04 03:21:27====>UpdateDataStart 更新資料
+2019/09/04 03:21:27====>UpdateDataStart 更新資料
+2019/09/04 03:21:27====>UpdateDataStart 更新資料
+2019/09/04 03:22:12====>UpdateDataUpdate 更新資料
+2019/09/04 03:22:12====>UpdateDataUpdate 更新資料
+2019/09/04 03:22:20====>UpdateDataStart 更新資料
+2019/09/04 03:22:20====>UpdateDataStart 更新資料
+2019/09/04 03:22:20====>UpdateDataStart 更新資料
+2019/09/04 03:22:20====>UpdateDataStart 更新資料
+2019/09/04 03:22:20====>UpdateDataStart 更新資料
+2019/09/04 03:22:21====>UpdateDataUpdate 更新資料
+2019/09/04 03:22:21====>UpdateDataUpdate 更新資料
+2019/09/04 03:22:21====>UpdateDataUpdate 更新資料
+2019/09/04 03:22:21====>UpdateDataUpdate 更新資料
+2019/09/04 03:22:21====>UpdateDataStart 更新資料
+2019/09/04 03:23:44====>---------SaveProperties Start----------
+2019/09/04 03:23:44====>D:\新增資料夾 (6)\AD.dwg
+2019/09/04 03:23:50====>---------SaveProperties End----------
+2019/09/04 03:23:51====>---------CAD Manager Start----------
+2019/09/04 03:23:52====>---------CAD Manager End----------
+2019/09/04 03:23:55====>
+===================
+<Item isNew="1" isTemp="1" type="CAD" action="get"><classification>Mechanical/Drawing</classification><item_number>AD</item_number><is_current>1</is_current></Item>
+
+2019/09/04 03:23:55====>
+===================
+<Item isNew="1" isTemp="1" type="CAD" action="get"><classification>Mechanical/Drawing</classification><item_number>AD</item_number><is_current>1</is_current></Item>
+
+2019/09/04 03:24:03====>執行中........
+
+2019/09/04 03:24:23====>取得訊息整合成功
+2019/09/04 03:24:28====>D:\新增資料夾 (6)\AD.dwg簽入完成
+2019/09/04 03:24:28====>執行BOM簽入中........
+
+2019/09/04 03:24:28====>執行BOM簽入結束........
+
+2019/09/04 03:24:47====>UpdateDataUpdate 更新資料
+2019/09/04 03:24:47====>UpdateDataUpdate 更新資料
+2019/09/04 03:24:47====>UpdateDataUpdate 更新資料
+2019/09/04 03:24:48====>
+2019/09/04 03:24:48====>
+2019/09/04 03:24:49====>UpdateDataStart 更新資料
+2019/09/04 03:24:50====>UpdateDataUpdate 更新資料
+2019/09/04 03:24:50====>
+2019/09/04 03:24:50====>
+2019/09/04 03:24:50====>UpdateDataUpdate 更新資料
+2019/09/04 03:24:50====>UpdateDataUpdate 更新資料
+2019/09/04 03:24:50====>UpdateDataUpdate 更新資料
+2019/09/04 03:25:08====>---------Checkout Start----------
+2019/09/04 03:25:12====>查詢AML:<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:Body><Result><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="FA1FAD32D73048CBAC7C97EDFBFD41C4" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="0A12345P" type="CAD">458FC437ADBE47FE8E299A2394370954</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-13T17:04:12</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>3</generation><has_change_pending>0</has_change_pending><id keyed_name="0A12345P" type="CAD">FA1FAD32D73048CBAC7C97EDFBFD41C4</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>0A12345P</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-14T15:36:02</modified_on><name>0A12345P</name><native_file keyed_name="0A12345P.dwg" type="File">839B993E3D75476D86F548D7B556EE53</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="0A12345P.pdf" type="File">74BA087EA5E248E1B59C6877719ACCFF</viewable_file><item_number>0A12345P</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="4B10DBB0F4E74ACC9322A0E8F885220B" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="555555555" type="CAD">DB0518BC91A546FC88799507D4734940</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-01T23:45:39</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>24</generation><has_change_pending>0</has_change_pending><id keyed_name="555555555" type="CAD">4B10DBB0F4E74ACC9322A0E8F885220B</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>555555555</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-13T16:23:30</modified_on><name>77</name><native_file keyed_name="T4HBBF01_v2013.dwg" type="File">C1DCAA58440F42B1849F6DA10DB0F90A</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="T4HBBF01_v2013.pdf" type="File">A34F034843B04DE7869688E1870DD393</viewable_file><item_number>555555555</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="77A63EC1885C4F588FAC791F3A23DC5D" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><cn_titleblock_name>AD</cn_titleblock_name><config_id keyed_name="AD" type="CAD">4A466D63A9764225A31AE9ADE82478EF</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-09-04T15:10:00</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>2</generation><has_change_pending>0</has_change_pending><id keyed_name="AD" type="CAD">77A63EC1885C4F588FAC791F3A23DC5D</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>AD</keyed_name><locked_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</locked_by_id><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-09-04T15:24:28</modified_on><name>AD</name><native_file keyed_name="AD.dwg" type="File">7EEF361FA33D422D98E1D6B9BC2110D8</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="AD.pdf" type="File">132F29AC43D2462E83A0CE334028C613</viewable_file><item_number>AD</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="DF1E2BF3D2024E0E920C793CF7932BF0" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="Template" type="CAD">D28951D28E984EAD9977BF12AC2BEA08</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-13T16:50:30</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>4</generation><has_change_pending>0</has_change_pending><id keyed_name="Template" type="CAD">DF1E2BF3D2024E0E920C793CF7932BF0</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>Template</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-14T12:30:47</modified_on><name>Template</name><native_file keyed_name="Template.dwg" type="File">52AD7F118C4844FB92113D0134E9ED8B</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="0A12345P.pdf" type="File">1E62F5DE1BAB4C9EBF58DC221F392CB0</viewable_file><item_number>Template</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item></Result><Message><event name="pagemax" value="1" /><event name="itemmax" value="4" /><event name="items_with_no_access_count" value="0" /></Message></SOAP-ENV:Body></SOAP-ENV:Envelope>
+2019/09/04 03:25:19====>查詢AML:<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:Body><Result><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="FA1FAD32D73048CBAC7C97EDFBFD41C4" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="0A12345P" type="CAD">458FC437ADBE47FE8E299A2394370954</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-13T17:04:12</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>3</generation><has_change_pending>0</has_change_pending><id keyed_name="0A12345P" type="CAD">FA1FAD32D73048CBAC7C97EDFBFD41C4</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>0A12345P</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-14T15:36:02</modified_on><name>0A12345P</name><native_file keyed_name="0A12345P.dwg" type="File">839B993E3D75476D86F548D7B556EE53</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="0A12345P.pdf" type="File">74BA087EA5E248E1B59C6877719ACCFF</viewable_file><item_number>0A12345P</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="4B10DBB0F4E74ACC9322A0E8F885220B" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="555555555" type="CAD">DB0518BC91A546FC88799507D4734940</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-01T23:45:39</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>24</generation><has_change_pending>0</has_change_pending><id keyed_name="555555555" type="CAD">4B10DBB0F4E74ACC9322A0E8F885220B</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>555555555</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-13T16:23:30</modified_on><name>77</name><native_file keyed_name="T4HBBF01_v2013.dwg" type="File">C1DCAA58440F42B1849F6DA10DB0F90A</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="T4HBBF01_v2013.pdf" type="File">A34F034843B04DE7869688E1870DD393</viewable_file><item_number>555555555</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="77A63EC1885C4F588FAC791F3A23DC5D" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><cn_titleblock_name>AD</cn_titleblock_name><config_id keyed_name="AD" type="CAD">4A466D63A9764225A31AE9ADE82478EF</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-09-04T15:10:00</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>2</generation><has_change_pending>0</has_change_pending><id keyed_name="AD" type="CAD">77A63EC1885C4F588FAC791F3A23DC5D</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>AD</keyed_name><locked_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</locked_by_id><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-09-04T15:24:28</modified_on><name>AD</name><native_file keyed_name="AD.dwg" type="File">7EEF361FA33D422D98E1D6B9BC2110D8</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="AD.pdf" type="File">132F29AC43D2462E83A0CE334028C613</viewable_file><item_number>AD</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="DF1E2BF3D2024E0E920C793CF7932BF0" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="Template" type="CAD">D28951D28E984EAD9977BF12AC2BEA08</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-13T16:50:30</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>4</generation><has_change_pending>0</has_change_pending><id keyed_name="Template" type="CAD">DF1E2BF3D2024E0E920C793CF7932BF0</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>Template</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-14T12:30:47</modified_on><name>Template</name><native_file keyed_name="Template.dwg" type="File">52AD7F118C4844FB92113D0134E9ED8B</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="0A12345P.pdf" type="File">1E62F5DE1BAB4C9EBF58DC221F392CB0</viewable_file><item_number>Template</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item></Result><Message><event name="pagemax" value="1" /><event name="itemmax" value="4" /><event name="items_with_no_access_count" value="0" /></Message></SOAP-ENV:Body></SOAP-ENV:Envelope>
+2019/09/04 03:25:23====>---------Checkout End----------
+2019/09/04 03:28:34====>取得訊息整合成功
+2019/09/04 03:28:35====>UpdateDataStart 更新資料
+2019/09/04 03:28:36====>UpdateDataUpdate 更新資料
+2019/09/04 03:28:36====>UpdateDataUpdate 更新資料
+2019/09/04 03:28:38====>UpdateDataUpdate 更新資料
+2019/09/04 03:28:39====>---------Login Start----------
+2019/09/04 03:28:50====>Login Success
+2019/09/04 03:28:50====>---------Login End----------
+2019/09/04 03:28:53====>---------Checkout Start----------
+2019/09/04 03:28:54====>
+2019/09/04 03:29:00====>---------Checkout End----------
+2019/09/04 03:29:07====>---------Checkout Start----------
+2019/09/04 03:29:10====>
+2019/09/04 03:29:13====>---------Checkout End----------
+2019/09/04 03:29:20====>---------Checkout Start----------
+2019/09/04 03:29:25====>
+2019/09/04 03:29:26====>---------Checkout End----------
+2019/09/04 03:29:49====>---------Checkout Start----------
+2019/09/04 03:29:50====>
+2019/09/04 03:29:52====>---------Checkout End----------
+2019/09/04 03:29:55====>UpdateDataUpdate 更新資料
+2019/09/04 03:29:55====>UpdateDataUpdate 更新資料
+2019/09/04 03:29:55====>UpdateDataUpdate 更新資料
+2019/09/04 03:29:55====>UpdateDataUpdate 更新資料
+2019/09/04 03:30:37====>取得訊息整合成功
+2019/09/04 03:30:45====>UpdateDataStart 更新資料
+2019/09/04 03:30:45====>UpdateDataUpdate 更新資料
+2019/09/04 03:30:45====>UpdateDataUpdate 更新資料
+2019/09/04 03:30:46====>UpdateDataUpdate 更新資料
+2019/09/04 03:30:49====>---------Login Start----------
+2019/09/04 03:31:00====>Login Success
+2019/09/04 03:31:00====>---------Login End----------
+2019/09/04 03:31:09====>---------Checkin Start----------
+2019/09/04 03:31:09====>
+===================
+<Item isNew="1" isTemp="1" type="CAD" action="get"><classification>Mechanical/Drawing</classification><item_number>AD</item_number><is_current>1</is_current></Item>
+
+2019/09/04 03:31:09====>
+===================
+<Item isNew="1" isTemp="1" type="CAD" action="get"><classification>Mechanical/Drawing</classification><item_number>AD</item_number><is_current>1</is_current></Item>
+
+2019/09/04 03:31:10====>
+<?xml version="1.0" encoding="utf-16"?>
+<CADBOM xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part_bom_quantity />
+  <id>4A466D63A9764225A31AE9ADE82478EF</id>
+  <last_id>77A63EC1885C4F588FAC791F3A23DC5D</last_id>
+  <name>AD.dwg</name>
+  <filePath>C:\Users\Administrator\Desktop\AD.dwg</filePath>
+  <state>self</state>
+  <isEdited>false</isEdited>
+  <classification>Mechanical/Drawing</classification>
+  <level>1</level>
+  <is_current>0</is_current>
+  <treeSmallIcon>6</treeSmallIcon>
+  <thumbnail />
+  <major_rev>A</major_rev>
+  <generation>1</generation>
+  <plm_state />
+  <plm_major_rev>A</plm_major_rev>
+  <plm_generation>2</plm_generation>
+  <cad_fileSize>0</cad_fileSize>
+  <plm_fileSize>42415</plm_fileSize>
+  <isDrawing>false</isDrawing>
+  <isCheckIn>false</isCheckIn>
+  <isCheckout>false</isCheckout>
+  <isCheckInDrawing>false</isCheckInDrawing>
+  <isCheckoutDrawing>false</isCheckoutDrawing>
+  <isApplySuccess>false</isApplySuccess>
+  <error_message />
+  <checkinRuleState />
+  <configuration_list />
+  <bom />
+  <part_bom />
+  <drawingList />
+  <properties>
+    <Property>
+      <field_name>item_number</field_name>
+      <field_value>AD</field_value>
+    </Property>
+    <Property>
+      <field_name>name</field_name>
+      <field_value>AD</field_value>
+    </Property>
+    <Property>
+      <field_name>classification</field_name>
+      <field_value>Mechanical/Drawing</field_value>
+    </Property>
+    <Property>
+      <field_name>major_rev</field_name>
+      <field_value>A</field_value>
+    </Property>
+    <Property>
+      <field_name>generation</field_name>
+      <field_value>1</field_value>
+    </Property>
+    <Property>
+      <field_name>id</field_name>
+      <field_value>4A466D63A9764225A31AE9ADE82478EF</field_value>
+    </Property>
+    <Property>
+      <field_name>authoring_tool</field_name>
+      <field_value>AutoCAD</field_value>
+    </Property>
+    <Property>
+      <field_name>viewable_file</field_name>
+      <field_value>8DDA76F32587407C81FB76BF1F065AE5</field_value>
+    </Property>
+    <Property>
+      <field_name>is_current</field_name>
+      <field_value>1</field_value>
+    </Property>
+    <Property>
+      <field_name>cn_titleblock_name</field_name>
+      <field_value>AD</field_value>
+    </Property>
+  </properties>
+  <configuration_structure />
+</CADBOM>
+2019/09/04 03:31:10====>C:\Users\Administrator\Desktop\AD.dwg
+2019/09/04 03:31:14====>
+2019/09/04 03:31:14====>---------Checkin End----------
+2019/09/04 03:31:17====>---------Checkout Start----------
+2019/09/04 03:31:52====>查詢AML:<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:Body><Result><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="FA1FAD32D73048CBAC7C97EDFBFD41C4" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="0A12345P" type="CAD">458FC437ADBE47FE8E299A2394370954</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-13T17:04:12</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>3</generation><has_change_pending>0</has_change_pending><id keyed_name="0A12345P" type="CAD">FA1FAD32D73048CBAC7C97EDFBFD41C4</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>0A12345P</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-14T15:36:02</modified_on><name>0A12345P</name><native_file keyed_name="0A12345P.dwg" type="File">839B993E3D75476D86F548D7B556EE53</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="0A12345P.pdf" type="File">74BA087EA5E248E1B59C6877719ACCFF</viewable_file><item_number>0A12345P</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="4B10DBB0F4E74ACC9322A0E8F885220B" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="555555555" type="CAD">DB0518BC91A546FC88799507D4734940</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-01T23:45:39</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>24</generation><has_change_pending>0</has_change_pending><id keyed_name="555555555" type="CAD">4B10DBB0F4E74ACC9322A0E8F885220B</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>555555555</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-13T16:23:30</modified_on><name>77</name><native_file keyed_name="T4HBBF01_v2013.dwg" type="File">C1DCAA58440F42B1849F6DA10DB0F90A</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="T4HBBF01_v2013.pdf" type="File">A34F034843B04DE7869688E1870DD393</viewable_file><item_number>555555555</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="77A63EC1885C4F588FAC791F3A23DC5D" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><cn_titleblock_name>AD</cn_titleblock_name><config_id keyed_name="AD" type="CAD">4A466D63A9764225A31AE9ADE82478EF</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-09-04T15:10:00</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>2</generation><has_change_pending>0</has_change_pending><id keyed_name="AD" type="CAD">77A63EC1885C4F588FAC791F3A23DC5D</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>AD</keyed_name><locked_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</locked_by_id><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-09-04T15:24:28</modified_on><name>AD</name><native_file keyed_name="AD.dwg" type="File">7EEF361FA33D422D98E1D6B9BC2110D8</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="AD.pdf" type="File">132F29AC43D2462E83A0CE334028C613</viewable_file><item_number>AD</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item><Item type="CAD" typeId="CCF205347C814DD1AF056875E0A880AC" id="DF1E2BF3D2024E0E920C793CF7932BF0" page="1" pagemax="1" itemmax="4"><authoring_tool>AutoCAD</authoring_tool><classification>Mechanical/Drawing</classification><config_id keyed_name="Template" type="CAD">D28951D28E984EAD9977BF12AC2BEA08</config_id><created_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</created_by_id><created_on>2019-08-13T16:50:30</created_on><current_state name="Preliminary" keyed_name="Preliminary" type="Life Cycle State">A29C9720FF0D4950A140A90BEEA903DA</current_state><generation>4</generation><has_change_pending>0</has_change_pending><id keyed_name="Template" type="CAD">DF1E2BF3D2024E0E920C793CF7932BF0</id><is_current>1</is_current><is_released>0</is_released><is_standard>0</is_standard><is_template>0</is_template><keyed_name>Template</keyed_name><major_rev>A</major_rev><modified_by_id keyed_name="Innovator Admin" type="User">30B991F927274FA3829655F50C99472E</modified_by_id><modified_on>2019-08-14T12:30:47</modified_on><name>Template</name><native_file keyed_name="Template.dwg" type="File">52AD7F118C4844FB92113D0134E9ED8B</native_file><new_version>0</new_version><not_lockable>0</not_lockable><permission_id keyed_name="New CAD" type="Permission">EA3ED7E7391542D7A17AF2F42B5274ED</permission_id><state>Preliminary</state><viewable_file keyed_name="0A12345P.pdf" type="File">1E62F5DE1BAB4C9EBF58DC221F392CB0</viewable_file><item_number>Template</item_number><itemtype>CCF205347C814DD1AF056875E0A880AC</itemtype></Item></Result><Message><event name="pagemax" value="1" /><event name="itemmax" value="4" /><event name="items_with_no_access_count" value="0" /></Message></SOAP-ENV:Body></SOAP-ENV:Envelope>
+2019/09/04 03:31:58====>AD.dwg
+2019/09/04 03:32:02====>
+2019/09/04 03:32:02====>---------Checkout End----------
